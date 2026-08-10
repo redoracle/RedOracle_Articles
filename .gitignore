@@ -25,7 +25,6 @@ Thumbs.db
 # Node (if tooling is added later)
 node_modules/
 package-lock.json
-pnpm-lock.yaml
 
 # Environment
 .env

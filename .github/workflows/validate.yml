@@ -1,0 +1,65 @@
+name: Validate Articles
+
+on:
+  pull_request:
+    paths:
+      - 'articles/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/validate.yml'
+  push:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Regenerate manifest to temp
+        run: node scripts/generate-index.mjs --output /tmp/index-expected.json
+        continue-on-error: true
+
+      # If --output flag not supported, generate in place and compare
+      - name: Generate expected manifest
+        run: |
+          cp articles/index.json /tmp/index-committed.json
+          node scripts/generate-index.mjs
+          cp articles/index.json /tmp/index-expected.json
+          cp /tmp/index-committed.json articles/index.json
+
+      - name: Byte-for-byte comparison
+        run: |
+          if ! diff -q /tmp/index-committed.json /tmp/index-expected.json > /dev/null; then
+            echo "FAIL: articles/index.json is stale or differs from generator output."
+            echo "Run 'pnpm generate-index' and commit the result."
+            diff /tmp/index-committed.json /tmp/index-expected.json | head -20
+            exit 1
+          fi
+          echo "PASS: Committed manifest matches generator output."
+
+      - name: Run independent validator
+        run: pnpm validate
+
+      - name: Determinism check
+        run: |
+          HASH1=$(sha256sum articles/index.json | awk '{print $1}')
+          pnpm generate-index > /dev/null 2>&1
+          HASH2=$(sha256sum articles/index.json | awk '{print $1}')
+          if [ "$HASH1" != "$HASH2" ]; then
+            echo "FAIL: Generator is non-deterministic"
+            exit 1
+          fi
+          echo "PASS: Generator is deterministic."
