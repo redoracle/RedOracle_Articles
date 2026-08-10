@@ -30,6 +30,7 @@ RedOracle's mission is to help organizations understand risk, strengthen systems
 ```
 RedOracle_Articles/
 ├── articles/                  # All published articles (Markdown with frontmatter)
+│   └── index.json             # Sorted index of all articles (remote-readable)
 ├── images/                    # Article images and assets
 ├── .github/
 │   ├── ISSUE_TEMPLATE/        # Bug report & article request templates
@@ -109,6 +110,63 @@ Article body begins here...
 | **Filename** | `Title-With-Dashes.md` | `AI-Powered-Cybersecurity-Strategies.md` |
 | **ID** | `Title-With-Dashes-YYYY-MM-DD` | `AI-Powered-Cybersecurity-Strategies-2025-08-16` |
 | **Date** | ISO 8601 (`YYYY-MM-DD`) | `2025-08-16` |
+
+---
+
+## Article Index (`index.json`)
+
+A machine-readable index of all articles is available at **[`articles/index.json`](./articles/index.json)**. Instead of enumerating 386 individual Markdown files, consumers can fetch this single JSON file to browse, search, or sync article metadata.
+
+### Usage
+
+```bash
+# Fetch the index remotely
+curl -sL https://raw.githubusercontent.com/redoracle/RedOracle_Articles/main/articles/index.json | jq .
+
+# Get the 5 newest articles
+curl -sL https://raw.githubusercontent.com/redoracle/RedOracle_Articles/main/articles/index.json \
+  | jq '.articles[0:5] | .[] | {title, date, url}'
+
+# Search articles by tag
+curl -sL https://raw.githubusercontent.com/redoracle/RedOracle_Articles/main/articles/index.json \
+  | jq '.articles[] | select(.tags | index("ransomware")) | {title, date, url}'
+```
+
+### Schema
+
+```json
+{
+  "source": "https://redoracle.com",
+  "total": 386,
+  "articles": [
+    {
+      "file": "Article-Title.md",
+      "title": "Article Title",
+      "date": "2025-09-07",
+      "id": "Article-Title-2025-09-07",
+      "categories": ["News"],
+      "tags": ["tag1", "tag2", "tag3"],
+      "url": "https://redoracle.com/News/Article-Title.html",
+      "image": "https://storage.googleapis.com/red_articles/Article-Title.png",
+      "datePublished": "2025-09-07T09:06:59.170Z"
+    }
+  ]
+}
+```
+
+| Field | Type | Description |
+|---|---|---|
+| `file` | string | Markdown filename in `articles/` |
+| `title` | string | Article headline |
+| `date` | string | Publication date (`YYYY-MM-DD`) |
+| `id` | string | Unique article identifier |
+| `categories` | string[] | Frontmatter categories |
+| `tags` | string[] | Article tags |
+| `url` | string | Article URL on redoracle.com |
+| `image` | string\|null | Thumbnail/image URL |
+| `datePublished` | string\|null | ISO 8601 timestamp (where available) |
+
+Entries are sorted by `date` descending (newest first).
 
 ---
 
