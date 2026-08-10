@@ -1,27 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:371df5681a0eed220e69b93e475308c34d8cb21422aba0f384d119ddd296bfac",
-  "total": 387,
+  "revision": "sha256:58ef04cdb72a0160415db40957113ce20590cdff15ad592900c5db89bf06d07c",
+  "total": 386,
   "articles": [
-    {
-      "slug": "Test-Rehearsal-Article",
-      "file": "Test-Rehearsal-Article.md",
-      "title": "Test Rehearsal Article",
-      "description": "This is a publication rehearsal article created to verify that new articles can be published to the RedOracle website without requiring a website rebuild.",
-      "date": "2026-08-10",
-      "id": "Test-Rehearsal-Article-2026-08-10",
-      "categories": [],
-      "tags": [
-        "Testing",
-        "CI/CD",
-        "Publication Rehearsal"
-      ],
-      "url": "https://redoracle.com/News/Test-Rehearsal-Article.html",
-      "image": "",
-      "readingTime": 1,
-      "contentHash": "sha256:8b90668eceb22cfca020e91689ff23c5118117b84ae295dfa803e5e67cef8588"
-    },
     {
       "slug": "Clarksons-Farmers-Dog-Pub-Hit-by-Cyberattack-With-27000-Loss-Highlighting-Hospitality-Risk",
       "file": "Clarksons-Farmers-Dog-Pub-Hit-by-Cyberattack-With-27000-Loss-Highlighting-Hospitality-Risk.md",
