@@ -1,0 +1,8 @@
+# These owners will be automatically requested for review
+# when pull requests are opened against this repository.
+
+# Default owners for the entire repository
+*                        @redoracle
+
+# Article content
+/articles/               @redoracle
