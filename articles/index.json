@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:06871ca85851958cabdb8ce7ccf39fc9deb90af42528a78bf66795907d6f2a89",
-  "total": 389,
+  "revision": "sha256:cb6e9c490223420d318fb820cefb4d678725015fcc0bbd0dc05cd60e019df28f",
+  "total": 390,
   "articles": [
     {
       "slug": "lazarus-dream-job-windows-zero-day",
@@ -64,6 +64,32 @@
       "image": "https://storage.googleapis.com/red_articles/microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.avif",
       "readingTime": 4,
       "contentHash": "sha256:e4b12aae8d3df65d281dce718a41be5329030cb5df26e7f43a5e1e2ca5a214a9"
+    },
+    {
+      "slug": "signal-automatic-key-verification-detect-tampering",
+      "file": "signal-automatic-key-verification-detect-tampering.md",
+      "title": "Signal launches automatic key verification to detect tampering in encrypted chats",
+      "description": "Signal announced a new feature called \"automatic key verification\" on 2026-08-12. The feature uses key transparency and third-party auditors to check that encryption keys used in Signal conversations …",
+      "date": "2026-08-12",
+      "datePublished": "2026-08-12T17:09:04.083Z",
+      "id": "signal-automatic-key-verification-detect-tampering-2026-08-12",
+      "categories": [
+        "News"
+      ],
+      "tags": [
+        "automatic key verification",
+        "key transparency",
+        "end-to-end encryption",
+        "Safety Numbers",
+        "Cloudflare",
+        "Trail of Bits",
+        "Katherine Yen",
+        "Signal"
+      ],
+      "url": "https://redoracle.com/News/signal-automatic-key-verification-detect-tampering.html",
+      "image": "https://storage.googleapis.com/red_articles/signal-automatic-key-verification-detect-tampering.avif",
+      "readingTime": 3,
+      "contentHash": "sha256:0f632cd14768f4fc39c85031b70b344199c1de3f9fcc3206ee6d1196eb6e5124"
     },
     {
       "slug": "signal-automatic-key-verification-launch",
