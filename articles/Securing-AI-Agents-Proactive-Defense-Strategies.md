@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing AI Agents Proactive Defense Strategies",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-AI-Agents-Proactive-Defense-Strategies.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-AI-Agents-Proactive-Defense-Strategies.avif"],
         "datePublished": "2025-06-05T10:17:48.264Z",
         "dateModified": "2025-06-05T10:17:48.264Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Securing-AI-Agents-Proactive-Defense-Strategies.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-AI-Agents-Proactive-Defense-Strategies.avif)
 
 ## Introduction
 

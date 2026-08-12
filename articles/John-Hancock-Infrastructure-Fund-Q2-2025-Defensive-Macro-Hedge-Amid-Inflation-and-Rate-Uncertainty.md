@@ -37,7 +37,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“John Hancock Infrastructure Fund Q2 2025 Defensive Macro Hedge Amid Inflation and Rate Uncertainty”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/John-Hancock-Infrastructure-Fund-Q2-2025-Defensive-Macro-Hedge-Amid-Inflation-and-Rate-Uncertainty.avif"],
         "datePublished": "2025-08-25T07:02:53.984Z",
         "dateModified": "2025-08-25T07:02:53.984Z",
         "author": {
@@ -49,7 +49,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -59,7 +59,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“John-Hancock-Infrastructure-Fund-Q2-2025-Defensive-Macro-Hedge-Amid-Inflation-and-Rate-Uncertainty”.png)
+![Image](https://storage.googleapis.com/red_articles/“John-Hancock-Infrastructure-Fund-Q2-2025-Defensive-Macro-Hedge-Amid-Inflation-and-Rate-Uncertainty”.avif)
 
 ## Introduction
 

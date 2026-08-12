@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Workspaces USB-C Gadgets",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Workspaces-USB-C-Gadgets.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Workspaces-USB-C-Gadgets.avif"],
         "datePublished": "2025-08-03T18:30:41.763Z",
         "dateModified": "2025-08-03T18:30:41.763Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Workspaces-USB-C-Gadgets.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Workspaces-USB-C-Gadgets.avif)
 
 ## Introduction
 

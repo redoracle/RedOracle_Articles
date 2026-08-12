@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Breach on Dutch Highways",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Breach-on-Dutch-Highways.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Breach-on-Dutch-Highways.avif"],
         "datePublished": "2025-08-16T12:16:33.796Z",
         "dateModified": "2025-08-16T12:16:33.796Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-on-Dutch-Highways.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-on-Dutch-Highways.avif)
 
 ## Introduction
 

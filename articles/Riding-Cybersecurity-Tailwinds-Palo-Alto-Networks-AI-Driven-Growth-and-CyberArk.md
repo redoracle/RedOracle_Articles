@@ -45,7 +45,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Riding Cybersecurity Tailwinds Palo Alto Networks AI-Driven Growth and CyberArk”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk.avif"],
         "datePublished": "2025-09-04T20:37:09.917Z",
         "dateModified": "2025-09-04T20:37:09.917Z",
         "author": {
@@ -57,7 +57,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -67,7 +67,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk”.png)
+![Image](https://storage.googleapis.com/red_articles/“Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk”.avif)
 
 ## Introduction
 
@@ -130,7 +130,7 @@ Palo Alto Networks stands to benefit materially from persistent cybersecurity ta
 ## Fact Checking and Sources
 
 - Core coverage and page https://redoracle.com/News/Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk”.html
-- Image asset https://storage.googleapis.com/red_articles/“Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk”.png
+- Image asset https://storage.googleapis.com/red_articles/“Riding-Cybersecurity-Tailwinds-Palo-Alto-Networks-AI-Driven-Growth-and-CyberArk”.avif
 - Palo Alto Networks investor relations https://investors.paloaltonetworks.com
 - CyberArk corporate site https://www.cyberark.com
 - Seeking Alpha general site for coverage reference https://seekingalpha.com

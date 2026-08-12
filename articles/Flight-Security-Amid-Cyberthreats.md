@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Flight Security Amid Cyberthreats",
-        "image": ["https://storage.googleapis.com/red_articles/Flight-Security-Amid-Cyberthreats.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Flight-Security-Amid-Cyberthreats.avif"],
         "datePublished": "2025-08-10T14:22:44.697Z",
         "dateModified": "2025-08-10T14:22:44.697Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Flight-Security-Amid-Cyberthreats.png)
+![Image](https://storage.googleapis.com/red_articles/Flight-Security-Amid-Cyberthreats.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Massive Mobile Fingerprint Leak Hits SK Telecom",
-        "image": ["https://storage.googleapis.com/red_articles/Massive-Mobile-Fingerprint-Leak-Hits-SK-Telecom.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Massive-Mobile-Fingerprint-Leak-Hits-SK-Telecom.avif"],
         "datePublished": "2025-05-20T09:09:20.004Z",
         "dateModified": "2025-05-20T09:09:20.004Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Massive-Mobile-Fingerprint-Leak-Hits-SK-Telecom.png)
+![Image](https://storage.googleapis.com/red_articles/Massive-Mobile-Fingerprint-Leak-Hits-SK-Telecom.avif)
 
 ## Introduction
 

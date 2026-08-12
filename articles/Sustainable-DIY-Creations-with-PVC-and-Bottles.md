@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Sustainable DIY Creations with PVC and Bottles",
-        "image": ["https://storage.googleapis.com/red_articles/Sustainable-DIY-Creations-with-PVC-and-Bottles.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Sustainable-DIY-Creations-with-PVC-and-Bottles.avif"],
         "datePublished": "2025-07-06T09:02:15.705Z",
         "dateModified": "2025-07-06T09:02:15.705Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Sustainable-DIY-Creations-with-PVC-and-Bottles.png)
+![Image](https://storage.googleapis.com/red_articles/Sustainable-DIY-Creations-with-PVC-and-Bottles.avif)
 
 ## Introduction
 

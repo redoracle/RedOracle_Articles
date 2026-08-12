@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cyber Warfare Alert Pro-Iranian Hack Threats Surge",
-        "image": ["https://storage.googleapis.com/red_articles/Cyber-Warfare-Alert-Pro-Iranian-Hack-Threats-Surge.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cyber-Warfare-Alert-Pro-Iranian-Hack-Threats-Surge.avif"],
         "datePublished": "2025-06-25T06:02:19.699Z",
         "dateModified": "2025-06-25T06:02:19.699Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Warfare-Alert-Pro-Iranian-Hack-Threats-Surge.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Warfare-Alert-Pro-Iranian-Hack-Threats-Surge.avif)
 
 ## Introduction
 

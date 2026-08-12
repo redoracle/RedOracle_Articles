@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling Angel One's Cyber Crisis",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Angel-Ones-Cyber-Crisis.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T09:30:30+10:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Unveiling Angel One's Cyber Crisis
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Angel-Ones-Cyber-Crisis.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Angel-Ones-Cyber-Crisis.avif)
 
 ## Introduction
 

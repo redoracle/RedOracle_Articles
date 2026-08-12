@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Protecting Personal Data ATLAS CPAs Breach Investigation",
-        "image": ["https://storage.googleapis.com/red_articles/Protecting-Personal-Data-ATLAS-CPAs-Breach-Investigation.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Protecting-Personal-Data-ATLAS-CPAs-Breach-Investigation.avif"],
         "datePublished": "2025-04-18T06:02:26.983Z",
         "dateModified": "2025-04-18T06:02:26.983Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Protecting Personal Data ATLAS CPAs Breach Investigation
 
-![Image](https://storage.googleapis.com/red_articles/Protecting-Personal-Data-ATLAS-CPAs-Breach-Investigation.png)
+![Image](https://storage.googleapis.com/red_articles/Protecting-Personal-Data-ATLAS-CPAs-Breach-Investigation.avif)
 
 ## Introduction
 

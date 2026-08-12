@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Ensuring Data Security in Education The PowerSchool Incident Analysis",
-        "image": ["https://storage.googleapis.com/red_articles/Ensuring-Data-Security-in-Education-The-PowerSchool-Incident-Analysis.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Ensuring-Data-Security-in-Education-The-PowerSchool-Incident-Analysis.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T08:00:00+00:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Ensuring Data Security in Education The PowerSchool Incident Analysis
 
-![Image](https://storage.googleapis.com/red_articles/Ensuring-Data-Security-in-Education-The-PowerSchool-Incident-Analysis.png)
+![Image](https://storage.googleapis.com/red_articles/Ensuring-Data-Security-in-Education-The-PowerSchool-Incident-Analysis.avif)
 
 ## Introduction
 

@@ -35,7 +35,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Garda Síochána Spyware Purchase Prompts Governance and Privacy Debate",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Garda-Siochana-Spyware-Purchase-Prompts-Governance-and-Privacy-Debate.avif"],
         "datePublished": "2025-09-04T14:20:18.053Z",
         "dateModified": "2025-09-04T14:20:18.053Z",
         "author": {
@@ -47,7 +47,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -57,7 +57,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Garda-Siochana-Spyware-Purchase-Prompts-Governance-and-Privacy-Debate.png)
+![Image](https://storage.googleapis.com/red_articles/Garda-Siochana-Spyware-Purchase-Prompts-Governance-and-Privacy-Debate.avif)
 
 ## Introduction
 

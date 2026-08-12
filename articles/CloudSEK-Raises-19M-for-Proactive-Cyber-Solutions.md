@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "CloudSEK Raises $19M for Proactive Cyber Solutions",
-        "image": ["https://storage.googleapis.com/red_articles/CloudSEK-Raises-19M-for-Proactive-Cyber-Solutions.png"],
+        "image": ["https://storage.googleapis.com/red_articles/CloudSEK-Raises-19M-for-Proactive-Cyber-Solutions.avif"],
         "datePublished": "2025-05-20T07:02:33.583Z",
         "dateModified": "2025-05-20T07:02:33.583Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/CloudSEK-Raises-19M-for-Proactive-Cyber-Solutions.png)
+![Image](https://storage.googleapis.com/red_articles/CloudSEK-Raises-19M-for-Proactive-Cyber-Solutions.avif)
 
 ## Introduction
 

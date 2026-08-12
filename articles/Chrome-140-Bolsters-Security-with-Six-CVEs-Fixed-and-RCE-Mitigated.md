@@ -39,7 +39,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Chrome 140 Bolsters Security with Six CVEs Fixed and RCE Mitigated",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Chrome-140-Bolsters-Security-with-Six-CVEs-Fixed-and-RCE-Mitigated.avif"],
         "datePublished": "2025-09-04T23:45:05.402Z",
         "dateModified": "2025-09-04T23:45:05.402Z",
         "author": {
@@ -51,7 +51,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -61,7 +61,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Chrome-140-Bolsters-Security-with-Six-CVEs-Fixed-and-RCE-Mitigated.png)
+![Image](https://storage.googleapis.com/red_articles/Chrome-140-Bolsters-Security-with-Six-CVEs-Fixed-and-RCE-Mitigated.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "ShiftingCybersecurityPolicy",
-        "image": ["https://storage.googleapis.com/red_articles/ShiftingCybersecurityPolicy.png"],
+        "image": ["https://storage.googleapis.com/red_articles/ShiftingCybersecurityPolicy.avif"],
         "datePublished": "2025-06-08T07:02:01.882Z",
         "dateModified": "2025-06-08T07:02:01.882Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/ShiftingCybersecurityPolicy.png)
+![Image](https://storage.googleapis.com/red_articles/ShiftingCybersecurityPolicy.avif)
 
 ## Introduction
 

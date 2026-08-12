@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Vulnerabilities in Retired Network Devices",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Vulnerabilities-in-Retired-Network-Devices.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Vulnerabilities-in-Retired-Network-Devices.avif"],
         "datePublished": "2025-08-06T09:03:13.414Z",
         "dateModified": "2025-08-06T09:03:13.414Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Vulnerabilities-in-Retired-Network-Devices.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Vulnerabilities-in-Retired-Network-Devices.avif)
 
 ## Introduction
 

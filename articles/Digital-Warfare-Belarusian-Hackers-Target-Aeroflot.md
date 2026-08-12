@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Digital Warfare Belarusian Hackers Target Aeroflot",
-        "image": ["https://storage.googleapis.com/red_articles/Digital-Warfare-Belarusian-Hackers-Target-Aeroflot.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Digital-Warfare-Belarusian-Hackers-Target-Aeroflot.avif"],
         "datePublished": "2025-08-07T01:55:30.430Z",
         "dateModified": "2025-08-07T01:55:30.430Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Digital-Warfare-Belarusian-Hackers-Target-Aeroflot.png)
+![Image](https://storage.googleapis.com/red_articles/Digital-Warfare-Belarusian-Hackers-Target-Aeroflot.avif)
 
 ## Introduction
 

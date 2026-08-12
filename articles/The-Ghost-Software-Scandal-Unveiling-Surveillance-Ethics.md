@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Ghost Software Scandal Unveiling Surveillance Ethics",
-        "image": ["https://storage.googleapis.com/red_articles/The-Ghost-Software-Scandal-Unveiling-Surveillance-Ethics.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Ghost-Software-Scandal-Unveiling-Surveillance-Ethics.avif"],
         "datePublished": "2025-06-12T09:02:50.944Z",
         "dateModified": "2025-06-12T09:02:50.944Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/The-Ghost-Software-Scandal-Unveiling-Surveillance-Ethics.png)
+![Image](https://storage.googleapis.com/red_articles/The-Ghost-Software-Scandal-Unveiling-Surveillance-Ethics.avif)
 
 ## Introduction
 

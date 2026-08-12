@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Google Antitrust Battle Chrome Divestiture Demand",
-        "image": ["https://storage.googleapis.com/red_articles/Google-Antitrust-Battle-Chrome-Divestiture-Demand.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Google-Antitrust-Battle-Chrome-Divestiture-Demand.avif"],
         "datePublished": "2025-06-11T10:02:18.934Z",
         "dateModified": "2025-06-11T10:02:18.934Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Google-Antitrust-Battle-Chrome-Divestiture-Demand.png)
+![Image](https://storage.googleapis.com/red_articles/Google-Antitrust-Battle-Chrome-Divestiture-Demand.avif)
 
 ## Introduction
 

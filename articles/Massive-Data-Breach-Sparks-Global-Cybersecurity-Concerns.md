@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Massive Data Breach Sparks Global Cybersecurity Concerns",
-        "image": ["https://storage.googleapis.com/red_articles/Massive-Data-Breach-Sparks-Global-Cybersecurity-Concerns.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Massive-Data-Breach-Sparks-Global-Cybersecurity-Concerns.avif"],
         "datePublished": "2025-06-20T10:01:45.663Z",
         "dateModified": "2025-06-20T10:01:45.663Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Massive-Data-Breach-Sparks-Global-Cybersecurity-Concerns.png)
+![Image](https://storage.googleapis.com/red_articles/Massive-Data-Breach-Sparks-Global-Cybersecurity-Concerns.avif)
 
 ## Introduction
 

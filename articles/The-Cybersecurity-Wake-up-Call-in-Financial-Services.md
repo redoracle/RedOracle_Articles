@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Cybersecurity Wake-up Call in Financial Services",
-        "image": ["https://storage.googleapis.com/red_articles/The-Cybersecurity-Wake-up-Call-in-Financial-Services.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Cybersecurity-Wake-up-Call-in-Financial-Services.avif"],
         "datePublished": "2025-04-11T10:01:54.660Z",
         "dateModified": "2025-04-11T10:01:54.660Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # The Cybersecurity Wake-up Call in Financial Services
 
-![Image](https://storage.googleapis.com/red_articles/The-Cybersecurity-Wake-up-Call-in-Financial-Services.png)
+![Image](https://storage.googleapis.com/red_articles/The-Cybersecurity-Wake-up-Call-in-Financial-Services.avif)
 
 ## Introduction
 

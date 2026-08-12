@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Bluetooth Security on Galaxy S25",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Bluetooth-Security-on-Galaxy-S25.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Bluetooth-Security-on-Galaxy-S25.avif"],
         "datePublished": "2025-08-05T16:32:35.426Z",
         "dateModified": "2025-08-05T16:32:35.426Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Bluetooth-Security-on-Galaxy-S25.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Bluetooth-Security-on-Galaxy-S25.avif)
 
 ## Introduction
 

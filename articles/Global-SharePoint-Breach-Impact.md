@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Global SharePoint Breach Impact",
-        "image": ["https://storage.googleapis.com/red_articles/Global-SharePoint-Breach-Impact.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Global-SharePoint-Breach-Impact.avif"],
         "datePublished": "2025-08-06T21:42:37.401Z",
         "dateModified": "2025-08-06T21:42:37.401Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Global-SharePoint-Breach-Impact.png)
+![Image](https://storage.googleapis.com/red_articles/Global-SharePoint-Breach-Impact.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Cyber Breach Impact NYBC Data Crisis
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Breach-Impact-NYBC-Data-Crisis.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Breach-Impact-NYBC-Data-Crisis.avif)
 
 Introduction
 

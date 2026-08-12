@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating SEC's Cyber Disclosure Rules",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-SECs-Cyber-Disclosure-Rules.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-SECs-Cyber-Disclosure-Rules.avif"],
         "datePublished": "2025-04-07T10:02:18.983Z",
         "dateModified": "2025-04-07T10:02:18.983Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Navigating SEC's Cyber Disclosure Rules
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-SECs-Cyber-Disclosure-Rules.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-SECs-Cyber-Disclosure-Rules.avif)
 
 ## Introduction
 

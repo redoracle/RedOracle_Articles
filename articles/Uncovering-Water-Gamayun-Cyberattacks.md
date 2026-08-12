@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Water Gamayun Cyberattacks",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Water-Gamayun-Cyberattacks.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Water-Gamayun-Cyberattacks.avif"],
         "datePublished": "2025-03-31T18:37:23.307Z",
         "dateModified": "2025-03-31T18:37:23.307Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Uncovering Water Gamayun Cyberattacks
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Water-Gamayun-Cyberattacks.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Water-Gamayun-Cyberattacks.avif)
 
 ## Introduction
 

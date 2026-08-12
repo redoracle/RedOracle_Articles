@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Retail Cyberattack Fallout",
-        "image": ["https://storage.googleapis.com/red_articles/Retail-Cyberattack-Fallout.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Retail-Cyberattack-Fallout.avif"],
         "datePublished": "2025-05-19T08:06:41.434Z",
         "dateModified": "2025-05-19T08:06:41.434Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Retail-Cyberattack-Fallout.png)
+![Image](https://storage.googleapis.com/red_articles/Retail-Cyberattack-Fallout.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling Cyber Threats XSS, Attacks, SolarWinds",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Cyber-Threats-XSS-Attacks-SolarWinds.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Cyber-Threats-XSS-Attacks-SolarWinds.avif"],
         "datePublished": "2025-08-09T21:42:06.308Z",
         "dateModified": "2025-08-09T21:42:06.308Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Cyber-Threats-XSS-Attacks-SolarWinds.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Cyber-Threats-XSS-Attacks-SolarWinds.avif)
 
 ## Introduction
 

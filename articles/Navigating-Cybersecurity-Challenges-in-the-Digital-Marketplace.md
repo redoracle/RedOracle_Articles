@@ -15,7 +15,7 @@ sitemap:
 
 # Navigating Cybersecurity Challenges in the Digital Marketplace
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Cybersecurity-Challenges-in-the-Digital-Marketplace.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Cybersecurity-Challenges-in-the-Digital-Marketplace.avif)
 
 ## Key Highlights
 

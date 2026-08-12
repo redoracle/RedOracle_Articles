@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Strategies for Boosting Project Popularity",
-        "image": ["https://storage.googleapis.com/red_articles/Strategies-for-Boosting-Project-Popularity.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Strategies-for-Boosting-Project-Popularity.avif"],
         "datePublished": "2025-07-18T09:02:57.997Z",
         "dateModified": "2025-07-18T09:02:57.997Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Strategies-for-Boosting-Project-Popularity.png)
+![Image](https://storage.googleapis.com/red_articles/Strategies-for-Boosting-Project-Popularity.avif)
 
 ## Introduction
 

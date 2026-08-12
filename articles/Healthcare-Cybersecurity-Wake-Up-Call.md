@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Healthcare Cybersecurity Wake-Up Call",
-        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Wake-Up-Call.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Wake-Up-Call.avif"],
         "datePublished": "2025-05-11T09:02:53.512Z",
         "dateModified": "2025-05-11T09:02:53.512Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Wake-Up-Call.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Wake-Up-Call.avif)
 
 ## Introduction
 

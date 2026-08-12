@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Deep Algorithm Secures Rs 10.8 Cr for Cyber Solutions",
-        "image": ["https://storage.googleapis.com/red_articles/Deep-Algorithm-Secures-Rs-10.8-Cr-for-Cyber-Solutions.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Deep-Algorithm-Secures-Rs-10.8-Cr-for-Cyber-Solutions.avif"],
         "datePublished": "2025-07-16T09:02:58.752Z",
         "dateModified": "2025-07-16T09:02:58.752Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Deep-Algorithm-Secures-Rs-10.8-Cr-for-Cyber-Solutions.png)
+![Image](https://storage.googleapis.com/red_articles/Deep-Algorithm-Secures-Rs-10.8-Cr-for-Cyber-Solutions.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Apple Urgent Security Updates Protect Your Devices Now",
-        "image": ["https://storage.googleapis.com/red_articles/Apple-Urgent-Security-Updates-Protect-Your-Devices-Now.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Apple-Urgent-Security-Updates-Protect-Your-Devices-Now.avif"],
         "datePublished": "2025-04-01T22:52:27.502Z",
         "dateModified": "2025-04-01T22:52:27.502Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Apple Urgent Security Updates Protect Your Devices Now
 
-![Image](https://storage.googleapis.com/red_articles/Apple-Urgent-Security-Updates-Protect-Your-Devices-Now.png)
+![Image](https://storage.googleapis.com/red_articles/Apple-Urgent-Security-Updates-Protect-Your-Devices-Now.avif)
 
 ## Introduction
 

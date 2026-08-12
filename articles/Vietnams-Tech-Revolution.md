@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Vietnam's Tech Revolution",
-        "image": ["https://storage.googleapis.com/red_articles/Vietnams-Tech-Revolution.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Vietnams-Tech-Revolution.avif"],
         "datePublished": "2025-08-02T18:35:48.248Z",
         "dateModified": "2025-08-02T18:35:48.248Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Vietnams-Tech-Revolution.png)
+![Image](https://storage.googleapis.com/red_articles/Vietnams-Tech-Revolution.avif)
 
 ## Introduction
 

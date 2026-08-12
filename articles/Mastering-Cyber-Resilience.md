@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Mastering Cyber Resilience",
-        "image": ["https://storage.googleapis.com/red_articles/Mastering-Cyber-Resilience.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Mastering-Cyber-Resilience.avif"],
         "datePublished": "2025-04-22T08:02:05.947Z",
         "dateModified": "2025-04-22T08:02:05.947Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Mastering Cyber Resilience
 
-![Image](https://storage.googleapis.com/red_articles/Mastering-Cyber-Resilience.png)
+![Image](https://storage.googleapis.com/red_articles/Mastering-Cyber-Resilience.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # “Unveiling Facebook’s Linux Controversy”
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Facebooks-Linux-Controversy.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Facebooks-Linux-Controversy.avif)
 
 ## Introduction
 

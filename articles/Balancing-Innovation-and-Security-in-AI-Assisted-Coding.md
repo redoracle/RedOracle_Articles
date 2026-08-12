@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Balancing Innovation and Security in AI-Assisted Coding",
-        "image": ["https://storage.googleapis.com/red_articles/Balancing-Innovation-and-Security-in-AI-Assisted-Coding.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Balancing-Innovation-and-Security-in-AI-Assisted-Coding.avif"],
         "datePublished": "2025-07-03T06:03:18.455Z",
         "dateModified": "2025-07-03T06:03:18.455Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Balancing-Innovation-and-Security-in-AI-Assisted-Coding.png)
+![Image](https://storage.googleapis.com/red_articles/Balancing-Innovation-and-Security-in-AI-Assisted-Coding.avif)
 
 ## Introduction
 

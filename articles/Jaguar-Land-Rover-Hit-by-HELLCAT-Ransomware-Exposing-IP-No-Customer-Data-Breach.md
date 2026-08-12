@@ -37,7 +37,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Jaguar Land Rover Hit by HELLCAT Ransomware Exposing IP, No Customer Data Breach”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Jaguar-Land-Rover-Hit-by-HELLCAT-Ransomware-Exposing-IP-No-Customer-Data-Breach.avif"],
         "datePublished": "2025-09-03T12:12:02.646Z",
         "dateModified": "2025-09-03T12:12:02.646Z",
         "author": {
@@ -49,7 +49,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -59,7 +59,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Jaguar-Land-Rover-Hit-by-HELLCAT-Ransomware-Exposing-IP-No-Customer-Data-Breach”.png)
+![Image](https://storage.googleapis.com/red_articles/“Jaguar-Land-Rover-Hit-by-HELLCAT-Ransomware-Exposing-IP-No-Customer-Data-Breach”.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Paragon's WhatsApp Spyware Saga",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Paragons-WhatsApp-Spyware-Saga.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Paragons-WhatsApp-Spyware-Saga.avif"],
         "datePublished": "2025-03-24T10:13:20.095Z",
         "dateModified": "2025-03-24T10:13:20.095Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Uncovering Paragon's WhatsApp Spyware Saga
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Paragons-WhatsApp-Spyware-Saga.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Paragons-WhatsApp-Spyware-Saga.avif)
 
 ## Introduction
 

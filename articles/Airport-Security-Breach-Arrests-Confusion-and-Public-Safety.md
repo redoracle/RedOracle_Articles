@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Airport Security Breach Arrests, Confusion, and Public Safety",
-        "image": ["https://storage.googleapis.com/red_articles/Airport-Security-Breach-Arrests-Confusion-and-Public-Safety.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Airport-Security-Breach-Arrests-Confusion-and-Public-Safety.avif"],
         "datePublished": "2025-06-23T10:08:47.205Z",
         "dateModified": "2025-06-23T10:08:47.205Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Airport-Security-Breach-Arrests-Confusion-and-Public-Safety.png)
+![Image](https://storage.googleapis.com/red_articles/Airport-Security-Breach-Arrests-Confusion-and-Public-Safety.avif)
 
 ## Introduction
 

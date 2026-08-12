@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unmasking Russian Espionage Cyber Threats Against Embassies",
-        "image": ["https://storage.googleapis.com/red_articles/Unmasking-Russian-Espionage-Cyber-Threats-Against-Embassies.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unmasking-Russian-Espionage-Cyber-Threats-Against-Embassies.avif"],
         "datePublished": "2025-08-02T14:22:00.416Z",
         "dateModified": "2025-08-02T14:22:00.416Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unmasking-Russian-Espionage-Cyber-Threats-Against-Embassies.png)
+![Image](https://storage.googleapis.com/red_articles/Unmasking-Russian-Espionage-Cyber-Threats-Against-Embassies.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Preserving Biodiversity in a Changing Climate
 
-![Image](https://storage.googleapis.com/red_articles/Preserving-Biodiversity-in-a-Changing-Climate.png)
+![Image](https://storage.googleapis.com/red_articles/Preserving-Biodiversity-in-a-Changing-Climate.avif)
 
 ## Introduction
 

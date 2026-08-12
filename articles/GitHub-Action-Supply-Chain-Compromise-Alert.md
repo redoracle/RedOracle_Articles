@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "GitHub Action Supply Chain Compromise Alert",
-        "image": ["https://storage.googleapis.com/red_articles/GitHub-Action-Supply-Chain-Compromise-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/GitHub-Action-Supply-Chain-Compromise-Alert.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T08:00:00+00:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # GitHub Action Supply Chain Compromise Alert
 
-![Image](https://storage.googleapis.com/red_articles/GitHub-Action-Supply-Chain-Compromise-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/GitHub-Action-Supply-Chain-Compromise-Alert.avif)
 
 ## Introduction
 

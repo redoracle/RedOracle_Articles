@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Surveillance Israel Spyware & Corruption Scandals",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Surveillance-Israel-Spyware-Corruption-Scandals.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Surveillance-Israel-Spyware-Corruption-Scandals.avif"],
         "datePublished": "2025-08-10T08:03:32.776Z",
         "dateModified": "2025-08-10T08:03:32.776Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Surveillance-Israel-Spyware-Corruption-Scandals.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Surveillance-Israel-Spyware-Corruption-Scandals.avif)
 
 ## Introduction
 

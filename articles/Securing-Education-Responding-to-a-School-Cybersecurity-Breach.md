@@ -15,7 +15,7 @@ sitemap:
 
 # Securing Education Responding to a School Cybersecurity Breach
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Education-Responding-to-a-School-Cybersecurity-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Education-Responding-to-a-School-Cybersecurity-Breach.avif)
 
 ## Overview
 

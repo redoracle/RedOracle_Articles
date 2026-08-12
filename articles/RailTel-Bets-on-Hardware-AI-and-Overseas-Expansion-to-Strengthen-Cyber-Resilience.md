@@ -42,7 +42,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "RailTel Bets on Hardware, AI, and Overseas Expansion to Strengthen Cyber Resilience",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/RailTel-Bets-on-Hardware-AI-and-Overseas-Expansion-to-Strengthen-Cyber-Resilience.avif"],
         "datePublished": "2025-08-29T11:10:46.088Z",
         "dateModified": "2025-08-29T11:10:46.088Z",
         "author": {
@@ -54,7 +54,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -64,7 +64,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/RailTel-Bets-on-Hardware-AI-and-Overseas-Expansion-to-Strengthen-Cyber-Resilience.png)
+![Image](https://storage.googleapis.com/red_articles/RailTel-Bets-on-Hardware-AI-and-Overseas-Expansion-to-Strengthen-Cyber-Resilience.avif)
 
 ## Introduction
 

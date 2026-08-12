@@ -15,7 +15,7 @@ sitemap:
 
 # NYBC Data Breach Update
 
-![Image](https://storage.googleapis.com/red_articles/NYBC-Data-Breach-Update.png)
+![Image](https://storage.googleapis.com/red_articles/NYBC-Data-Breach-Update.avif)
 
 ## Introduction
 

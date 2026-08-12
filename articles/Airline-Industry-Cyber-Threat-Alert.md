@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Airline Industry Cyber Threat Alert",
-        "image": ["https://storage.googleapis.com/red_articles/Airline-Industry-Cyber-Threat-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Airline-Industry-Cyber-Threat-Alert.avif"],
         "datePublished": "2025-06-29T08:01:37.920Z",
         "dateModified": "2025-06-29T08:01:37.920Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Airline-Industry-Cyber-Threat-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/Airline-Industry-Cyber-Threat-Alert.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Elevating Cybersecurity Standards KTL Solutions Level 2 Certification",
-        "image": ["https://storage.googleapis.com/red_articles/Elevating-Cybersecurity-Standards-KTL-Solutions-Level-2-Certification.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Elevating-Cybersecurity-Standards-KTL-Solutions-Level-2-Certification.avif"],
         "datePublished": "2025-04-04T10:02:05.212Z",
         "dateModified": "2025-04-04T10:02:05.212Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Elevating Cybersecurity Standards KTL Solutions Level 2 Certification
 
-![Image](https://storage.googleapis.com/red_articles/Elevating-Cybersecurity-Standards-KTL-Solutions-Level-2-Certification.png)
+![Image](https://storage.googleapis.com/red_articles/Elevating-Cybersecurity-Standards-KTL-Solutions-Level-2-Certification.avif)
 
 ## Introduction
 

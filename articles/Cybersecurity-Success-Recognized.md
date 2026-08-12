@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Success Recognized",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Success-Recognized.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Success-Recognized.avif"],
         "datePublished": "2025-05-14T10:02:39.853Z",
         "dateModified": "2025-05-14T10:02:39.853Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Success-Recognized.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Success-Recognized.avif)
 
 ## Introduction
 

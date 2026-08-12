@@ -33,7 +33,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Qantas Cuts CEO Vanessa Hudson’s Bonus After July Cyber Incident A Governance Moment in Executive Accountability”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Qantas-Cuts-CEO-Vanessa-Hudsons-Bonus-After-July-Cyber-Incident-A-Governance-Moment-in-Executive-Accountability.avif"],
         "datePublished": "2025-09-07T00:45:50.480Z",
         "dateModified": "2025-09-07T00:45:50.480Z",
         "author": {
@@ -45,7 +45,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -55,7 +55,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Qantas-Cuts-CEO-Vanessa-Hudsons-Bonus-After-July-Cyber-Incident-A-Governance-Moment-in-Executive-Accountability”.png)
+![Image](https://storage.googleapis.com/red_articles/“Qantas-Cuts-CEO-Vanessa-Hudsons-Bonus-After-July-Cyber-Incident-A-Governance-Moment-in-Executive-Accountability”.avif)
 
 ## Introduction
 

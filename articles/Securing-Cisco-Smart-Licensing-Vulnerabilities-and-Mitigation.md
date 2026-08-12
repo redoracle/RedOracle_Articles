@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing Cisco Smart Licensing Vulnerabilities and Mitigation",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-Cisco-Smart-Licensing-Vulnerabilities-and-Mitigation.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-Cisco-Smart-Licensing-Vulnerabilities-and-Mitigation.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T08:00:00+00:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Securing Cisco Smart Licensing Vulnerabilities and Mitigation
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Cisco-Smart-Licensing-Vulnerabilities-and-Mitigation.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Cisco-Smart-Licensing-Vulnerabilities-and-Mitigation.avif)
 
 ## Introduction
 

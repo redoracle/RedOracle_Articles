@@ -15,7 +15,7 @@ sitemap:
 
 # Securing Data Lessons from KraftCPAs Cyberattack
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Data-Lessons-from-KraftCPAs-Cyberattack.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Data-Lessons-from-KraftCPAs-Cyberattack.avif)
 
 ## Introduction
 

@@ -12,7 +12,7 @@ lastUpdated: true
 
 # Apple M-Series Chip Vulnerabilities FLOP and SLAP Attacks Unleashed
 
-![Image](https://storage.googleapis.com/red_articles/Apple-M-Series-Chip-Vulnerabilities-FLOP-and-SLAP-Attacks-Unleashed.png)
+![Image](https://storage.googleapis.com/red_articles/Apple-M-Series-Chip-Vulnerabilities-FLOP-and-SLAP-Attacks-Unleashed.avif)
 
 ## Introduction
 

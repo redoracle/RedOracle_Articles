@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Urgent Cyber Alerts",
-        "image": ["https://storage.googleapis.com/red_articles/Urgent-Cyber-Alerts.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Urgent-Cyber-Alerts.avif"],
         "datePublished": "2025-06-06T10:05:33.160Z",
         "dateModified": "2025-06-06T10:05:33.160Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Urgent-Cyber-Alerts.png)
+![Image](https://storage.googleapis.com/red_articles/Urgent-Cyber-Alerts.avif)
 
 ## Introduction
 

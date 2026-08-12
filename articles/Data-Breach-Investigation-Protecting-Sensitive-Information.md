@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Data Breach Investigation Protecting Sensitive Information",
-        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Investigation-Protecting-Sensitive-Information.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Investigation-Protecting-Sensitive-Information.avif"],
         "datePublished": "2025-04-25T10:09:24.947Z",
         "dateModified": "2025-04-25T10:09:24.947Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Data Breach Investigation Protecting Sensitive Information
 
-![Image](https://storage.googleapis.com/red_articles/Data-Breach-Investigation-Protecting-Sensitive-Information.png)
+![Image](https://storage.googleapis.com/red_articles/Data-Breach-Investigation-Protecting-Sensitive-Information.avif)
 
 ## Introduction
 

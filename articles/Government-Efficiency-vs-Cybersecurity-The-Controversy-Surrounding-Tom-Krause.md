@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Government Efficiency vs. Cybersecurity The Controversy Surrounding Tom Krause",
-        "image": ["https://storage.googleapis.com/red_articles/Government-Efficiency-vs-Cybersecurity-The-Controversy-Surrounding-Tom-Krause.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Government-Efficiency-vs-Cybersecurity-The-Controversy-Surrounding-Tom-Krause.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T08:00:00+00:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Government Efficiency vs. Cybersecurity The Controversy Surrounding Tom Krause
 
-![Image](https://storage.googleapis.com/red_articles/Government-Efficiency-vs-Cybersecurity-The-Controversy-Surrounding-Tom-Krause.png)
+![Image](https://storage.googleapis.com/red_articles/Government-Efficiency-vs-Cybersecurity-The-Controversy-Surrounding-Tom-Krause.avif)
 
 ## Introduction
 

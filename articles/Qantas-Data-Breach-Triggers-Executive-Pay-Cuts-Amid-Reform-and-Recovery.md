@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Qantas Data Breach Triggers Executive Pay Cuts Amid Reform and Recovery",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.avif"],
         "datePublished": "2025-09-05T09:11:42.509Z",
         "dateModified": "2025-09-05T09:11:42.509Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.png)
+![Image](https://storage.googleapis.com/red_articles/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.avif)
 
 ## Introduction
 
@@ -129,7 +129,7 @@ This article examines how Qantas responded to a major data breach by adjusting e
 ## Fact checking and references
 
 * Primary disclosure and related reporting: https://redoracle.com/News/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.html
-* Image source: https://storage.googleapis.com/red_articles/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.png
+* Image source: https://storage.googleapis.com/red_articles/Qantas-Data-Breach-Triggers-Executive-Pay-Cuts-Amid-Reform-and-Recovery.avif
 * Event information: June 2025 breach affecting about 5.7 million customers via a third party platform accessed through a Manila call centre.
 
 ## Summary

@@ -35,7 +35,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“PromptLock AI-Powered Ransomware Leveraging Open-Weight Models to Generate Lua Payloads”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/PromptLock-AI-Powered-Ransomware-Leveraging-Open-Weight-Models-to-Generate-Lua-Payloads.avif"],
         "datePublished": "2025-08-27T07:02:52.173Z",
         "dateModified": "2025-08-27T07:02:52.173Z",
         "author": {
@@ -47,7 +47,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -57,7 +57,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“PromptLock-AI-Powered-Ransomware-Leveraging-Open-Weight-Models-to-Generate-Lua-Payloads”.png)
+![Image](https://storage.googleapis.com/red_articles/“PromptLock-AI-Powered-Ransomware-Leveraging-Open-Weight-Models-to-Generate-Lua-Payloads”.avif)
 
 # PromptLock AI-Powered Ransomware Leveraging Open-Weight Models to Generate Lua Payloads
 

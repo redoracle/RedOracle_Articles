@@ -15,7 +15,7 @@ sitemap:
 
 # Unpacking Elon Musk's DOGE Democracy at Risk?
 
-![Image](https://storage.googleapis.com/red_articles/Unpacking-Elon-Musks-DOGE-Democracy-at-Risk.png)
+![Image](https://storage.googleapis.com/red_articles/Unpacking-Elon-Musks-DOGE-Democracy-at-Risk.avif)
 
 ## Introduction
 

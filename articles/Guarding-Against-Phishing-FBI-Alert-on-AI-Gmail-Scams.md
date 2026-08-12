@@ -15,7 +15,7 @@ sitemap:
 
 # Guarding Against Phishing FBI Alert on AI Gmail Scams
 
-![Image](https://storage.googleapis.com/red_articles/Guarding-Against-Phishing-FBI-Alert-on-AI-Gmail-Scams.png)
+![Image](https://storage.googleapis.com/red_articles/Guarding-Against-Phishing-FBI-Alert-on-AI-Gmail-Scams.avif)
 
 ## Introduction
 

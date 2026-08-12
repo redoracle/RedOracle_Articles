@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing Healthcare Data in the Digital Age",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-Healthcare-Data-in-the-Digital-Age.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-Healthcare-Data-in-the-Digital-Age.avif"],
         "datePublished": "2025-05-29T09:02:32.136Z",
         "dateModified": "2025-05-29T09:02:32.136Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Healthcare-Data-in-the-Digital-Age.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Healthcare-Data-in-the-Digital-Age.avif)
 
 ## Introduction
 

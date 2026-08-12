@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cryptocurrency Exchange Cyber Attack Nobitex Breach",
-        "image": ["https://storage.googleapis.com/red_articles/Cryptocurrency-Exchange-Cyber-Attack-Nobitex-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cryptocurrency-Exchange-Cyber-Attack-Nobitex-Breach.avif"],
         "datePublished": "2025-06-18T09:03:13.072Z",
         "dateModified": "2025-06-18T09:03:13.072Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cryptocurrency-Exchange-Cyber-Attack-Nobitex-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Cryptocurrency-Exchange-Cyber-Attack-Nobitex-Breach.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Resilience Amid Cyber Threats Virgin Islands Lottery’s Triumph",
-        "image": ["https://storage.googleapis.com/red_articles/Resilience-Amid-Cyber-Threats-Virgin-Islands-Lotterys-Triumph.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Resilience-Amid-Cyber-Threats-Virgin-Islands-Lotterys-Triumph.avif"],
         "datePublished": "2025-06-01T10:01:22.461Z",
         "dateModified": "2025-06-01T10:01:22.461Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Resilience-Amid-Cyber-Threats-Virgin-Islands-Lotterys-Triumph.png)
+![Image](https://storage.googleapis.com/red_articles/Resilience-Amid-Cyber-Threats-Virgin-Islands-Lotterys-Triumph.avif)
 
 ## Introduction
 

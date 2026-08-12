@@ -44,7 +44,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Netskope Files for Nasdaq IPO Under NTSK Backed by Top VCs",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Netskope-Files-for-Nasdaq-IPO-Under-NTSK-Backed-by-Top-VCs.avif"],
         "datePublished": "2025-08-23T10:03:08.297Z",
         "dateModified": "2025-08-23T10:03:08.297Z",
         "author": {
@@ -56,7 +56,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -66,7 +66,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Netskope-Files-for-Nasdaq-IPO-Under-NTSK-Backed-by-Top-VCs.png)
+![Image](https://storage.googleapis.com/red_articles/Netskope-Files-for-Nasdaq-IPO-Under-NTSK-Backed-by-Top-VCs.avif)
 
 ## Introduction
 

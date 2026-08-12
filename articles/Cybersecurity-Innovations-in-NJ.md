@@ -15,7 +15,7 @@ sitemap:
 
 # Cybersecurity Innovations in NJ
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Innovations-in-NJ.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Innovations-in-NJ.avif)
 
 ## Introduction
 

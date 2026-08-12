@@ -15,7 +15,7 @@ sitemap:
 
 # Unveiling Cybersecurity Challenges
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Cybersecurity-Challenges.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Cybersecurity-Challenges.avif)
 
 ## Introduction
 

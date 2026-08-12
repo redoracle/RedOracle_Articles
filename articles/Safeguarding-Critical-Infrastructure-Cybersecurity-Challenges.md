@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Critical Infrastructure Cybersecurity Challenges",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Critical-Infrastructure-Cybersecurity-Challenges.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Critical-Infrastructure-Cybersecurity-Challenges.avif"],
         "datePublished": "2025-04-21T07:02:46.376Z",
         "dateModified": "2025-04-21T07:02:46.376Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Safeguarding Critical Infrastructure Cybersecurity Challenges
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Critical-Infrastructure-Cybersecurity-Challenges.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Critical-Infrastructure-Cybersecurity-Challenges.avif)
 
 ## Introduction
 

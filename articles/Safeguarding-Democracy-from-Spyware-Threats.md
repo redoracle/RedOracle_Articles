@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Democracy from Spyware Threats",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Democracy-from-Spyware-Threats.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Democracy-from-Spyware-Threats.avif"],
         "datePublished": "2025-06-16T14:14:47.032Z",
         "dateModified": "2025-06-16T14:14:47.032Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Democracy-from-Spyware-Threats.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Democracy-from-Spyware-Threats.avif)
 
 ## Introduction
 

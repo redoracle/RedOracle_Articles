@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Apple's Zero-Click Spyware Fix",
-        "image": ["https://storage.googleapis.com/red_articles/Apples-Zero-Click-Spyware-Fix.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Apples-Zero-Click-Spyware-Fix.avif"],
         "datePublished": "2025-06-14T18:14:43.883Z",
         "dateModified": "2025-06-14T18:14:43.883Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Apples-Zero-Click-Spyware-Fix.png)
+![Image](https://storage.googleapis.com/red_articles/Apples-Zero-Click-Spyware-Fix.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Zero Trust Security for Classified Environments",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Zero-Trust-Security-for-Classified-Environments.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Zero-Trust-Security-for-Classified-Environments.avif"],
         "datePublished": "2025-05-09T09:02:24.348Z",
         "dateModified": "2025-05-09T09:02:24.348Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Enhancing Zero Trust Security for Classified Environments
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Zero-Trust-Security-for-Classified-Environments.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Zero-Trust-Security-for-Classified-Environments.avif)
 
 ## Introduction
 

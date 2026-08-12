@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Hospital Security Cleared FBI Finds No Credible Threats",
-        "image": ["https://storage.googleapis.com/red_articles/Hospital-Security-Cleared-FBI-Finds-No-Credible-Threats.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Hospital-Security-Cleared-FBI-Finds-No-Credible-Threats.avif"],
         "datePublished": "2025-03-26T23:37:00.914Z",
         "dateModified": "2025-03-26T23:37:00.914Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Hospital Security Cleared FBI Finds No Credible Threats
 
-![Image](https://storage.googleapis.com/red_articles/Hospital-Security-Cleared-FBI-Finds-No-Credible-Threats.png)
+![Image](https://storage.googleapis.com/red_articles/Hospital-Security-Cleared-FBI-Finds-No-Credible-Threats.avif)
 
 ## Introduction
 

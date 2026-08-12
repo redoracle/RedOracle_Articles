@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Conflict China Accuses US of Advanced Attacks",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Conflict-China-Accuses-US-of-Advanced-Attacks.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Conflict-China-Accuses-US-of-Advanced-Attacks.avif"],
         "datePublished": "2025-04-16T06:03:24.451Z",
         "dateModified": "2025-04-16T06:03:24.451Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Cybersecurity Conflict China Accuses US of Advanced Attacks
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Conflict-China-Accuses-US-of-Advanced-Attacks.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Conflict-China-Accuses-US-of-Advanced-Attacks.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Cyber Defenses 2025 Security Insights",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Cyber-Defenses-2025-Security-Insights.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Cyber-Defenses-2025-Security-Insights.avif"],
         "datePublished": "2025-03-27T01:42:59.365Z",
         "dateModified": "2025-03-27T01:42:59.365Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Enhancing Cyber Defenses 2025 Security Insights
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Cyber-Defenses-2025-Security-Insights.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Cyber-Defenses-2025-Security-Insights.avif)
 
 ## Introduction
 

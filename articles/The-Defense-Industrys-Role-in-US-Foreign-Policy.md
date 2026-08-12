@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Defense Industry's Role in U.S. Foreign Policy",
-        "image": ["https://storage.googleapis.com/red_articles/The-Defense-Industrys-Role-in-US-Foreign-Policy.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Defense-Industrys-Role-in-US-Foreign-Policy.avif"],
         "datePublished": "2025-06-30T10:02:29.160Z",
         "dateModified": "2025-06-30T10:02:29.160Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/The-Defense-Industrys-Role-in-US-Foreign-Policy.png)
+![Image](https://storage.googleapis.com/red_articles/The-Defense-Industrys-Role-in-US-Foreign-Policy.avif)
 
 ## Introduction
 

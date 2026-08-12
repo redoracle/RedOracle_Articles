@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Local Cybersecurity Funding Gap in Florida",
-        "image": ["https://storage.googleapis.com/red_articles/Local-Cybersecurity-Funding-Gap-in-Florida.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Local-Cybersecurity-Funding-Gap-in-Florida.avif"],
         "datePublished": "2025-06-04T06:06:00.979Z",
         "dateModified": "2025-06-04T06:06:00.979Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Local-Cybersecurity-Funding-Gap-in-Florida.png)
+![Image](https://storage.googleapis.com/red_articles/Local-Cybersecurity-Funding-Gap-in-Florida.avif)
 
 ## Introduction
 

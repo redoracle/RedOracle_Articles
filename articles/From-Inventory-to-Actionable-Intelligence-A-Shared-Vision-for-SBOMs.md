@@ -38,7 +38,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“From Inventory to Actionable Intelligence A Shared Vision for SBOMs”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/From-Inventory-to-Actionable-Intelligence-A-Shared-Vision-for-SBOMs.avif"],
         "datePublished": "2025-09-05T06:02:38.798Z",
         "dateModified": "2025-09-05T06:02:38.798Z",
         "author": {
@@ -50,7 +50,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -60,7 +60,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“From-Inventory-to-Actionable-Intelligence-A-Shared-Vision-for-SBOMs”.png)
+![Image](https://storage.googleapis.com/red_articles/“From-Inventory-to-Actionable-Intelligence-A-Shared-Vision-for-SBOMs”.avif)
 
 ## Introduction
 

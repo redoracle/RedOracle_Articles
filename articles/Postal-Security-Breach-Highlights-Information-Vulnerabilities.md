@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Postal Security Breach Highlights Information Vulnerabilities",
-        "image": ["https://storage.googleapis.com/red_articles/Postal-Security-Breach-Highlights-Information-Vulnerabilities.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Postal-Security-Breach-Highlights-Information-Vulnerabilities.avif"],
         "datePublished": "2025-07-24T08:02:43.495Z",
         "dateModified": "2025-07-24T08:02:43.495Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Postal-Security-Breach-Highlights-Information-Vulnerabilities.png)
+![Image](https://storage.googleapis.com/red_articles/Postal-Security-Breach-Highlights-Information-Vulnerabilities.avif)
 
 ## Introduction
 

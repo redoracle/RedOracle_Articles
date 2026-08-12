@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Breach Alert 184 Million Records Exposed",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Alert-184-Million-Records-Exposed.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Alert-184-Million-Records-Exposed.avif"],
         "datePublished": "2025-06-23T08:02:35.896Z",
         "dateModified": "2025-06-23T08:02:35.896Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Alert-184-Million-Records-Exposed.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Alert-184-Million-Records-Exposed.avif)
 
 ## Introduction
 

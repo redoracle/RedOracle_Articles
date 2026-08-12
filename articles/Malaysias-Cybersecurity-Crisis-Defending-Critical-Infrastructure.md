@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Malaysia's Cybersecurity Crisis Defending Critical Infrastructure",
-        "image": ["https://storage.googleapis.com/red_articles/Malaysias-Cybersecurity-Crisis-Defending-Critical-Infrastructure.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Malaysias-Cybersecurity-Crisis-Defending-Critical-Infrastructure.avif"],
         "datePublished": "2025-03-26T13:56:15.079Z",
         "dateModified": "2025-03-26T13:56:15.079Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Malaysia's Cybersecurity Crisis Defending Critical Infrastructure
 
-![Image](https://storage.googleapis.com/red_articles/Malaysias-Cybersecurity-Crisis-Defending-Critical-Infrastructure.png)
+![Image](https://storage.googleapis.com/red_articles/Malaysias-Cybersecurity-Crisis-Defending-Critical-Infrastructure.avif)
 
 ## Introduction
 

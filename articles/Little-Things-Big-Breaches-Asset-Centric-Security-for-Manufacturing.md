@@ -41,7 +41,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Little Things, Big Breaches Asset-Centric Security for Manufacturing”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Little-Things-Big-Breaches-Asset-Centric-Security-for-Manufacturing.avif"],
         "datePublished": "2025-08-21T14:45:21.857Z",
         "dateModified": "2025-08-21T14:45:21.857Z",
         "author": {
@@ -53,7 +53,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -63,7 +63,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Little-Things-Big-Breaches-Asset-Centric-Security-for-Manufacturing”.png)
+![Image](https://storage.googleapis.com/red_articles/“Little-Things-Big-Breaches-Asset-Centric-Security-for-Manufacturing”.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Anonymity Unveiled Tea App Data Breach Fallout",
-        "image": ["https://storage.googleapis.com/red_articles/Anonymity-Unveiled-Tea-App-Data-Breach-Fallout.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Anonymity-Unveiled-Tea-App-Data-Breach-Fallout.avif"],
         "datePublished": "2025-08-03T12:10:25.208Z",
         "dateModified": "2025-08-03T12:10:25.208Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Anonymity-Unveiled-Tea-App-Data-Breach-Fallout.png)
+![Image](https://storage.googleapis.com/red_articles/Anonymity-Unveiled-Tea-App-Data-Breach-Fallout.avif)
 
 ## Introduction
 

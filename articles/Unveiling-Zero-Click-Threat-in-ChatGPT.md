@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling Zero-Click Threat in ChatGPT",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Zero-Click-Threat-in-ChatGPT.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Zero-Click-Threat-in-ChatGPT.avif"],
         "datePublished": "2025-08-12T07:02:21.092Z",
         "dateModified": "2025-08-12T07:02:21.092Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Zero-Click-Threat-in-ChatGPT.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Zero-Click-Threat-in-ChatGPT.avif)
 
 ## Introduction
 

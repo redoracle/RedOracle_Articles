@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Water Systems DEF CON's Franklin Project",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Water-Systems-DEF-CONs-Franklin-Project.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Water-Systems-DEF-CONs-Franklin-Project.avif"],
         "datePublished": "2025-08-12T11:14:35.494Z",
         "dateModified": "2025-08-12T11:14:35.494Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Water-Systems-DEF-CONs-Franklin-Project.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Water-Systems-DEF-CONs-Franklin-Project.avif)
 
 ## Introduction
 

@@ -44,7 +44,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Hybrid AI Across Medicine and Cybersecurity Governance, Collaboration, and Discovery",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Hybrid-AI-Across-Medicine-and-Cybersecurity-Governance-Collaboration-and-Discovery.avif"],
         "datePublished": "2025-08-24T14:19:42.849Z",
         "dateModified": "2025-08-24T14:19:42.849Z",
         "author": {
@@ -56,7 +56,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -66,7 +66,7 @@ head:
       }
 ---
 
-![Hybrid AI Across Medicine and Cybersecurity Governance, Collaboration, and Discovery](https://storage.googleapis.com/red_articles/Hybrid-AI-Across-Medicine-and-Cybersecurity-Governance-Collaboration-and-Discovery.png)
+![Hybrid AI Across Medicine and Cybersecurity Governance, Collaboration, and Discovery](https://storage.googleapis.com/red_articles/Hybrid-AI-Across-Medicine-and-Cybersecurity-Governance-Collaboration-and-Discovery.avif)
 
 ## Introduction
 

@@ -44,7 +44,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cloudflare Mitigates 11-5 Tbps DDoS in Seconds From Multisource Botnets",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cloudflare-Mitigates-11-5-Tbps-DDoS-In-Seconds-From-Multisource-Botnets.avif"],
         "datePublished": "2025-09-03T09:03:16.604Z",
         "dateModified": "2025-09-03T09:03:16.604Z",
         "author": {
@@ -56,7 +56,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -66,7 +66,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cloudflare-Mitigates-11-5-Tbps-DDoS-In-Seconds-From-Multisource-Botnets.png)
+![Image](https://storage.googleapis.com/red_articles/Cloudflare-Mitigates-11-5-Tbps-DDoS-In-Seconds-From-Multisource-Botnets.avif)
 
 ## Introduction
 

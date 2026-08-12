@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Signal Driven Defense Curating High Signal Intel Browser Threats and Container CVEs",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Signal-Driven-Defense-Curating-High-Signal-Intel-Browser-Threats-and-Container-CVEs.avif"],
         "datePublished": "2025-09-05T02:54:09.250Z",
         "dateModified": "2025-09-05T02:54:09.250Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Signal-Driven-Defense-Curating-High-Signal-Intel-Browser-Threats-and-Container-CVEs.png)
+![Image](https://storage.googleapis.com/red_articles/Signal-Driven-Defense-Curating-High-Signal-Intel-Browser-Threats-and-Container-CVEs.avif)
 
 ## Introduction
 

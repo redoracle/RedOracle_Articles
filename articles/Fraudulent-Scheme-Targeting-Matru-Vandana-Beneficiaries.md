@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Fraudulent Scheme Targeting Matru Vandana Beneficiaries",
-        "image": ["https://storage.googleapis.com/red_articles/Fraudulent-Scheme-Targeting-Matru-Vandana-Beneficiaries.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Fraudulent-Scheme-Targeting-Matru-Vandana-Beneficiaries.avif"],
         "datePublished": "2025-07-12T09:02:05.103Z",
         "dateModified": "2025-07-12T09:02:05.103Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Fraudulent-Scheme-Targeting-Matru-Vandana-Beneficiaries.png)
+![Image](https://storage.googleapis.com/red_articles/Fraudulent-Scheme-Targeting-Matru-Vandana-Beneficiaries.avif)
 
 ## Introduction
 

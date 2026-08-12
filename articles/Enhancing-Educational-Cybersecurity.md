@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Educational Cybersecurity",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Educational-Cybersecurity.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Educational-Cybersecurity.avif"],
         "datePublished": "2025-04-17T08:01:40.249Z",
         "dateModified": "2025-04-17T08:01:40.249Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Enhancing Educational Cybersecurity
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Educational-Cybersecurity.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Educational-Cybersecurity.avif)
 
 ## Introduction
 

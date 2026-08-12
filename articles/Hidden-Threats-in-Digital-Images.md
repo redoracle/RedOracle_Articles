@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Hidden Threats in Digital Images",
-        "image": ["https://storage.googleapis.com/red_articles/Hidden-Threats-in-Digital-Images.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Hidden-Threats-in-Digital-Images.avif"],
         "datePublished": "2025-06-19T17:15:19.661Z",
         "dateModified": "2025-06-19T17:15:19.661Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Hidden-Threats-in-Digital-Images.png)
+![Image](https://storage.googleapis.com/red_articles/Hidden-Threats-in-Digital-Images.avif)
 
 ## Introduction
 

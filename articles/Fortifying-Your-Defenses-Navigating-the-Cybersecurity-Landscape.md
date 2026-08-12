@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Fortifying Your Defenses Navigating the Cybersecurity Landscape",
-        "image": ["https://storage.googleapis.com/red_articles/Fortifying-Your-Defenses-Navigating-the-Cybersecurity-Landscape.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Fortifying-Your-Defenses-Navigating-the-Cybersecurity-Landscape.avif"],
         "datePublished": "2025-03-23T08:00:00+00:00",
         "dateModified": "2025-03-23T09:01:01+20:00",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Fortifying Your Defenses Navigating the Cybersecurity Landscape
 
-![Image](https://storage.googleapis.com/red_articles/Fortifying-Your-Defenses-Navigating-the-Cybersecurity-Landscape.png)
+![Image](https://storage.googleapis.com/red_articles/Fortifying-Your-Defenses-Navigating-the-Cybersecurity-Landscape.avif)
 
 ## Introduction
 

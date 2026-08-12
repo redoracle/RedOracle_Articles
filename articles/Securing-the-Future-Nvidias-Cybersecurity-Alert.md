@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing the Future Nvidia's Cybersecurity Alert",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-the-Future-Nvidias-Cybersecurity-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-the-Future-Nvidias-Cybersecurity-Alert.avif"],
         "datePublished": "2025-07-14T08:02:53.269Z",
         "dateModified": "2025-07-14T08:02:53.269Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Securing-the-Future-Nvidias-Cybersecurity-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-the-Future-Nvidias-Cybersecurity-Alert.avif)
 
 ## Introduction
 

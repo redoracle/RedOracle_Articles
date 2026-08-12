@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Revolutionizing Cybersecurity with Predictive Intelligence",
-        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-Predictive-Intelligence.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-Predictive-Intelligence.avif"],
         "datePublished": "2025-04-25T08:03:03.860Z",
         "dateModified": "2025-04-25T08:03:03.860Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Revolutionizing Cybersecurity with Predictive Intelligence
 
-![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-Predictive-Intelligence.png)
+![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-Predictive-Intelligence.avif)
 
 ## Introduction
 

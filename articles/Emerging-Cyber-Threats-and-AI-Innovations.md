@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Emerging Cyber Threats and AI Innovations",
-        "image": ["https://storage.googleapis.com/red_articles/Emerging-Cyber-Threats-and-AI-Innovations.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Emerging-Cyber-Threats-and-AI-Innovations.avif"],
         "datePublished": "2025-04-28T09:03:15.832Z",
         "dateModified": "2025-04-28T09:03:15.832Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Emerging Cyber Threats and AI Innovations
 
-![Image](https://storage.googleapis.com/red_articles/Emerging-Cyber-Threats-and-AI-Innovations.png)
+![Image](https://storage.googleapis.com/red_articles/Emerging-Cyber-Threats-and-AI-Innovations.avif)
 
 ## Introduction
 

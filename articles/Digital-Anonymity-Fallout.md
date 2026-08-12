@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Digital Anonymity Fallout",
-        "image": ["https://storage.googleapis.com/red_articles/Digital-Anonymity-Fallout.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Digital-Anonymity-Fallout.avif"],
         "datePublished": "2025-08-04T06:03:00.567Z",
         "dateModified": "2025-08-04T06:03:00.567Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Digital-Anonymity-Fallout.png)
+![Image](https://storage.googleapis.com/red_articles/Digital-Anonymity-Fallout.avif)
 
 ## Introduction
 

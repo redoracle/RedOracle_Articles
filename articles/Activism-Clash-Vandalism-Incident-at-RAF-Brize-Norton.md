@@ -22,7 +22,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Activism Clash Vandalism Incident at RAF Brize Norton",
-        "image": ["https://storage.googleapis.com/red_articles/Activism-Clash-Vandalism-Incident-at-RAF-Brize-Norton.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Activism-Clash-Vandalism-Incident-at-RAF-Brize-Norton.avif"],
         "datePublished": "2025-08-03T14:16:56.492Z",
         "dateModified": "2025-08-03T14:16:56.492Z",
         "author": {
@@ -34,7 +34,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -44,7 +44,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Activism-Clash-Vandalism-Incident-at-RAF-Brize-Norton.png)
+![Image](https://storage.googleapis.com/red_articles/Activism-Clash-Vandalism-Incident-at-RAF-Brize-Norton.avif)
 
 ## Introduction
 

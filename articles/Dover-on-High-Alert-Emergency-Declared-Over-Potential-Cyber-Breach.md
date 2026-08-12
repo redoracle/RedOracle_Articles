@@ -15,7 +15,7 @@ sitemap:
 
 # Dover on High Alert Emergency Declared Over Potential Cyber Breach
 
-![Image](https://storage.googleapis.com/red_articles/Dover-on-High-Alert-Emergency-Declared-Over-Potential-Cyber-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Dover-on-High-Alert-Emergency-Declared-Over-Potential-Cyber-Breach.avif)
 
 ## Introduction
 

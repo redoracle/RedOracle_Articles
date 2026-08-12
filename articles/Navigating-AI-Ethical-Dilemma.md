@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating AI Ethical Dilemma",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-AI-Ethical-Dilemma.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-AI-Ethical-Dilemma.avif"],
         "datePublished": "2025-08-10T12:16:42.886Z",
         "dateModified": "2025-08-10T12:16:42.886Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-AI-Ethical-Dilemma.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-AI-Ethical-Dilemma.avif)
 
 ## Introduction
 

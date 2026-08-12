@@ -37,7 +37,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Colabor Group Secures Forbearance with Lenders and Investissement Quebec Through October 15 2025",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Colabor-Group-Secures-Forbearance-with-Lenders-and-Investissement-Quebec-Through-October-15-2025.avif"],
         "datePublished": "2025-09-06T18:29:46.759Z",
         "dateModified": "2025-09-06T18:29:46.759Z",
         "author": {
@@ -49,7 +49,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -59,7 +59,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Colabor-Group-Secures-Forbearance-with-Lenders-and-Investissement-Quebec-Through-October-15-2025.png)
+![Image](https://storage.googleapis.com/red_articles/Colabor-Group-Secures-Forbearance-with-Lenders-and-Investissement-Quebec-Through-October-15-2025.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Piracy Predicament Squid Game Season 2 Legal Risks",
-        "image": ["https://storage.googleapis.com/red_articles/The-Piracy-Predicament-Squid-Game-Season-2-Legal-Risks.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Piracy-Predicament-Squid-Game-Season-2-Legal-Risks.avif"],
         "datePublished": "2025-08-16T20:43:28.521Z",
         "dateModified": "2025-08-16T20:43:28.521Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/The-Piracy-Predicament-Squid-Game-Season-2-Legal-Risks.png)
+![Image](https://storage.googleapis.com/red_articles/The-Piracy-Predicament-Squid-Game-Season-2-Legal-Risks.avif)
 
 ## Introduction
 

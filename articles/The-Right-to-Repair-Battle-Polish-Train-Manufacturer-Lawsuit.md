@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Right to Repair Battle Polish Train Manufacturer Lawsuit",
-        "image": ["https://storage.googleapis.com/red_articles/The-Right-to-Repair-Battle-Polish-Train-Manufacturer-Lawsuit.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Right-to-Repair-Battle-Polish-Train-Manufacturer-Lawsuit.avif"],
         "datePublished": "2025-08-05T12:17:08.521Z",
         "dateModified": "2025-08-05T12:17:08.521Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/The-Right-to-Repair-Battle-Polish-Train-Manufacturer-Lawsuit.png)
+![Image](https://storage.googleapis.com/red_articles/The-Right-to-Repair-Battle-Polish-Train-Manufacturer-Lawsuit.avif)
 
 ## Introduction
 

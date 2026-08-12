@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Financial Data Breach Protecting Your Information",
-        "image": ["https://storage.googleapis.com/red_articles/Financial-Data-Breach-Protecting-Your-Information.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Financial-Data-Breach-Protecting-Your-Information.avif"],
         "datePublished": "2025-05-07T09:02:53.375Z",
         "dateModified": "2025-05-07T09:02:53.375Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Financial Data Breach Protecting Your Information
 
-![Image](https://storage.googleapis.com/red_articles/Financial-Data-Breach-Protecting-Your-Information.png)
+![Image](https://storage.googleapis.com/red_articles/Financial-Data-Breach-Protecting-Your-Information.avif)
 
 ## Introduction
 

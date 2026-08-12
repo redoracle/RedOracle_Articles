@@ -15,7 +15,7 @@ sitemap:
 
 # Rethinking Entry-Level Cyber Roles
 
-![Image](https://storage.googleapis.com/red_articles/Rethinking-Entry-Level-Cyber-Roles.png)
+![Image](https://storage.googleapis.com/red_articles/Rethinking-Entry-Level-Cyber-Roles.avif)
 
 ## Introduction
 

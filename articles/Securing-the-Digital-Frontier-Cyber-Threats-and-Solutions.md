@@ -15,7 +15,7 @@ sitemap:
 
 # Securing the Digital Frontier Cyber Threats and Solutions
 
-![Image](https://storage.googleapis.com/red_articles/Securing-the-Digital-Frontier-Cyber-Threats-and-Solutions.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-the-Digital-Frontier-Cyber-Threats-and-Solutions.avif)
 
 ## Introduction
 

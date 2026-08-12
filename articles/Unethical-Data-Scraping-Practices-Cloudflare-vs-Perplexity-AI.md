@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unethical Data Scraping Practices Cloudflare vs Perplexity AI",
-        "image": ["https://storage.googleapis.com/red_articles/Unethical-Data-Scraping-Practices-Cloudflare-vs-Perplexity-AI.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unethical-Data-Scraping-Practices-Cloudflare-vs-Perplexity-AI.avif"],
         "datePublished": "2025-08-05T08:04:19.228Z",
         "dateModified": "2025-08-05T08:04:19.228Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unethical-Data-Scraping-Practices-Cloudflare-vs-Perplexity-AI.png)
+![Image](https://storage.googleapis.com/red_articles/Unethical-Data-Scraping-Practices-Cloudflare-vs-Perplexity-AI.avif)
 
 ## Introduction
 

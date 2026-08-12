@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Data Breach Alert CDHA Management & Spark DSO Investigation",
-        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Alert-CDHA-Management-Spark-DSO-Investigation.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Alert-CDHA-Management-Spark-DSO-Investigation.avif"],
         "datePublished": "2025-04-05T08:02:15.290Z",
         "dateModified": "2025-04-05T08:02:15.290Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Data Breach Alert CDHA Management & Spark DSO Investigation
 
-![Image](https://storage.googleapis.com/red_articles/Data-Breach-Alert-CDHA-Management-Spark-DSO-Investigation.png)
+![Image](https://storage.googleapis.com/red_articles/Data-Breach-Alert-CDHA-Management-Spark-DSO-Investigation.avif)
 
 ## Introduction
 

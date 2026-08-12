@@ -42,7 +42,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Noem Fires Two Dozen FEMA IT Staff Over Cyber Gaps Amid DHS Overhaul”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Noem-Fires-Two-Dozen-FEMA-IT-Staff-Over-Cyber-Gaps-Amid-DHS-Overhaul.avif"],
         "datePublished": "2025-08-30T07:02:45.079Z",
         "dateModified": "2025-08-30T07:02:45.079Z",
         "author": {
@@ -54,7 +54,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -64,7 +64,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Noem-Fires-Two-Dozen-FEMA-IT-Staff-Over-Cyber-Gaps-Amid-DHS-Overhaul”.png)
+![Image](https://storage.googleapis.com/red_articles/“Noem-Fires-Two-Dozen-FEMA-IT-Staff-Over-Cyber-Gaps-Amid-DHS-Overhaul”.avif)
 
 ## Introduction
 

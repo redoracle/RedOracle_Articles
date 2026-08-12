@@ -34,7 +34,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Illegals and Evil Corp GRU Operations and Global Sanctions in 2024”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Illegals-and-Evil-Corp-GRU-Operations-and-Global-Sanctions-in-2024.avif"],
         "datePublished": "2025-08-25T10:11:04.925Z",
         "dateModified": "2025-08-25T10:11:04.925Z",
         "author": {
@@ -46,7 +46,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -56,7 +56,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Illegals-and-Evil-Corp-GRU-Operations-and-Global-Sanctions-in-2024”.png)
+![Image](https://storage.googleapis.com/red_articles/“Illegals-and-Evil-Corp-GRU-Operations-and-Global-Sanctions-in-2024”.avif)
 
 ## Introduction
 

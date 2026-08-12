@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Evolving Cyber Threats Recent Incidents & Security Measures",
-        "image": ["https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Recent-Incidents-Security-Measures.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Recent-Incidents-Security-Measures.avif"],
         "datePublished": "2025-08-01T09:04:10.319Z",
         "dateModified": "2025-08-01T09:04:10.319Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Recent-Incidents-Security-Measures.png)
+![Image](https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Recent-Incidents-Security-Measures.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Defendis Showcases AI Cybersecurity Innovations at GITEX Africa 2025",
-        "image": ["https://storage.googleapis.com/red_articles/Defendis-Showcases-AI-Cybersecurity-Innovations-at-GITEX-Africa-2025.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Defendis-Showcases-AI-Cybersecurity-Innovations-at-GITEX-Africa-2025.avif"],
         "datePublished": "2025-04-15T09:01:58.109Z",
         "dateModified": "2025-04-15T09:01:58.109Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Defendis Showcases AI Cybersecurity Innovations at GITEX Africa 2025
 
-![Image](https://storage.googleapis.com/red_articles/Defendis-Showcases-AI-Cybersecurity-Innovations-at-GITEX-Africa-2025.png)
+![Image](https://storage.googleapis.com/red_articles/Defendis-Showcases-AI-Cybersecurity-Innovations-at-GITEX-Africa-2025.avif)
 
 ## Introduction
 

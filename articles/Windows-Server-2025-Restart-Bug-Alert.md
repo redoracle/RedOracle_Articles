@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Windows Server 2025 Restart Bug Alert",
-        "image": ["https://storage.googleapis.com/red_articles/Windows-Server-2025-Restart-Bug-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Windows-Server-2025-Restart-Bug-Alert.avif"],
         "datePublished": "2025-04-15T11:08:31.001Z",
         "dateModified": "2025-04-15T11:08:31.001Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Windows Server 2025 Restart Bug Alert
 
-![Image](https://storage.googleapis.com/red_articles/Windows-Server-2025-Restart-Bug-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/Windows-Server-2025-Restart-Bug-Alert.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Tech Evolution Back to the Future Retrospective",
-        "image": ["https://storage.googleapis.com/red_articles/Tech-Evolution-Back-to-the-Future-Retrospective.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Tech-Evolution-Back-to-the-Future-Retrospective.avif"],
         "datePublished": "2025-07-08T09:03:28.265Z",
         "dateModified": "2025-07-08T09:03:28.265Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Tech-Evolution-Back-to-the-Future-Retrospective.png)
+![Image](https://storage.googleapis.com/red_articles/Tech-Evolution-Back-to-the-Future-Retrospective.avif)
 
 ## Introduction
 

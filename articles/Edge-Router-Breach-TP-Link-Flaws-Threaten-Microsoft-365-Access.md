@@ -44,7 +44,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Edge Router Breach TP-Link Flaws Threaten Microsoft 365 Access”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Edge-Router-Breach-TP-Link-Flaws-Threaten-Microsoft-365-Access.avif"],
         "datePublished": "2025-09-06T15:21:08.991Z",
         "dateModified": "2025-09-06T15:21:08.991Z",
         "author": {
@@ -56,7 +56,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -66,7 +66,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Edge-Router-Breach-TP-Link-Flaws-Threaten-Microsoft-365-Access”.png)
+![Image](https://storage.googleapis.com/red_articles/“Edge-Router-Breach-TP-Link-Flaws-Threaten-Microsoft-365-Access”.avif)
 
 ## Introduction
 

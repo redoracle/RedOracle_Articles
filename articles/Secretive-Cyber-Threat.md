@@ -15,7 +15,7 @@ sitemap:
 
 # Secretive Cyber Threat
 
-![Image](https://storage.googleapis.com/red_articles/Secretive-Cyber-Threat.png)
+![Image](https://storage.googleapis.com/red_articles/Secretive-Cyber-Threat.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Cyber Threats Unveiled Protecting Data in a Digital World
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Unveiled-Protecting-Data-in-a-Digital-World.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Unveiled-Protecting-Data-in-a-Digital-World.avif)
 
 ## Introduction
 

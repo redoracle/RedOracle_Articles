@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Trump's Controversial Budget Cuts",
-        "image": ["https://storage.googleapis.com/red_articles/Trumps-Controversial-Budget-Cuts.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Trumps-Controversial-Budget-Cuts.avif"],
         "datePublished": "2025-06-09T09:03:16.907Z",
         "dateModified": "2025-06-09T09:03:16.907Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Trumps-Controversial-Budget-Cuts.png)
+![Image](https://storage.googleapis.com/red_articles/Trumps-Controversial-Budget-Cuts.avif)
 
 ## Introduction
 

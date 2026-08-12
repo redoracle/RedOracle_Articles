@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Data Breach Lawsuit Against Credit Sesame",
-        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Lawsuit-Against-Credit-Sesame.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Lawsuit-Against-Credit-Sesame.avif"],
         "datePublished": "2025-04-23T10:01:57.086Z",
         "dateModified": "2025-04-23T10:01:57.086Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Data Breach Lawsuit Against Credit Sesame
 
-![Image](https://storage.googleapis.com/red_articles/Data-Breach-Lawsuit-Against-Credit-Sesame.png)
+![Image](https://storage.googleapis.com/red_articles/Data-Breach-Lawsuit-Against-Credit-Sesame.avif)
 
 ## Introduction
 

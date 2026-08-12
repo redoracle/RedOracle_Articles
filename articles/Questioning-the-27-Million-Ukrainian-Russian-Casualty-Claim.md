@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Questioning the 2.7 Million Ukrainian-Russian Casualty Claim",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Questioning-the-27-Million-Ukrainian-Russian-Casualty-Claim.avif"],
         "datePublished": "2025-08-22T10:02:24.451Z",
         "dateModified": "2025-08-22T10:02:24.451Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Questioning-the-27-Million-Ukrainian-Russian-Casualty-Claim.png)
+![Image](https://storage.googleapis.com/red_articles/Questioning-the-27-Million-Ukrainian-Russian-Casualty-Claim.avif)
 
 ## Introduction
 

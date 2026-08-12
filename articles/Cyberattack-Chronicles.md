@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cyberattack Chronicles",
-        "image": ["https://storage.googleapis.com/red_articles/Cyberattack-Chronicles.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cyberattack-Chronicles.avif"],
         "datePublished": "2025-05-28T08:10:39.858Z",
         "dateModified": "2025-05-28T08:10:39.858Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cyberattack-Chronicles.png)
+![Image](https://storage.googleapis.com/red_articles/Cyberattack-Chronicles.avif)
 
 ## Introduction
 

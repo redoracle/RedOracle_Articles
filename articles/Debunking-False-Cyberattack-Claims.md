@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Debunking False Cyberattack Claims",
-        "image": ["https://storage.googleapis.com/red_articles/Debunking-False-Cyberattack-Claims.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Debunking-False-Cyberattack-Claims.avif"],
         "datePublished": "2025-05-12T10:03:12.488Z",
         "dateModified": "2025-05-12T10:03:12.488Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Debunking-False-Cyberattack-Claims.png)
+![Image](https://storage.googleapis.com/red_articles/Debunking-False-Cyberattack-Claims.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unraveling AI Recognition User Insights & Model Behavior",
-        "image": ["https://storage.googleapis.com/red_articles/Unraveling-AI-Recognition-User-Insights-Model-Behavior.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unraveling-AI-Recognition-User-Insights-Model-Behavior.avif"],
         "datePublished": "2025-08-10T16:29:25.465Z",
         "dateModified": "2025-08-10T16:29:25.465Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unraveling-AI-Recognition-User-Insights-Model-Behavior.png)
+![Image](https://storage.googleapis.com/red_articles/Unraveling-AI-Recognition-User-Insights-Model-Behavior.avif)
 
 ## Introduction
 

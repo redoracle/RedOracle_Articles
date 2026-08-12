@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Samsung's Surprise Security Patch",
-        "image": ["https://storage.googleapis.com/red_articles/Samsungs-Surprise-Security-Patch.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Samsungs-Surprise-Security-Patch.avif"],
         "datePublished": "2025-08-07T11:11:36.703Z",
         "dateModified": "2025-08-07T11:11:36.703Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Samsungs-Surprise-Security-Patch.png)
+![Image](https://storage.googleapis.com/red_articles/Samsungs-Surprise-Security-Patch.avif)
 
 ## Introduction
 

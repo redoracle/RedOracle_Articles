@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Public Health Nigeria's Response",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Public-Health-Nigerias-Response.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Public-Health-Nigerias-Response.avif"],
         "datePublished": "2025-08-07T06:10:17.439Z",
         "dateModified": "2025-08-07T06:10:17.439Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Public-Health-Nigerias-Response.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Public-Health-Nigerias-Response.avif)
 
 ## Introduction
 

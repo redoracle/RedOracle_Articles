@@ -15,7 +15,7 @@ sitemap:
 
 # Major Data Breach at AI Startup DeepSeek Raises Global Concerns
 
-![Image](https://storage.googleapis.com/red_articles/Major-Data-Breach-at-AI-Startup-DeepSeek-Raises-Global-Concerns.png)
+![Image](https://storage.googleapis.com/red_articles/Major-Data-Breach-at-AI-Startup-DeepSeek-Raises-Global-Concerns.avif)
 
 ## Introduction
 

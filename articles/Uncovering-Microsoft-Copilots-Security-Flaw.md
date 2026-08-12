@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Microsoft Copilot's Security Flaw",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Microsoft-Copilots-Security-Flaw.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Microsoft-Copilots-Security-Flaw.avif"],
         "datePublished": "2025-07-26T21:44:45.761Z",
         "dateModified": "2025-07-26T21:44:45.761Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Microsoft-Copilots-Security-Flaw.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Microsoft-Copilots-Security-Flaw.avif)
 
 ## Introduction
 

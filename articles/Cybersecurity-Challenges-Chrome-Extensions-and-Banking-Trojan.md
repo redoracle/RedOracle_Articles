@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Challenges Chrome Extensions and Banking Trojan",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-Chrome-Extensions-and-Banking-Trojan.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-Chrome-Extensions-and-Banking-Trojan.avif"],
         "datePublished": "2025-06-22T09:01:34.148Z",
         "dateModified": "2025-06-22T09:01:34.148Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-Chrome-Extensions-and-Banking-Trojan.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-Chrome-Extensions-and-Banking-Trojan.avif)
 
 ## Introduction
 

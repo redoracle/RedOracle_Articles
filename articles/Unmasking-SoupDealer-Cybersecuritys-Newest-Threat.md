@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unmasking SoupDealer Cybersecurity's Newest Threat",
-        "image": ["https://storage.googleapis.com/red_articles/Unmasking-SoupDealer-Cybersecuritys-Newest-Threat.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unmasking-SoupDealer-Cybersecuritys-Newest-Threat.avif"],
         "datePublished": "2025-08-12T23:00:20.742Z",
         "dateModified": "2025-08-12T23:00:20.742Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unmasking-SoupDealer-Cybersecuritys-Newest-Threat.png)
+![Image](https://storage.googleapis.com/red_articles/Unmasking-SoupDealer-Cybersecuritys-Newest-Threat.avif)
 
 ## Introduction
 

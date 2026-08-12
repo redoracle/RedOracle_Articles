@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Critical Vulnerabilities in Zyxel Firewalls",
-        "image": ["https://storage.googleapis.com/red_articles/Critical-Vulnerabilities-in-Zyxel-Firewalls.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Critical-Vulnerabilities-in-Zyxel-Firewalls.avif"],
         "datePublished": "2025-04-24T07:03:27.843Z",
         "dateModified": "2025-04-24T07:03:27.843Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Critical Vulnerabilities in Zyxel Firewalls
 
-![Image](https://storage.googleapis.com/red_articles/Critical-Vulnerabilities-in-Zyxel-Firewalls.png)
+![Image](https://storage.googleapis.com/red_articles/Critical-Vulnerabilities-in-Zyxel-Firewalls.avif)
 
 ## Introduction
 

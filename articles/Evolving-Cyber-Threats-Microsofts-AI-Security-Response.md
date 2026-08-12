@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Evolving Cyber Threats Microsoft's AI Security Response",
-        "image": ["https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Microsofts-AI-Security-Response.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Microsofts-AI-Security-Response.avif"],
         "datePublished": "2025-03-27T12:15:42.900Z",
         "dateModified": "2025-03-27T12:15:42.900Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Evolving Cyber Threats Microsoft's AI Security Response
 
-![Image](https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Microsofts-AI-Security-Response.png)
+![Image](https://storage.googleapis.com/red_articles/Evolving-Cyber-Threats-Microsofts-AI-Security-Response.avif)
 
 ## Introduction
 

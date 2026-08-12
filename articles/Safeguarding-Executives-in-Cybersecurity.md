@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Executives in Cybersecurity",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Executives-in-Cybersecurity.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Executives-in-Cybersecurity.avif"],
         "datePublished": "2025-04-12T10:02:56.368Z",
         "dateModified": "2025-04-12T10:02:56.368Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Safeguarding Executives in Cybersecurity
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Executives-in-Cybersecurity.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Executives-in-Cybersecurity.avif)
 
 ## Introduction
 

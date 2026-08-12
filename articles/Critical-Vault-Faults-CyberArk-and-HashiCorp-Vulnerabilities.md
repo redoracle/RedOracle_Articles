@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Critical Vault Faults CyberArk and HashiCorp Vulnerabilities",
-        "image": ["https://storage.googleapis.com/red_articles/Critical-Vault-Faults-CyberArk-and-HashiCorp-Vulnerabilities.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Critical-Vault-Faults-CyberArk-and-HashiCorp-Vulnerabilities.avif"],
         "datePublished": "2025-08-14T07:02:55.091Z",
         "dateModified": "2025-08-14T07:02:55.091Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Critical-Vault-Faults-CyberArk-and-HashiCorp-Vulnerabilities.png)
+![Image](https://storage.googleapis.com/red_articles/Critical-Vault-Faults-CyberArk-and-HashiCorp-Vulnerabilities.avif)
 
 ## Introduction
 

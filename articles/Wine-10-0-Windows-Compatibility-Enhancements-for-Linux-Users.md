@@ -15,7 +15,7 @@ sitemap:
 
 # Wine 10.0 Windows Compatibility Enhancements for Linux Users
 
-![Image](https://storage.googleapis.com/red_articles/Wine-10-0-Windows-Compatibility-Enhancements-for-Linux-Users.png)
+![Image](https://storage.googleapis.com/red_articles/Wine-10-0-Windows-Compatibility-Enhancements-for-Linux-Users.avif)
 
 ## Introduction
 

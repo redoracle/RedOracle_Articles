@@ -35,7 +35,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Founder-Led Exits and Biopharma Restructuring in 2025 The Startup Solve Sale and IPO Window”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Founder-Led-Exits-and-Biopharma-Restructuring-in-2025-The-Startup-Solve-Sale-and-IPO-Window.avif"],
         "datePublished": "2025-09-04T17:28:13.660Z",
         "dateModified": "2025-09-04T17:28:13.660Z",
         "author": {
@@ -47,7 +47,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -57,7 +57,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Founder-Led-Exits-and-Biopharma-Restructuring-in-2025-The-Startup-Solve-Sale-and-IPO-Window”.png)
+![Image](https://storage.googleapis.com/red_articles/“Founder-Led-Exits-and-Biopharma-Restructuring-in-2025-The-Startup-Solve-Sale-and-IPO-Window”.avif)
 
 ## Introduction
 

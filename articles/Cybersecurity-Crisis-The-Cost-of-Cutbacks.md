@@ -16,7 +16,7 @@ sitemap:
 
 # Cybersecurity Crisis The Cost of Cutbacks
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Crisis-The-Cost-of-Cutbacks.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Crisis-The-Cost-of-Cutbacks.avif)
 
 ## Introduction
 

@@ -35,7 +35,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Hacker and Physicist A Tale of Common Sense in Cybersecurity”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Hacker-and-Physicist-A-Tale-of-Common-Sense-in-Cybersecurity.avif"],
         "datePublished": "2025-08-23T13:09:54.840Z",
         "dateModified": "2025-08-23T13:09:54.840Z",
         "author": {
@@ -47,7 +47,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -57,7 +57,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Hacker-and-Physicist-A-Tale-of-Common-Sense-in-Cybersecurity”.png)
+![Image](https://storage.googleapis.com/red_articles/“Hacker-and-Physicist-A-Tale-of-Common-Sense-in-Cybersecurity”.avif)
 
 ## Introduction
 
@@ -187,7 +187,7 @@ Common sense acts as a compact heuristic that speeds decision making but depends
 ## Image and Fact Checking
 
 - Image used
-  - https://storage.googleapis.com/red_articles/“Hacker-and-Physicist-A-Tale-of-Common-Sense-in-Cybersecurity”.png
+  - https://storage.googleapis.com/red_articles/“Hacker-and-Physicist-A-Tale-of-Common-Sense-in-Cybersecurity”.avif
 - Fact checking resources
   - OWASP Top Ten https://owasp.org/www-project-top-ten/
   - NIST Cybersecurity Framework https://www.nist.gov/cyberframework

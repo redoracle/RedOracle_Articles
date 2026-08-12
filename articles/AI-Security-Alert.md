@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "AI Security Alert",
-        "image": ["https://storage.googleapis.com/red_articles/AI-Security-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/AI-Security-Alert.avif"],
         "datePublished": "2025-08-12T19:42:44.570Z",
         "dateModified": "2025-08-12T19:42:44.570Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/AI-Security-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/AI-Security-Alert.avif)
 
 ## Introduction
 

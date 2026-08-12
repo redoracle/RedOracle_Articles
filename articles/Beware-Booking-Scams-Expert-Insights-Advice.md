@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Beware Booking Scams Expert Insights & Advice",
-        "image": ["https://storage.googleapis.com/red_articles/Beware-Booking-Scams-Expert-Insights-Advice.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Beware-Booking-Scams-Expert-Insights-Advice.avif"],
         "datePublished": "2025-06-05T06:02:12.290Z",
         "dateModified": "2025-06-05T06:02:12.290Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Beware-Booking-Scams-Expert-Insights-Advice.png)
+![Image](https://storage.googleapis.com/red_articles/Beware-Booking-Scams-Expert-Insights-Advice.avif)
 
 ## Introduction
 

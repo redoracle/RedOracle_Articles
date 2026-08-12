@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling Panchayat Season 4 Leak",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Panchayat-Season-4-Leak.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Panchayat-Season-4-Leak.avif"],
         "datePublished": "2025-06-24T08:02:43.540Z",
         "dateModified": "2025-06-24T08:02:43.540Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Panchayat-Season-4-Leak.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Panchayat-Season-4-Leak.avif)
 
 ## Introduction
 

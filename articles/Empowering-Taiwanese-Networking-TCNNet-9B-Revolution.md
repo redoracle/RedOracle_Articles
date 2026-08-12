@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Empowering Taiwanese Networking TCNNet-9B Revolution",
-        "image": ["https://storage.googleapis.com/red_articles/Empowering-Taiwanese-Networking-TCNNet-9B-Revolution.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Empowering-Taiwanese-Networking-TCNNet-9B-Revolution.avif"],
         "datePublished": "2025-08-05T14:23:53.639Z",
         "dateModified": "2025-08-05T14:23:53.639Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Empowering-Taiwanese-Networking-TCNNet-9B-Revolution.png)
+![Image](https://storage.googleapis.com/red_articles/Empowering-Taiwanese-Networking-TCNNet-9B-Revolution.avif)
 
 ## Introduction
 

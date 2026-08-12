@@ -11,7 +11,7 @@ lastUpdated: true
 
 # Cybersecurity Breach Analysis Safeguarding Sensitive Data
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Analysis-Safeguarding-Sensitive-Data.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Breach-Analysis-Safeguarding-Sensitive-Data.avif)
 
 ## Introduction
 

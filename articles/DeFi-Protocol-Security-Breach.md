@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "DeFi Protocol Security Breach",
-        "image": ["https://storage.googleapis.com/red_articles/DeFi-Protocol-Security-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/DeFi-Protocol-Security-Breach.avif"],
         "datePublished": "2025-08-09T17:28:41.184Z",
         "dateModified": "2025-08-09T17:28:41.184Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/DeFi-Protocol-Security-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/DeFi-Protocol-Security-Breach.avif)
 
 ## Introduction
 

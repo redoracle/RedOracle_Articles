@@ -15,7 +15,7 @@ sitemap:
 
 # Security Breach Alert Intern Fired for Leaking Data
 
-![Image](https://storage.googleapis.com/red_articles/Security-Breach-Alert-Intern-Fired-for-Leaking-Data.png)
+![Image](https://storage.googleapis.com/red_articles/Security-Breach-Alert-Intern-Fired-for-Leaking-Data.avif)
 
 ## Introduction
 

@@ -39,7 +39,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Claude Powered AI Extortion Across Seventeen Firms",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Claude-Powered-AI-Extortion-Across-Seventeen-Firms.avif"],
         "datePublished": "2025-08-28T12:11:54.933Z",
         "dateModified": "2025-08-28T12:11:54.933Z",
         "author": {
@@ -51,7 +51,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -61,7 +61,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Claude-Powered-AI-Extortion-Across-Seventeen-Firms.png)
+![Image](https://storage.googleapis.com/red_articles/Claude-Powered-AI-Extortion-Across-Seventeen-Firms.avif)
 
 ## Introduction
 

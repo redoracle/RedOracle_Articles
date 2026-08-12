@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing GitHub Security with GitPhish",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-GitHub-Security-with-GitPhish.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-GitHub-Security-with-GitPhish.avif"],
         "datePublished": "2025-07-04T13:36:16.604Z",
         "dateModified": "2025-07-04T13:36:16.604Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-GitHub-Security-with-GitPhish.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-GitHub-Security-with-GitPhish.avif)
 
 ## Introduction
 

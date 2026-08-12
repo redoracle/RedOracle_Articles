@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Resilience Amid Adversity The Story of Saurabh Anand",
-        "image": ["https://storage.googleapis.com/red_articles/Resilience-Amid-Adversity-The-Story-of-Saurabh-Anand.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Resilience-Amid-Adversity-The-Story-of-Saurabh-Anand.avif"],
         "datePublished": "2025-08-17T11:09:04.198Z",
         "dateModified": "2025-08-17T11:09:04.198Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Resilience-Amid-Adversity-The-Story-of-Saurabh-Anand.png)
+![Image](https://storage.googleapis.com/red_articles/Resilience-Amid-Adversity-The-Story-of-Saurabh-Anand.avif)
 
 ## Introduction
 

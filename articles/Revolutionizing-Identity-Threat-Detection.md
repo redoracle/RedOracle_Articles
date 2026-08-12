@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Revolutionizing Identity Threat Detection",
-        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Identity-Threat-Detection.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Identity-Threat-Detection.avif"],
         "datePublished": "2025-04-30T06:04:41.698Z",
         "dateModified": "2025-04-30T06:04:41.698Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Revolutionizing Identity Threat Detection
 
-![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Identity-Threat-Detection.png)
+![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Identity-Threat-Detection.avif)
 
 ## Introduction
 

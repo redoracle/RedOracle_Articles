@@ -40,7 +40,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Crypto Endless War Human-Centric Attacks Drive 2.47B Losses in H1 2025",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Crypto-Endless-War-Human-Centric-Attacks-Drive-247B-Losses-in-H1-2025.avif"],
         "datePublished": "2025-08-27T10:11:23.047Z",
         "dateModified": "2025-08-27T10:11:23.047Z",
         "author": {
@@ -52,7 +52,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -62,7 +62,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Crypto-Endless-War-Human-Centric-Attacks-Drive-247B-Losses-in-H1-2025.png)
+![Image](https://storage.googleapis.com/red_articles/Crypto-Endless-War-Human-Centric-Attacks-Drive-247B-Losses-in-H1-2025.avif)
 
 ## Introduction
 

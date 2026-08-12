@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Data Breach Settlement Ensuring Privacy & Compensation",
-        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Settlement-Ensuring-Privacy-Compensation.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Data-Breach-Settlement-Ensuring-Privacy-Compensation.avif"],
         "datePublished": "2025-03-23T18:58:09.592Z",
         "dateModified": "2025-03-23T18:58:09.592Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Data Breach Settlement Ensuring Privacy & Compensation
 
-![Image](https://storage.googleapis.com/red_articles/Data-Breach-Settlement-Ensuring-Privacy-Compensation.png)
+![Image](https://storage.googleapis.com/red_articles/Data-Breach-Settlement-Ensuring-Privacy-Compensation.avif)
 
 ## Introduction
 

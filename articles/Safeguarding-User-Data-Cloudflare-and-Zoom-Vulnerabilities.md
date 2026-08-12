@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding User Data Cloudflare and Zoom Vulnerabilities",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-User-Data-Cloudflare-and-Zoom-Vulnerabilities.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-User-Data-Cloudflare-and-Zoom-Vulnerabilities.avif"],
         "datePublished": "2025-05-18T09:03:07.298Z",
         "dateModified": "2025-05-18T09:03:07.298Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-User-Data-Cloudflare-and-Zoom-Vulnerabilities.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-User-Data-Cloudflare-and-Zoom-Vulnerabilities.avif)
 
 ## Introduction
 

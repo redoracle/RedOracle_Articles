@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unraveling Volt Typhoon US Cybersecurity In Peril",
-        "image": ["https://storage.googleapis.com/red_articles/Unraveling-Volt-Typhoon-US-Cybersecurity-In-Peril.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unraveling-Volt-Typhoon-US-Cybersecurity-In-Peril.avif"],
         "datePublished": "2025-08-04T14:33:28.859Z",
         "dateModified": "2025-08-04T14:33:28.859Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unraveling-Volt-Typhoon-US-Cybersecurity-In-Peril.png)
+![Image](https://storage.googleapis.com/red_articles/Unraveling-Volt-Typhoon-US-Cybersecurity-In-Peril.avif)
 
 ## Introduction
 

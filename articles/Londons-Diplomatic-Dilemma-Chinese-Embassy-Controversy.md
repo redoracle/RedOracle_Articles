@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "London's Diplomatic Dilemma Chinese Embassy Controversy",
-        "image": ["https://storage.googleapis.com/red_articles/Londons-Diplomatic-Dilemma-Chinese-Embassy-Controversy.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Londons-Diplomatic-Dilemma-Chinese-Embassy-Controversy.avif"],
         "datePublished": "2025-08-04T10:19:06.201Z",
         "dateModified": "2025-08-04T10:19:06.201Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Londons-Diplomatic-Dilemma-Chinese-Embassy-Controversy.png)
+![Image](https://storage.googleapis.com/red_articles/Londons-Diplomatic-Dilemma-Chinese-Embassy-Controversy.avif)
 
 ## Introduction
 

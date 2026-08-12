@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Healthcare Data Breach Investigation Launched",
-        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Investigation-Launched.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Investigation-Launched.avif"],
         "datePublished": "2025-04-29T10:03:29.979Z",
         "dateModified": "2025-04-29T10:03:29.979Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Healthcare Data Breach Investigation Launched
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Investigation-Launched.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Investigation-Launched.avif)
 
 ## Introduction
 

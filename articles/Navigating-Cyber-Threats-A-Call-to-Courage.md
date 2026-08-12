@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating Cyber Threats A Call to Courage",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cyber-Threats-A-Call-to-Courage.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cyber-Threats-A-Call-to-Courage.avif"],
         "datePublished": "2025-08-09T09:03:13.505Z",
         "dateModified": "2025-08-09T09:03:13.505Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Cyber-Threats-A-Call-to-Courage.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Cyber-Threats-A-Call-to-Courage.avif)
 
 ## Introduction
 

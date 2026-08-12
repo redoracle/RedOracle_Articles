@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling Black Basta's Ransomware Tactics",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Black-Bastas-Ransomware-Tactics.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-Black-Bastas-Ransomware-Tactics.avif"],
         "datePublished": "2025-03-23T23:44:11.294Z",
         "dateModified": "2025-03-23T23:44:11.294Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Unveiling Black Basta's Ransomware Tactics
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Black-Bastas-Ransomware-Tactics.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Black-Bastas-Ransomware-Tactics.avif)
 
 ## Introduction
 

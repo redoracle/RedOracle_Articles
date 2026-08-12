@@ -34,7 +34,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Online Shopping at Work Not a Sackable Offence, UK Judge Rules”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Online-Shopping-at-Work-Not-a-Sackable-Offence-UK-Judge-Rules.avif"],
         "datePublished": "2025-09-07T03:55:00.064Z",
         "dateModified": "2025-09-07T03:55:00.064Z",
         "author": {
@@ -46,7 +46,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -56,7 +56,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Online-Shopping-at-Work-Not-a-Sackable-Offence-UK-Judge-Rules”.png)
+![Image](https://storage.googleapis.com/red_articles/“Online-Shopping-at-Work-Not-a-Sackable-Offence-UK-Judge-Rules”.avif)
 
 ## Introduction
 

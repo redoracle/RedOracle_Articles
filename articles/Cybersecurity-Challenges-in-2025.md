@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Challenges in 2025",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-in-2025.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-in-2025.avif"],
         "datePublished": "2025-05-17T06:02:26.709Z",
         "dateModified": "2025-05-17T06:02:26.709Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-in-2025.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Challenges-in-2025.avif)
 
 ## Introduction
 

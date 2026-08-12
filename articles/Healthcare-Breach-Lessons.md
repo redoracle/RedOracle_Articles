@@ -15,7 +15,7 @@ sitemap:
 
 # Healthcare Breach Lessons
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Breach-Lessons.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Breach-Lessons.avif)
 
 ## Introduction
 

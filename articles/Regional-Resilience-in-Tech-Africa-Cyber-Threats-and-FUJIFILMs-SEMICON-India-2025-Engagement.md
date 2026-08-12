@@ -42,7 +42,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Regional Resilience in Tech Africa Cyber Threats Ahead of Gitex Nigeria 2025 and FUJIFILM India's SEMICON India 2025 Engagement",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Regional-Resilience-in-Tech-Africa-Cyber-Threats-and-FUJIFILMs-SEMICON-India-2025-Engagement.avif"],
         "datePublished": "2025-08-28T09:03:08.104Z",
         "dateModified": "2025-08-28T09:03:08.104Z",
         "author": {
@@ -54,7 +54,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -64,7 +64,7 @@ head:
       }
 ---
 
-![Regional Resilience in Tech Africa Cyber Threats and FUJIFILM SEMICON India Engagement](https://storage.googleapis.com/red_articles/Regional-Resilience-in-Tech-Africa-Cyber-Threats-and-FUJIFILMs-SEMICON-India-2025-Engagement.png)
+![Regional Resilience in Tech Africa Cyber Threats and FUJIFILM SEMICON India Engagement](https://storage.googleapis.com/red_articles/Regional-Resilience-in-Tech-Africa-Cyber-Threats-and-FUJIFILMs-SEMICON-India-2025-Engagement.avif)
 
 ## Introduction
 

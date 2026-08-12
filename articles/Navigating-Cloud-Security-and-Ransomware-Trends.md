@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating Cloud Security and Ransomware Trends",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cloud-Security-and-Ransomware-Trends.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cloud-Security-and-Ransomware-Trends.avif"],
         "datePublished": "2025-05-10T09:03:53.547Z",
         "dateModified": "2025-05-10T09:03:53.547Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Cloud-Security-and-Ransomware-Trends.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Cloud-Security-and-Ransomware-Trends.avif)
 
 ## Introduction
 

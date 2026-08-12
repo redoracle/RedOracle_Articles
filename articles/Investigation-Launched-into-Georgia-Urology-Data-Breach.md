@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Investigation Launched into Georgia Urology Data Breach",
-        "image": ["https://storage.googleapis.com/red_articles/Investigation-Launched-into-Georgia-Urology-Data-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Investigation-Launched-into-Georgia-Urology-Data-Breach.avif"],
         "datePublished": "2025-04-08T06:02:12.002Z",
         "dateModified": "2025-04-08T06:02:12.002Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Investigation Launched into Georgia Urology Data Breach
 
-![Image](https://storage.googleapis.com/red_articles/Investigation-Launched-into-Georgia-Urology-Data-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Investigation-Launched-into-Georgia-Urology-Data-Breach.avif)
 
 ## Introduction
 

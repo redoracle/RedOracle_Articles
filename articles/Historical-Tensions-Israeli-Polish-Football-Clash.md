@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Historical Tensions Israeli-Polish Football Clash",
-        "image": ["https://storage.googleapis.com/red_articles/Historical-Tensions-Israeli-Polish-Football-Clash.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Historical-Tensions-Israeli-Polish-Football-Clash.avif"],
         "datePublished": "2025-08-17T09:03:08.516Z",
         "dateModified": "2025-08-17T09:03:08.516Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Historical-Tensions-Israeli-Polish-Football-Clash.png)
+![Image](https://storage.googleapis.com/red_articles/Historical-Tensions-Israeli-Polish-Football-Clash.avif)
 
 ## Introduction
 

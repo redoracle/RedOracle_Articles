@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing Education Columbia University Data Breach",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-Education-Columbia-University-Data-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-Education-Columbia-University-Data-Breach.avif"],
         "datePublished": "2025-08-10T18:35:30.735Z",
         "dateModified": "2025-08-10T18:35:30.735Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Education-Columbia-University-Data-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Education-Columbia-University-Data-Breach.avif)
 
 ## Introduction
 

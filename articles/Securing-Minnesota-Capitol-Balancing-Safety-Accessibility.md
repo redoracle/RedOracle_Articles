@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Securing Minnesota Capitol Balancing Safety & Accessibility",
-        "image": ["https://storage.googleapis.com/red_articles/Securing-Minnesota-Capitol-Balancing-Safety-Accessibility.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Securing-Minnesota-Capitol-Balancing-Safety-Accessibility.avif"],
         "datePublished": "2025-08-07T19:38:42.127Z",
         "dateModified": "2025-08-07T19:38:42.127Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Minnesota-Capitol-Balancing-Safety-Accessibility.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Minnesota-Capitol-Balancing-Safety-Accessibility.avif)
 
 ## Introduction
 

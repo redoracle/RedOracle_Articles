@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Enhancing Cybersecurity with Kali Linux 2025.2",
-        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Cybersecurity-with-Kali-Linux-2025-2.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Enhancing-Cybersecurity-with-Kali-Linux-2025-2.avif"],
         "datePublished": "2025-06-15T18:44:38.016Z",
         "dateModified": "2025-06-15T18:44:38.016Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Enhancing-Cybersecurity-with-Kali-Linux-2025-2.png)
+![Image](https://storage.googleapis.com/red_articles/Enhancing-Cybersecurity-with-Kali-Linux-2025-2.avif)
 
 ## Introduction
 

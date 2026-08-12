@@ -15,7 +15,7 @@ sitemap:
 
 # Grubhub Data Breach Safeguarding User Information in Online Services
 
-![Image](https://storage.googleapis.com/red_articles/Grubhub-Data-Breach-Safeguarding-User-Information-in-Online-Services.png)
+![Image](https://storage.googleapis.com/red_articles/Grubhub-Data-Breach-Safeguarding-User-Information-in-Online-Services.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Securing Education PowerSchool Data Breach Response
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Education-PowerSchool-Data-Breach-Response.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Education-PowerSchool-Data-Breach-Response.avif)
 
 Introduction
 

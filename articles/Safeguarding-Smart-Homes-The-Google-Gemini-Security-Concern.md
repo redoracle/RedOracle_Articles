@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Smart Homes The Google Gemini Security Concern",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Smart-Homes-The-Google-Gemini-Security-Concern.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Smart-Homes-The-Google-Gemini-Security-Concern.avif"],
         "datePublished": "2025-08-07T13:18:04.768Z",
         "dateModified": "2025-08-07T13:18:04.768Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Smart-Homes-The-Google-Gemini-Security-Concern.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Smart-Homes-The-Google-Gemini-Security-Concern.avif)
 
 ## Introduction
 

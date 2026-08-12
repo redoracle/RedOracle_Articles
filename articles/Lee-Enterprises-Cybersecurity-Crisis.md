@@ -15,7 +15,7 @@ sitemap:
 
 # Lee Enterprises Cybersecurity Crisis
 
-![Image](https://storage.googleapis.com/red_articles/Lee-Enterprises-Cybersecurity-Crisis.png)
+![Image](https://storage.googleapis.com/red_articles/Lee-Enterprises-Cybersecurity-Crisis.avif)
 
 ## Introduction
 

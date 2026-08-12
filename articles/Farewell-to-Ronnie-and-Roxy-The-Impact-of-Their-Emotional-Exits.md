@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Farewell to Ronnie and Roxy The Impact of Their Emotional Exits",
-        "image": ["https://storage.googleapis.com/red_articles/Farewell-to-Ronnie-and-Roxy-The-Impact-of-Their-Emotional-Exits.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Farewell-to-Ronnie-and-Roxy-The-Impact-of-Their-Emotional-Exits.avif"],
         "datePublished": "2025-07-02T12:06:24.195Z",
         "dateModified": "2025-07-02T12:06:24.195Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Farewell-to-Ronnie-and-Roxy-The-Impact-of-Their-Emotional-Exits.png)
+![Image](https://storage.googleapis.com/red_articles/Farewell-to-Ronnie-and-Roxy-The-Impact-of-Their-Emotional-Exits.avif)
 
 ## Introduction
 

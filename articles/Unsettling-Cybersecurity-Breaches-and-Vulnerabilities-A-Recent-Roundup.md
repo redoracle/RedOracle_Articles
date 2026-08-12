@@ -15,7 +15,7 @@ sitemap:
 
 # Unsettling Cybersecurity Breaches and Vulnerabilities A Recent Roundup
 
-![Image](https://storage.googleapis.com/red_articles/Unsettling-Cybersecurity-Breaches-and-Vulnerabilities-A-Recent-Roundup.png)
+![Image](https://storage.googleapis.com/red_articles/Unsettling-Cybersecurity-Breaches-and-Vulnerabilities-A-Recent-Roundup.avif)
 
 ## DeepSeek Exposed Sensitive Data
 

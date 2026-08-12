@@ -15,7 +15,7 @@ sitemap:
 
 # Safeguarding Healthcare Data Post-Breach
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Healthcare-Data-Post-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Healthcare-Data-Post-Breach.avif)
 
 ## Introduction
 

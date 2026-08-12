@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Advancements in Cybersecurity Picus, Sysdig, Google",
-        "image": ["https://storage.googleapis.com/red_articles/Advancements-in-Cybersecurity-Picus-Sysdig-Google.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Advancements-in-Cybersecurity-Picus-Sysdig-Google.avif"],
         "datePublished": "2025-05-28T06:03:18.216Z",
         "dateModified": "2025-05-28T06:03:18.216Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Advancements-in-Cybersecurity-Picus-Sysdig-Google.png)
+![Image](https://storage.googleapis.com/red_articles/Advancements-in-Cybersecurity-Picus-Sysdig-Google.avif)
 
 ## Introduction
 

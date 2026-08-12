@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Evolution of Crossword Puzzles Insights and Innovations",
-        "image": ["https://storage.googleapis.com/red_articles/The-Evolution-of-Crossword-Puzzles-Insights-and-Innovations.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Evolution-of-Crossword-Puzzles-Insights-and-Innovations.avif"],
         "datePublished": "2025-08-15T08:03:07.689Z",
         "dateModified": "2025-08-15T08:03:07.689Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/The-Evolution-of-Crossword-Puzzles-Insights-and-Innovations.png)
+![Image](https://storage.googleapis.com/red_articles/The-Evolution-of-Crossword-Puzzles-Insights-and-Innovations.avif)
 
 ## Introduction
 

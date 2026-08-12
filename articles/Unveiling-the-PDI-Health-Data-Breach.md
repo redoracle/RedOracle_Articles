@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling the PDI Health Data Breach",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-the-PDI-Health-Data-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-the-PDI-Health-Data-Breach.avif"],
         "datePublished": "2025-08-09T23:48:02.999Z",
         "dateModified": "2025-08-09T23:48:02.999Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-the-PDI-Health-Data-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-the-PDI-Health-Data-Breach.avif)
 
 ## Introduction
 

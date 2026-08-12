@@ -15,7 +15,7 @@ sitemap:
 
 # Media Cyberattack Crisis
 
-![Image](https://storage.googleapis.com/red_articles/Media-Cyberattack-Crisis.png)
+![Image](https://storage.googleapis.com/red_articles/Media-Cyberattack-Crisis.avif)
 
 ## Introduction
 

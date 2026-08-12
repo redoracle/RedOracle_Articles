@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cyber Insecurity Protecting Public Institutions Against Threats",
-        "image": ["https://storage.googleapis.com/red_articles/Cyber-Insecurity-Protecting-Public-Institutions-Against-Threats.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cyber-Insecurity-Protecting-Public-Institutions-Against-Threats.avif"],
         "datePublished": "2025-04-14T08:01:27.914Z",
         "dateModified": "2025-04-14T08:01:27.914Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Cyber Insecurity Protecting Public Institutions Against Threats
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Insecurity-Protecting-Public-Institutions-Against-Threats.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Insecurity-Protecting-Public-Institutions-Against-Threats.avif)
 
 ## Introduction
 

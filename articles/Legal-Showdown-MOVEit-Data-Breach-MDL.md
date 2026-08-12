@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Legal Showdown MOVEit Data Breach MDL",
-        "image": ["https://storage.googleapis.com/red_articles/Legal-Showdown-MOVEit-Data-Breach-MDL.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Legal-Showdown-MOVEit-Data-Breach-MDL.avif"],
         "datePublished": "2025-08-05T20:47:01.107Z",
         "dateModified": "2025-08-05T20:47:01.107Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Legal-Showdown-MOVEit-Data-Breach-MDL.png)
+![Image](https://storage.googleapis.com/red_articles/Legal-Showdown-MOVEit-Data-Breach-MDL.avif)
 
 ## Introduction
 

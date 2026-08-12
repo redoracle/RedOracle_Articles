@@ -15,7 +15,7 @@ sitemap:
 
 # Emerging Data Breach Trends in UK Legal Sector
 
-![Image](https://storage.googleapis.com/red_articles/Emerging-Data-Breach-Trends-in-UK-Legal-Sector.png)
+![Image](https://storage.googleapis.com/red_articles/Emerging-Data-Breach-Trends-in-UK-Legal-Sector.avif)
 
 ## Introduction
 

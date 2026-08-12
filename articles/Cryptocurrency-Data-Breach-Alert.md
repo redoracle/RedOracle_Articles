@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cryptocurrency Data Breach Alert",
-        "image": ["https://storage.googleapis.com/red_articles/Cryptocurrency-Data-Breach-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cryptocurrency-Data-Breach-Alert.avif"],
         "datePublished": "2025-07-10T08:02:51.524Z",
         "dateModified": "2025-07-10T08:02:51.524Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cryptocurrency-Data-Breach-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/Cryptocurrency-Data-Breach-Alert.avif)
 
 ## Introduction
 

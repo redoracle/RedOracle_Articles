@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity Incidents Overview",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Incidents-Overview.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-Incidents-Overview.avif"],
         "datePublished": "2025-06-28T09:02:09.349Z",
         "dateModified": "2025-06-28T09:02:09.349Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Incidents-Overview.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Incidents-Overview.avif)
 
 ## Introduction
 

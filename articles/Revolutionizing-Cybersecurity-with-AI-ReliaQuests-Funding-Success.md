@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Revolutionizing Cybersecurity with AI ReliaQuest's Funding Success",
-        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-AI-ReliaQuests-Funding-Success.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-AI-ReliaQuests-Funding-Success.avif"],
         "datePublished": "2025-04-01T20:20:39.431Z",
         "dateModified": "2025-04-01T20:20:39.431Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Revolutionizing Cybersecurity with AI ReliaQuest's Funding Success
 
-![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-AI-ReliaQuests-Funding-Success.png)
+![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-with-AI-ReliaQuests-Funding-Success.avif)
 
 ## Introduction
 

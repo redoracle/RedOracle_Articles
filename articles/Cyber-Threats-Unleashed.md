@@ -15,7 +15,7 @@ sitemap:
 
 # Cyber Threats Unleashed
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Unleashed.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Unleashed.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "UK Cybersecurity Legislation Boost",
-        "image": ["https://storage.googleapis.com/red_articles/UK-Cybersecurity-Legislation-Boost.png"],
+        "image": ["https://storage.googleapis.com/red_articles/UK-Cybersecurity-Legislation-Boost.avif"],
         "datePublished": "2025-04-01T13:37:43.765Z",
         "dateModified": "2025-04-01T13:37:43.765Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # UK Cybersecurity Legislation Boost
 
-![Image](https://storage.googleapis.com/red_articles/UK-Cybersecurity-Legislation-Boost.png)
+![Image](https://storage.googleapis.com/red_articles/UK-Cybersecurity-Legislation-Boost.avif)
 
 ## Introduction
 

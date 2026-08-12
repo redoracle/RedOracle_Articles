@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Spain's Huawei Dilemma Balancing Security and Tech Alliances",
-        "image": ["https://storage.googleapis.com/red_articles/Spains-Huawei-Dilemma-Balancing-Security-Tech-Alliances.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Spains-Huawei-Dilemma-Balancing-Security-Tech-Alliances.avif"],
         "datePublished": "2025-08-16T14:23:04.375Z",
         "dateModified": "2025-08-16T14:23:04.375Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Spains-Huawei-Dilemma-Balancing-Security-Tech-Alliances.png)
+![Image](https://storage.googleapis.com/red_articles/Spains-Huawei-Dilemma-Balancing-Security-Tech-Alliances.avif)
 
 ## Introduction
 

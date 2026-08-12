@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“TransUnion Breach via Third-Party Salesforce App Exposes 4.4 Million SSNs”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/TransUnion-Breach-Third-Party-Salesforce-App-Exposes-44-Million-SSNs.avif"],
         "datePublished": "2025-08-29T08:02:16.103Z",
         "dateModified": "2025-08-29T08:02:16.103Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/TransUnion-Breach-Third-Party-Salesforce-App-Exposes-44-Million-SSNs.png)
+![Image](https://storage.googleapis.com/red_articles/TransUnion-Breach-Third-Party-Salesforce-App-Exposes-44-Million-SSNs.avif)
 
 ## Introduction
 

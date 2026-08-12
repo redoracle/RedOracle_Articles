@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unprecedented Data Breach Shakes Tech Industry",
-        "image": ["https://storage.googleapis.com/red_articles/Unprecedented-Data-Breach-Shakes-Tech-Industry.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unprecedented-Data-Breach-Shakes-Tech-Industry.avif"],
         "datePublished": "2025-05-30T09:02:18.746Z",
         "dateModified": "2025-05-30T09:02:18.746Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unprecedented-Data-Breach-Shakes-Tech-Industry.png)
+![Image](https://storage.googleapis.com/red_articles/Unprecedented-Data-Breach-Shakes-Tech-Industry.avif)
 
 ## Introduction
 

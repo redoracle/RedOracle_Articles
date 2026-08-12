@@ -41,7 +41,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "CSP Inc Q3 Review AZT PROTECT Fuels Growth Amid Margin Pressures and Russell Inclusion",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/CSP-Inc-Q3-Review-AZT-PROTECT-Fuels-Growth-Amid-Margin-Pressures-and-Russell-Inclusion.avif"],
         "datePublished": "2025-09-01T13:22:42.337Z",
         "dateModified": "2025-09-01T13:22:42.337Z",
         "author": {
@@ -53,7 +53,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -63,7 +63,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/CSP-Inc-Q3-Review-AZT-PROTECT-Fuels-Growth-Amid-Margin-Pressures-and-Russell-Inclusion.png)
+![Image](https://storage.googleapis.com/red_articles/CSP-Inc-Q3-Review-AZT-PROTECT-Fuels-Growth-Amid-Margin-Pressures-and-Russell-Inclusion.avif)
 
 ## Introduction
 

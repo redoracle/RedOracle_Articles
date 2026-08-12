@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Deportation Practices GlobalX Data Breach",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Deportation-Practices-GlobalX-Data-Breach.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Deportation-Practices-GlobalX-Data-Breach.avif"],
         "datePublished": "2025-05-06T06:02:01.826Z",
         "dateModified": "2025-05-06T06:02:01.826Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Uncovering Deportation Practices GlobalX Data Breach
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Deportation-Practices-GlobalX-Data-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Deportation-Practices-GlobalX-Data-Breach.avif)
 
 ## Introduction
 

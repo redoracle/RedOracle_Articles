@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating Zero-Day Threats",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-Zero-Day-Threats.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-Zero-Day-Threats.avif"],
         "datePublished": "2025-04-30T08:11:12.895Z",
         "dateModified": "2025-04-30T08:11:12.895Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Navigating Zero-Day Threats
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Zero-Day-Threats.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Zero-Day-Threats.avif)
 
 ## Introduction
 

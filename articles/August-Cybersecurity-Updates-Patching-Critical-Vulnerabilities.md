@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "August Cybersecurity Updates Patching Critical Vulnerabilities",
-        "image": ["https://storage.googleapis.com/red_articles/August-Cybersecurity-Updates-Patching-Critical-Vulnerabilities.png"],
+        "image": ["https://storage.googleapis.com/red_articles/August-Cybersecurity-Updates-Patching-Critical-Vulnerabilities.avif"],
         "datePublished": "2025-08-13T01:07:12.449Z",
         "dateModified": "2025-08-13T01:07:12.449Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/August-Cybersecurity-Updates-Patching-Critical-Vulnerabilities.png)
+![Image](https://storage.googleapis.com/red_articles/August-Cybersecurity-Updates-Patching-Critical-Vulnerabilities.avif)
 
 ## Introduction
 

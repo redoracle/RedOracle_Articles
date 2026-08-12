@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Crypto Heist Unveiled Cyber Threats in Open Source",
-        "image": ["https://storage.googleapis.com/red_articles/Crypto-Heist-Unveiled-Cyber-Threats-in-Open-Source.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Crypto-Heist-Unveiled-Cyber-Threats-in-Open-Source.avif"],
         "datePublished": "2025-07-14T17:36:02.794Z",
         "dateModified": "2025-07-14T17:36:02.794Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Crypto-Heist-Unveiled-Cyber-Threats-in-Open-Source.png)
+![Image](https://storage.googleapis.com/red_articles/Crypto-Heist-Unveiled-Cyber-Threats-in-Open-Source.avif)
 
 ## Introduction
 

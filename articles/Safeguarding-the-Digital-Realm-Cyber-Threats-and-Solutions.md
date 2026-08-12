@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding the Digital Realm Cyber Threats and Solutions",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-the-Digital-Realm-Cyber-Threats-and-Solutions.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-the-Digital-Realm-Cyber-Threats-and-Solutions.avif"],
         "datePublished": "2025-06-05T20:50:58.902Z",
         "dateModified": "2025-06-05T20:50:58.902Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-the-Digital-Realm-Cyber-Threats-and-Solutions.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-the-Digital-Realm-Cyber-Threats-and-Solutions.avif)
 
 ## Introduction
 

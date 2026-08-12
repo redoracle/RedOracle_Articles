@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Nostalgia vs. Modernity The McCallister Home Saga",
-        "image": ["https://storage.googleapis.com/red_articles/Nostalgia-vs-Modernity-The-McCallister-Home-Saga.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Nostalgia-vs-Modernity-The-McCallister-Home-Saga.avif"],
         "datePublished": "2025-06-05T08:08:33.836Z",
         "dateModified": "2025-06-05T08:08:33.836Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Nostalgia-vs-Modernity-The-McCallister-Home-Saga.png)
+![Image](https://storage.googleapis.com/red_articles/Nostalgia-vs-Modernity-The-McCallister-Home-Saga.avif)
 
 ## Introduction
 

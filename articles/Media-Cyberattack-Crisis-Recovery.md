@@ -15,7 +15,7 @@ sitemap:
 
 # Media Cyberattack Crisis & Recovery
 
-![Image](https://storage.googleapis.com/red_articles/Media-Cyberattack-Crisis-Recovery.png)
+![Image](https://storage.googleapis.com/red_articles/Media-Cyberattack-Crisis-Recovery.avif)
 
 ## Introduction
 

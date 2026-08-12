@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Empowering Cybersecurity Initiatives in Finance and Education",
-        "image": ["https://storage.googleapis.com/red_articles/Empowering-Cybersecurity-Initiatives-in-Finance-and-Education.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Empowering-Cybersecurity-Initiatives-in-Finance-and-Education.avif"],
         "datePublished": "2025-04-13T06:03:26.796Z",
         "dateModified": "2025-04-13T06:03:26.796Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Empowering Cybersecurity Initiatives in Finance and Education
 
-![Image](https://storage.googleapis.com/red_articles/Empowering-Cybersecurity-Initiatives-in-Finance-and-Education.png)
+![Image](https://storage.googleapis.com/red_articles/Empowering-Cybersecurity-Initiatives-in-Finance-and-Education.avif)
 
 ## Introduction
 

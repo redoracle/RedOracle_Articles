@@ -15,7 +15,7 @@ sitemap:
 
 # Empowering Cyber Job Search
 
-![Image](https://storage.googleapis.com/red_articles/Empowering-Cyber-Job-Search.png)
+![Image](https://storage.googleapis.com/red_articles/Empowering-Cyber-Job-Search.avif)
 
 ## Introduction
 

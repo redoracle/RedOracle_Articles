@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Secure Development Practices Safeguarding Laravel Apps",
-        "image": ["https://storage.googleapis.com/red_articles/Secure-Development-Practices-Safeguarding-Laravel-Apps.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Secure-Development-Practices-Safeguarding-Laravel-Apps.avif"],
         "datePublished": "2025-07-13T09:51:33.265Z",
         "dateModified": "2025-07-13T09:51:33.265Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Secure-Development-Practices-Safeguarding-Laravel-Apps.png)
+![Image](https://storage.googleapis.com/red_articles/Secure-Development-Practices-Safeguarding-Laravel-Apps.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Sustainable Business Evolution A Path to Success
 
-![Image](https://storage.googleapis.com/red_articles/Sustainable-Business-Evolution-A-Path-to-Success.png)
+![Image](https://storage.googleapis.com/red_articles/Sustainable-Business-Evolution-A-Path-to-Success.avif)
 
 ## Introduction
 

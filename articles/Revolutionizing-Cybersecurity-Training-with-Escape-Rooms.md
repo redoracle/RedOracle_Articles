@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Revolutionizing Cybersecurity Training with Escape Rooms",
-        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-Training-with-Escape-Rooms.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-Training-with-Escape-Rooms.avif"],
         "datePublished": "2025-08-07T15:25:33.096Z",
         "dateModified": "2025-08-07T15:25:33.096Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-Training-with-Escape-Rooms.png)
+![Image](https://storage.googleapis.com/red_articles/Revolutionizing-Cybersecurity-Training-with-Escape-Rooms.avif)
 
 ## Introduction
 

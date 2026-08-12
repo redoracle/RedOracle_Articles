@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating Cloudflare's Security Measures",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cloudflares-Security-Measures.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-Cloudflares-Security-Measures.avif"],
         "datePublished": "2025-05-04T09:02:38.558Z",
         "dateModified": "2025-05-04T09:02:38.558Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Navigating Cloudflare's Security Measures
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Cloudflares-Security-Measures.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Cloudflares-Security-Measures.avif)
 
 ## Introduction
 

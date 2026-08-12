@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Evaluating Cybersecurity Solutions AV-Comparatives 2025 Insights",
-        "image": ["https://storage.googleapis.com/red_articles/Evaluating-Cybersecurity-Solutions-AV-Comparatives-2025-Insights.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Evaluating-Cybersecurity-Solutions-AV-Comparatives-2025-Insights.avif"],
         "datePublished": "2025-06-15T20:48:02.559Z",
         "dateModified": "2025-06-15T20:48:02.559Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Evaluating-Cybersecurity-Solutions-AV-Comparatives-2025-Insights.png)
+![Image](https://storage.googleapis.com/red_articles/Evaluating-Cybersecurity-Solutions-AV-Comparatives-2025-Insights.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Healthcare Data Breach Impact on Connecticut Residents
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Impact-on-Connecticut-Residents.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Impact-on-Connecticut-Residents.avif)
 
 ## Introduction
 

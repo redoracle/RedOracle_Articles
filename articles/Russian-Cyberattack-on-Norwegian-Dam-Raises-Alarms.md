@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Russian Cyberattack on Norwegian Dam Raises Alarms",
-        "image": ["https://storage.googleapis.com/red_articles/Russian-Cyberattack-on-Norwegian-Dam-Raises-Alarms.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Russian-Cyberattack-on-Norwegian-Dam-Raises-Alarms.avif"],
         "datePublished": "2025-08-16T08:03:03.555Z",
         "dateModified": "2025-08-16T08:03:03.555Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Russian-Cyberattack-on-Norwegian-Dam-Raises-Alarms.png)
+![Image](https://storage.googleapis.com/red_articles/Russian-Cyberattack-on-Norwegian-Dam-Raises-Alarms.avif)
 
 ## Introduction
 

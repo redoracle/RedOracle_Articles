@@ -15,7 +15,7 @@ sitemap:
 
 # Government Cyber Summit Guide
 
-![Image](https://storage.googleapis.com/red_articles/Government-Cy-Summit-Guide.png)
+![Image](https://storage.googleapis.com/red_articles/Government-Cy-Summit-Guide.avif)
 
 ## Introduction
 

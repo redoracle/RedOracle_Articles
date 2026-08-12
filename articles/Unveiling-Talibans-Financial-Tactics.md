@@ -15,7 +15,7 @@ sitemap:
 
 # Unveiling Taliban's Financial Tactics
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-Talibans-Financial-Tactics.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-Talibans-Financial-Tactics.avif)
 
 Introduction
 

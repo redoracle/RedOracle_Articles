@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Japan's Cybersecurity Leap",
-        "image": ["https://storage.googleapis.com/red_articles/Japans-Cybersecurity-Leap.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Japans-Cybersecurity-Leap.avif"],
         "datePublished": "2025-04-01T22:50:30.457Z",
         "dateModified": "2025-04-01T22:50:30.457Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Japan's Cybersecurity Leap
 
-![Image](https://storage.googleapis.com/red_articles/Japans-Cybersecurity-Leap.png)
+![Image](https://storage.googleapis.com/red_articles/Japans-Cybersecurity-Leap.avif)
 
 ## Introduction
 

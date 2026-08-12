@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Sensitive Data in Education",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Sensitive-Data-in-Education.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Sensitive-Data-in-Education.avif"],
         "datePublished": "2025-08-07T21:44:48.372Z",
         "dateModified": "2025-08-07T21:44:48.372Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Sensitive-Data-in-Education.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Sensitive-Data-in-Education.avif)
 
 ## Introduction
 

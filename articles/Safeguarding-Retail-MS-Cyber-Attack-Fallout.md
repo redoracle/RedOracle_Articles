@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Safeguarding Retail M&S Cyber-Attack Fallout",
-        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Retail-MS-Cyber-Attack-Fallout.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Safeguarding-Retail-MS-Cyber-Attack-Fallout.avif"],
         "datePublished": "2025-07-19T09:02:17.313Z",
         "dateModified": "2025-07-19T09:02:17.313Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Retail-MS-Cyber-Attack-Fallout.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Retail-MS-Cyber-Attack-Fallout.avif)
 
 ## Introduction
 

@@ -15,7 +15,7 @@ sitemap:
 
 # Proactive Cybersecurity Microsoft's Key Priorities for the Digital Landscape in 2025
 
-![Image](https://storage.googleapis.com/red_articles/Proactive-Cybersecurity-Microsofts-Key-Priorities-for-the-Digital-Landscape-in-2025.png)
+![Image](https://storage.googleapis.com/red_articles/Proactive-Cybersecurity-Microsofts-Key-Priorities-for-the-Digital-Landscape-in-2025.avif)
 
 ## Introduction
 

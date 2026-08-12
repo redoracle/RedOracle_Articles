@@ -11,7 +11,7 @@ lastUpdated: true
 
 # Cyberattack Fallout Patelco’s Security Remediation Efforts
 
-![Image](https://storage.googleapis.com/red_articles/Cyberattack-Fallout-Patelcos-Security-Remediation-Efforts.png)
+![Image](https://storage.googleapis.com/red_articles/Cyberattack-Fallout-Patelcos-Security-Remediation-Efforts.avif)
 
 ## Overview of the Incident
 

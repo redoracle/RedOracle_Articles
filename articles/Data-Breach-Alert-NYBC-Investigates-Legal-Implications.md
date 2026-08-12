@@ -15,7 +15,7 @@ sitemap:
 
 # Data Breach Alert NYBC Investigates Legal Implications
 
-![Image](https://storage.googleapis.com/red_articles/Data-Breach-Alert-NYBC-Investigates-Legal-Implications.png)
+![Image](https://storage.googleapis.com/red_articles/Data-Breach-Alert-NYBC-Investigates-Legal-Implications.avif)
 
 ## Introduction
 

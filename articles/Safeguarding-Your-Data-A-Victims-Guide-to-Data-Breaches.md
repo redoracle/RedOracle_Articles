@@ -15,7 +15,7 @@ sitemap:
 
 # Safeguarding Your Data A Victim's Guide to Data Breaches
 
-![Image](https://storage.googleapis.com/red_articles/Safeguarding-Your-Data-A-Victims-Guide-to-Data-Breaches.png)
+![Image](https://storage.googleapis.com/red_articles/Safeguarding-Your-Data-A-Victims-Guide-to-Data-Breaches.avif)
 
 Introduction
 

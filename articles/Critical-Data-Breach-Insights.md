@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Critical Data Breach Insights",
-        "image": ["https://storage.googleapis.com/red_articles/Critical-Data-Breach-Insights.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Critical-Data-Breach-Insights.avif"],
         "datePublished": "2025-04-19T08:01:36.057Z",
         "dateModified": "2025-04-19T08:01:36.057Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Critical Data Breach Insights
 
-![Image](https://storage.googleapis.com/red_articles/Critical-Data-Breach-Insights.png)
+![Image](https://storage.googleapis.com/red_articles/Critical-Data-Breach-Insights.avif)
 
 ## Introduction
 

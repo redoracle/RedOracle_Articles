@@ -15,7 +15,7 @@ sitemap:
 
 # BewareQRCodeScam
 
-![Image](https://storage.googleapis.com/red_articles/Beware-QR-Code-Scam.png)
+![Image](https://storage.googleapis.com/red_articles/Beware-QR-Code-Scam.avif)
 
 ## Introduction
 

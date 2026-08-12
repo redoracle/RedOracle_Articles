@@ -15,7 +15,7 @@ sitemap:
 
 # Media Disruption Lee Enterprises Cyberattack Crisis
 
-![Image](https://storage.googleapis.com/red_articles/Media-Disruption-Lee-Enterprises-Cyberattack-Crisis.png)
+![Image](https://storage.googleapis.com/red_articles/Media-Disruption-Lee-Enterprises-Cyberattack-Crisis.avif)
 
 ## Introduction
 

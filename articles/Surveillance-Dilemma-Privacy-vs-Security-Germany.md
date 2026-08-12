@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Surveillance Dilemma Privacy vs. Security in Germany",
-        "image": ["https://storage.googleapis.com/red_articles/Surveillance-Dilemma-Privacy-vs-Security-Germany.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Surveillance-Dilemma-Privacy-vs-Security-Germany.avif"],
         "datePublished": "2025-08-02T14:30:48.326Z",
         "dateModified": "2025-08-02T14:30:48.326Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Surveillance-Dilemma-Privacy-vs-Security-Germany.png)
+![Image](https://storage.googleapis.com/red_articles/Surveillance-Dilemma-Privacy-vs-Security-Germany.avif)
 
 ## Introduction
 

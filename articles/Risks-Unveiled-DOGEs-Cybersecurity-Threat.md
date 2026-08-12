@@ -15,7 +15,7 @@ sitemap:
 
 # Risks Unveiled DOGE's Cybersecurity Threat
 
-![Image](https://storage.googleapis.com/red_articles/Risks-Unveiled-DOGEs-Cybersecurity-Threat.png)
+![Image](https://storage.googleapis.com/red_articles/Risks-Unveiled-DOGEs-Cybersecurity-Threat.avif)
 
 ## Introduction
 

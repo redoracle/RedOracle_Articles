@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "AI Revolutionizing Cybersecurity Testing",
-        "image": ["https://storage.googleapis.com/red_articles/AI-Revolutionizing-Cybersecurity-Testing.png"],
+        "image": ["https://storage.googleapis.com/red_articles/AI-Revolutionizing-Cybersecurity-Testing.avif"],
         "datePublished": "2025-08-06T19:36:05.824Z",
         "dateModified": "2025-08-06T19:36:05.824Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/AI-Revolutionizing-Cybersecurity-Testing.png)
+![Image](https://storage.googleapis.com/red_articles/AI-Revolutionizing-Cybersecurity-Testing.avif)
 
 ## Introduction
 

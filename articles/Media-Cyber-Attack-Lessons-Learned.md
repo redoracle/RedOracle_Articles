@@ -15,7 +15,7 @@ sitemap:
 
 # Media Cyber Attack Lessons Learned
 
-![Image](https://storage.googleapis.com/red_articles/Media-Cyber-Attack-Lessons-Learned.png)
+![Image](https://storage.googleapis.com/red_articles/Media-Cyber-Attack-Lessons-Learned.avif)
 
 ## Introduction
 

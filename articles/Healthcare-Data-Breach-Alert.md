@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Healthcare Data Breach Alert",
-        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Alert.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Alert.avif"],
         "datePublished": "2025-03-27T05:56:14.772Z",
         "dateModified": "2025-03-27T05:56:14.772Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Healthcare Data Breach Alert
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Alert.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Data-Breach-Alert.avif)
 
 ## Introduction
 

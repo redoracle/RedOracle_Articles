@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cybersecurity in Focus Spyware Crisis and Policy Perspectives",
-        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-in-Focus-Spyware-Crisis-and-Policy-Perspectives.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cybersecurity-in-Focus-Spyware-Crisis-and-Policy-Perspectives.avif"],
         "datePublished": "2025-05-15T12:13:01.858Z",
         "dateModified": "2025-05-15T12:13:01.858Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-in-Focus-Spyware-Crisis-and-Policy-Perspectives.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-in-Focus-Spyware-Crisis-and-Policy-Perspectives.avif)
 
 ## Introduction
 

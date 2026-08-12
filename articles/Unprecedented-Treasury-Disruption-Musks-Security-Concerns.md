@@ -15,7 +15,7 @@ sitemap:
 
 # Unprecedented Treasury Disruption Musk's Security Concerns
 
-![Image](https://storage.googleapis.com/red_articles/Unprecedented-Treasury-Disruption-Musks-Security-Concerns.png)
+![Image](https://storage.googleapis.com/red_articles/Unprecedented-Treasury-Disruption-Musks-Security-Concerns.avif)
 
 ## Introduction
 

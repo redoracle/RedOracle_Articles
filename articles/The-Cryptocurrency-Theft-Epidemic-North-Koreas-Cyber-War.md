@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "The Cryptocurrency Theft Epidemic North Korea's Cyber War",
-        "image": ["https://storage.googleapis.com/red_articles/The-Cryptocurrency-Theft-Epidemic-North-Koreas-Cyber-War.png"],
+        "image": ["https://storage.googleapis.com/red_articles/The-Cryptocurrency-Theft-Epidemic-North-Koreas-Cyber-War.avif"],
         "datePublished": "2025-04-04T12:08:48.414Z",
         "dateModified": "2025-04-04T12:08:48.414Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # The Cryptocurrency Theft Epidemic North Korea's Cyber War
 
-![Image](https://storage.googleapis.com/red_articles/The-Cryptocurrency-Theft-Epidemic-North-Koreas-Cyber-War.png)
+![Image](https://storage.googleapis.com/red_articles/The-Cryptocurrency-Theft-Epidemic-North-Koreas-Cyber-War.avif)
 
 ## Introduction
 

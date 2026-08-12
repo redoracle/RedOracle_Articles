@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "AI-Powered Cybersecurity Strategies",
-        "image": ["https://storage.googleapis.com/red_articles/AI-Powered-Cybersecurity-Strategies.png"],
+        "image": ["https://storage.googleapis.com/red_articles/AI-Powered-Cybersecurity-Strategies.avif"],
         "datePublished": "2025-08-16T18:36:13.722Z",
         "dateModified": "2025-08-16T18:36:13.722Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/AI-Powered-Cybersecurity-Strategies.png)
+![Image](https://storage.googleapis.com/red_articles/AI-Powered-Cybersecurity-Strategies.avif)
 
 ## Introduction
 

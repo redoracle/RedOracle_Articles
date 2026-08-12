@@ -15,7 +15,7 @@ sitemap:
 
 # Securing Open-Source AI DeepSeek's Data Exposure and Lessons Learned
 
-![Image](https://storage.googleapis.com/red_articles/Securing-Open-Source-AI-DeepSeeks-Data-Exposure-and-Lessons-Learned.png)
+![Image](https://storage.googleapis.com/red_articles/Securing-Open-Source-AI-DeepSeeks-Data-Exposure-and-Lessons-Learned.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "From Prison to Programmer A Journey of Redemption",
-        "image": ["https://storage.googleapis.com/red_articles/From-Prison-to-Programmer-A-Journey-of-Redemption.png"],
+        "image": ["https://storage.googleapis.com/red_articles/From-Prison-to-Programmer-A-Journey-of-Redemption.avif"],
         "datePublished": "2025-04-27T06:02:17.437Z",
         "dateModified": "2025-04-27T06:02:17.437Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # From Prison to Programmer A Journey of Redemption
 
-![Image](https://storage.googleapis.com/red_articles/From-Prison-to-Programmer-A-Journey-of-Redemption.png)
+![Image](https://storage.googleapis.com/red_articles/From-Prison-to-Programmer-A-Journey-of-Redemption.avif)
 
 ## Introduction
 

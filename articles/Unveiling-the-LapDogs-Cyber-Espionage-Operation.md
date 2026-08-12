@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Unveiling the LapDogs Cyber Espionage Operation",
-        "image": ["https://storage.googleapis.com/red_articles/Unveiling-the-LapDogs-Cyber-Espionage-Operation.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Unveiling-the-LapDogs-Cyber-Espionage-Operation.avif"],
         "datePublished": "2025-06-24T12:58:20.863Z",
         "dateModified": "2025-06-24T12:58:20.863Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Unveiling-the-LapDogs-Cyber-Espionage-Operation.png)
+![Image](https://storage.googleapis.com/red_articles/Unveiling-the-LapDogs-Cyber-Espionage-Operation.avif)
 
 ## Introduction
 

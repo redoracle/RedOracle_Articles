@@ -15,7 +15,7 @@ sitemap:
 
 # Healthcare Cybersecurity Breach Recovery
 
-![Image](https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Breach-Recovery.png)
+![Image](https://storage.googleapis.com/red_articles/Healthcare-Cybersecurity-Breach-Recovery.avif)
 
 ## Introduction
 

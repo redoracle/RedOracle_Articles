@@ -15,7 +15,7 @@ sitemap:
 
 # McKinney Data Breach Fallout
 
-![Image](https://storage.googleapis.com/red_articles/McKinney-Data-Breach-Fallout.png)
+![Image](https://storage.googleapis.com/red_articles/McKinney-Data-Breach-Fallout.avif)
 
 ## Overview of the Data Breach Incident in McKinney, Texas
 

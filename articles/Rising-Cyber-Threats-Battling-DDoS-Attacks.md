@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Rising Cyber Threats Battling DDoS Attacks",
-        "image": ["https://storage.googleapis.com/red_articles/Rising-Cyber-Threats-Battling-DDoS-Attacks.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Rising-Cyber-Threats-Battling-DDoS-Attacks.avif"],
         "datePublished": "2025-04-26T07:02:23.121Z",
         "dateModified": "2025-04-26T07:02:23.121Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Rising Cyber Threats Battling DDoS Attacks
 
-![Image](https://storage.googleapis.com/red_articles/Rising-Cyber-Threats-Battling-DDoS-Attacks.png)
+![Image](https://storage.googleapis.com/red_articles/Rising-Cyber-Threats-Battling-DDoS-Attacks.avif)
 
 ## Introduction
 

@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "AI Evolution in Communication and Education",
-        "image": ["https://storage.googleapis.com/red_articles/AI-Evolution-in-Communication-and-Education.png"],
+        "image": ["https://storage.googleapis.com/red_articles/AI-Evolution-in-Communication-and-Education.avif"],
         "datePublished": "2025-07-11T10:02:49.088Z",
         "dateModified": "2025-07-11T10:02:49.088Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/AI-Evolution-in-Communication-and-Education.png)
+![Image](https://storage.googleapis.com/red_articles/AI-Evolution-in-Communication-and-Education.avif)
 
 ## Introduction
 

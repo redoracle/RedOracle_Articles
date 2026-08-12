@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Data Breach at Word & Brown Insurance",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Data-Breach-at-Word-Brown-Insurance.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Data-Breach-at-Word-Brown-Insurance.avif"],
         "datePublished": "2025-04-09T09:03:43.970Z",
         "dateModified": "2025-04-09T09:03:43.970Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Uncovering Data Breach at Word & Brown Insurance
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Data-Breach-at-Word-Brown-Insurance.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Data-Breach-at-Word-Brown-Insurance.avif)
 
 ## Introduction
 

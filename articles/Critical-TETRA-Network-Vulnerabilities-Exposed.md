@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Critical TETRA Network Vulnerabilities Exposed",
-        "image": ["https://storage.googleapis.com/red_articles/Critical-TETRA-Network-Vulnerabilities-Exposed.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Critical-TETRA-Network-Vulnerabilities-Exposed.avif"],
         "datePublished": "2025-08-12T09:09:48.382Z",
         "dateModified": "2025-08-12T09:09:48.382Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Critical-TETRA-Network-Vulnerabilities-Exposed.png)
+![Image](https://storage.googleapis.com/red_articles/Critical-TETRA-Network-Vulnerabilities-Exposed.avif)
 
 ## Introduction
 

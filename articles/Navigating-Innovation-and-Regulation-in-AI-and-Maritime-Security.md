@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Navigating Innovation and Regulation in AI and Maritime Security",
-        "image": ["https://storage.googleapis.com/red_articles/Navigating-Innovation-and-Regulation-in-AI-and-Maritime-Security.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Navigating-Innovation-and-Regulation-in-AI-and-Maritime-Security.avif"],
         "datePublished": "2025-05-01T09:03:39.799Z",
         "dateModified": "2025-05-01T09:03:39.799Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Navigating Innovation and Regulation in AI and Maritime Security
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Innovation-and-Regulation-in-AI-and-Maritime-Security.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Innovation-and-Regulation-in-AI-and-Maritime-Security.avif)
 
 ## Introduction
 

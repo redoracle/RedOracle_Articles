@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Manufacturing Cybersecurity Breach Lessons Learned",
-        "image": ["https://storage.googleapis.com/red_articles/Manufacturing-Cybersecurity-Breach-Lessons-Learned.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Manufacturing-Cybersecurity-Breach-Lessons-Learned.avif"],
         "datePublished": "2025-07-26T10:02:36.891Z",
         "dateModified": "2025-07-26T10:02:36.891Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Manufacturing-Cybersecurity-Breach-Lessons-Learned.png)
+![Image](https://storage.googleapis.com/red_articles/Manufacturing-Cybersecurity-Breach-Lessons-Learned.avif)
 
 ## Introduction
 

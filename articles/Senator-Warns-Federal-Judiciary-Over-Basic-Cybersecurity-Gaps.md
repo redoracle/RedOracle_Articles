@@ -38,7 +38,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "“Senator Warns Federal Judiciary Over Basic Cybersecurity Gaps”",
-        "image": ["https://storage.googleapis.com/red_articles/.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Senator-Warns-Federal-Judiciary-Over-Basic-Cybersecurity-Gaps.avif"],
         "datePublished": "2025-08-26T09:02:31.807Z",
         "dateModified": "2025-08-26T09:02:31.807Z",
         "author": {
@@ -50,7 +50,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -60,7 +60,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/“Senator-Warns-Federal-Judiciary-Over-Basic-Cybersecurity-Gaps”.png)
+![Image](https://storage.googleapis.com/red_articles/“Senator-Warns-Federal-Judiciary-Over-Basic-Cybersecurity-Gaps”.avif)
 
 ## Introduction
 

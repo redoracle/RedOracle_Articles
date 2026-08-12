@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Uncovering Batavia Russian Cyber Espionage Revealed",
-        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Batavia-Russian-Cyber-Espionage-Revealed.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Uncovering-Batavia-Russian-Cyber-Espionage-Revealed.avif"],
         "datePublished": "2025-07-09T07:02:23.638Z",
         "dateModified": "2025-07-09T07:02:23.638Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Uncovering-Batavia-Russian-Cyber-Espionage-Revealed.png)
+![Image](https://storage.googleapis.com/red_articles/Uncovering-Batavia-Russian-Cyber-Espionage-Revealed.avif)
 
 ## Introduction
 

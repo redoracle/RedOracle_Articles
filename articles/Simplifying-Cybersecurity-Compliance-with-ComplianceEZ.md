@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Simplifying Cybersecurity Compliance with ComplianceEZ",
-        "image": ["https://storage.googleapis.com/red_articles/Simplifying-Cybersecurity-Compliance-with-ComplianceEZ.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Simplifying-Cybersecurity-Compliance-with-ComplianceEZ.avif"],
         "datePublished": "2025-05-09T11:11:55.233Z",
         "dateModified": "2025-05-09T11:11:55.233Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Simplifying Cybersecurity Compliance with ComplianceEZ
 
-![Image](https://storage.googleapis.com/red_articles/Simplifying-Cybersecurity-Compliance-with-ComplianceEZ.png)
+![Image](https://storage.googleapis.com/red_articles/Simplifying-Cybersecurity-Compliance-with-ComplianceEZ.avif)
 
 ## Introduction
 

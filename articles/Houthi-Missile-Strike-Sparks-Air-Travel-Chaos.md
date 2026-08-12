@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Houthi Missile Strike Sparks Air Travel Chaos",
-        "image": ["https://storage.googleapis.com/red_articles/Houthi-Missile-Strike-Sparks-Air-Travel-Chaos.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Houthi-Missile-Strike-Sparks-Air-Travel-Chaos.avif"],
         "datePublished": "2025-05-05T09:02:34.310Z",
         "dateModified": "2025-05-05T09:02:34.310Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Houthi Missile Strike Sparks Air Travel Chaos
 
-![Image](https://storage.googleapis.com/red_articles/Houthi-Missile-Strike-Sparks-Air-Travel-Chaos.png)
+![Image](https://storage.googleapis.com/red_articles/Houthi-Missile-Strike-Sparks-Air-Travel-Chaos.avif)
 
 ## Introduction
 

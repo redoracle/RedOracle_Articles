@@ -15,7 +15,7 @@ sitemap:
 
 # Navigating Security Linux Debates on Facebook
 
-![Image](https://storage.googleapis.com/red_articles/Navigating-Security-Linux-Debates-on-Facebook.png)
+![Image](https://storage.googleapis.com/red_articles/Navigating-Security-Linux-Debates-on-Facebook.avif)
 
 ## Introduction
 

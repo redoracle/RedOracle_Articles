@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Secure Updates Protecting Your Devices Against Vulnerabilities",
-        "image": ["https://storage.googleapis.com/red_articles/Secure-Updates-Protecting-Your-Devices-Against-Vulnerabilities.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Secure-Updates-Protecting-Your-Devices-Against-Vulnerabilities.avif"],
         "datePublished": "2025-08-02T08:03:04.893Z",
         "dateModified": "2025-08-02T08:03:04.893Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Secure-Updates-Protecting-Your-Devices-Against-Vulnerabilities.png)
+![Image](https://storage.googleapis.com/red_articles/Secure-Updates-Protecting-Your-Devices-Against-Vulnerabilities.avif)
 
 ## Introduction
 

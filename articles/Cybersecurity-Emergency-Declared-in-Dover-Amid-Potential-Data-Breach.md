@@ -11,7 +11,7 @@ lastUpdated: true
 
 # Cybersecurity Emergency Declared in Dover Amid Potential Data Breach
 
-![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Emergency-Declared-in-Dover-Amid-Potential-Data-Breach.png)
+![Image](https://storage.googleapis.com/red_articles/Cybersecurity-Emergency-Declared-in-Dover-Amid-Potential-Data-Breach.avif)
 
 ## Introduction
 

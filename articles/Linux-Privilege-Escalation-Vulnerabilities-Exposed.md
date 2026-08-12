@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Linux Privilege Escalation Vulnerabilities Exposed",
-        "image": ["https://storage.googleapis.com/red_articles/Linux-Privilege-Escalation-Vulnerabilities-Exposed.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Linux-Privilege-Escalation-Vulnerabilities-Exposed.avif"],
         "datePublished": "2025-06-21T10:43:17.089Z",
         "dateModified": "2025-06-21T10:43:17.089Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Linux-Privilege-Escalation-Vulnerabilities-Exposed.png)
+![Image](https://storage.googleapis.com/red_articles/Linux-Privilege-Escalation-Vulnerabilities-Exposed.avif)
 
 ## Introduction
 

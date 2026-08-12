@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Critical Zero Trust Vulnerabilities Uncovered",
-        "image": ["https://storage.googleapis.com/red_articles/Critical-Zero-Trust-Vulnerabilities-Uncovered.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Critical-Zero-Trust-Vulnerabilities-Uncovered.avif"],
         "datePublished": "2025-08-13T08:02:42.620Z",
         "dateModified": "2025-08-13T08:02:42.620Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/Critical-Zero-Trust-Vulnerabilities-Uncovered.png)
+![Image](https://storage.googleapis.com/red_articles/Critical-Zero-Trust-Vulnerabilities-Uncovered.avif)
 
 ## Introduction
 

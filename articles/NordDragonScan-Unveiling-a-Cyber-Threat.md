@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "NordDragonScan Unveiling a Cyber Threat",
-        "image": ["https://storage.googleapis.com/red_articles/NordDragonScan-Unveiling-a-Cyber-Threat.png"],
+        "image": ["https://storage.googleapis.com/red_articles/NordDragonScan-Unveiling-a-Cyber-Threat.avif"],
         "datePublished": "2025-07-10T18:54:18.221Z",
         "dateModified": "2025-07-10T18:54:18.221Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -43,7 +43,7 @@ head:
       }
 ---
 
-![Image](https://storage.googleapis.com/red_articles/NordDragonScan-Unveiling-a-Cyber-Threat.png)
+![Image](https://storage.googleapis.com/red_articles/NordDragonScan-Unveiling-a-Cyber-Threat.avif)
 
 ## Introduction
 

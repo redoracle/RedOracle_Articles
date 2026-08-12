@@ -21,7 +21,7 @@ head:
         "@context": "https://schema.org",
         "@type": "NewsArticle",
         "headline": "Cyber Threats Roundup",
-        "image": ["https://storage.googleapis.com/red_articles/Cyber-Threats-Roundup.png"],
+        "image": ["https://storage.googleapis.com/red_articles/Cyber-Threats-Roundup.avif"],
         "datePublished": "2025-05-08T07:02:21.428Z",
         "dateModified": "2025-05-08T07:02:21.428Z",
         "author": {
@@ -33,7 +33,7 @@ head:
           "name": "RedOracle",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://www.redoracle.com/assets/redoracle_logo.png"
+            "url": "https://www.redoracle.com/assets/redoracle_logo.avif"
           }
         },
         "mainEntityOfPage": {
@@ -45,7 +45,7 @@ head:
 
 # Cyber Threats Roundup
 
-![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Roundup.png)
+![Image](https://storage.googleapis.com/red_articles/Cyber-Threats-Roundup.avif)
 
 ## Introduction
 
