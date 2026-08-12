@@ -1,9 +1,42 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:bc942ebb92dcf123d745dc9422e1a81ea89921f6111ed8a756f731855d0c449f",
-  "total": 387,
+  "revision": "sha256:6bbd6e7a8205ab4a25dfee32440274c8a24fa1aca9c4035a6878535cd3d5a2e8",
+  "total": 388,
   "articles": [
+    {
+      "slug": "lazarus-dream-job-windows-zero-day",
+      "file": "lazarus-dream-job-windows-zero-day.md",
+      "title": "Lazarus Group Deploys Fake Job Offers With Windows Zero-Day in Operation Dream Job",
+      "description": "Check Point researchers have documented an ongoing campaign dubbed \"Operation Dream Job\" in which the Lazarus group uses fake job offers, trojanized PDF software and a Windows zero‑day to target prima…",
+      "date": "2026-08-12",
+      "datePublished": "2026-08-12T16:43:47.388Z",
+      "id": "lazarus-dream-job-windows-zero-day-2026-08-12",
+      "categories": [
+        "News"
+      ],
+      "tags": [
+        "Lazarus",
+        "Operation Dream Job",
+        "fake job offers",
+        "DLL sideloading",
+        "CVE-2026-68820",
+        "CVE-2025-49113",
+        "FudModule",
+        "MISTPEN",
+        "SecurityPDF",
+        "Troy",
+        "RelayShell",
+        "Roundcube",
+        "Enveil",
+        "two-infection-chains",
+        "phishing"
+      ],
+      "url": "https://redoracle.com/News/lazarus-dream-job-windows-zero-day.html",
+      "image": "https://storage.googleapis.com/red_articles/lazarus-dream-job-windows-zero-day.avif",
+      "readingTime": 4,
+      "contentHash": "sha256:ecfd0cfd3cb26b5919c7fb428e134b307c981572c19c095079e88ac376ab9482"
+    },
     {
       "slug": "microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance",
       "file": "microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.md",
