@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:6bbd6e7a8205ab4a25dfee32440274c8a24fa1aca9c4035a6878535cd3d5a2e8",
-  "total": 388,
+  "revision": "sha256:06871ca85851958cabdb8ce7ccf39fc9deb90af42528a78bf66795907d6f2a89",
+  "total": 389,
   "articles": [
     {
       "slug": "lazarus-dream-job-windows-zero-day",
@@ -64,6 +64,31 @@
       "image": "https://storage.googleapis.com/red_articles/microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.avif",
       "readingTime": 4,
       "contentHash": "sha256:e4b12aae8d3df65d281dce718a41be5329030cb5df26e7f43a5e1e2ca5a214a9"
+    },
+    {
+      "slug": "signal-automatic-key-verification-launch",
+      "file": "signal-automatic-key-verification-launch.md",
+      "title": "Signal introduces automatic key verification to confirm end-to-end encryption integrity",
+      "description": "Signal has introduced a feature called automatic key verification to help users confirm that their end-to-end encrypted chats have not been tampered with. The feature was published on 2026-08-12 and u…",
+      "date": "2026-08-12",
+      "datePublished": "2026-08-12T16:49:04.951Z",
+      "id": "signal-automatic-key-verification-launch-2026-08-12",
+      "categories": [
+        "News"
+      ],
+      "tags": [
+        "automatic key verification",
+        "key transparency",
+        "Safety Numbers",
+        "Signal",
+        "Cloudflare",
+        "Trail of Bits",
+        "Katherine Yen"
+      ],
+      "url": "https://redoracle.com/News/signal-automatic-key-verification-launch.html",
+      "image": "https://storage.googleapis.com/red_articles/signal-automatic-key-verification-launch.avif",
+      "readingTime": 4,
+      "contentHash": "sha256:19496ad202b2462584287310e8110affa9f5c7724d3d948547f3f50ddcd2fea5"
     },
     {
       "slug": "Clarksons-Farmers-Dog-Pub-Hit-by-Cyberattack-With-27000-Loss-Highlighting-Hospitality-Risk",
