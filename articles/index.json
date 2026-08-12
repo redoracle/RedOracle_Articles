@@ -1,9 +1,37 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:5f44bab75c2c8ff1ea4269e466576d68bd4942fc29a3085918d8029cec74ca41",
-  "total": 386,
+  "revision": "sha256:bc942ebb92dcf123d745dc9422e1a81ea89921f6111ed8a756f731855d0c449f",
+  "total": 387,
   "articles": [
+    {
+      "slug": "microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance",
+      "file": "microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.md",
+      "title": "Microsoft updates Zero Trust for AI with AI pillar and DevSecOps guidance",
+      "description": "Microsoft has expanded its Zero Trust for AI strategy by updating the Zero Trust Assessment tool and the Zero Trust Workshop to include a dedicated AI pillar and DevSecOps guidance. The changes introd…",
+      "date": "2026-08-12",
+      "datePublished": "2026-08-12T16:18:32.897Z",
+      "id": "microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance-2026-08-12",
+      "categories": [
+        "News"
+      ],
+      "tags": [
+        "zerotrust",
+        "ai",
+        "ai-memory-framework",
+        "ai-pillar",
+        "devsecops",
+        "ci-cd",
+        "source-repositories",
+        "infrastructure-as-code",
+        "ai-software-supply-chain",
+        "governed-memory"
+      ],
+      "url": "https://redoracle.com/News/microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.html",
+      "image": "https://storage.googleapis.com/red_articles/microsoft-updates-zero-trust-for-ai-ai-pillar-devsecops-guidance.avif",
+      "readingTime": 4,
+      "contentHash": "sha256:e4b12aae8d3df65d281dce718a41be5329030cb5df26e7f43a5e1e2ca5a214a9"
+    },
     {
       "slug": "Clarksons-Farmers-Dog-Pub-Hit-by-Cyberattack-With-27000-Loss-Highlighting-Hospitality-Risk",
       "file": "Clarksons-Farmers-Dog-Pub-Hit-by-Cyberattack-With-27000-Loss-Highlighting-Hospitality-Risk.md",
