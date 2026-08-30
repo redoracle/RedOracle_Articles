@@ -1,28 +1,9 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:18f94a98996174abe130352798eb3f27d6ad278045ae39cdffcc4c261a63945b",
-  "total": 391,
+  "revision": "sha256:cb6e9c490223420d318fb820cefb4d678725015fcc0bbd0dc05cd60e019df28f",
+  "total": 390,
   "articles": [
-    {
-      "slug": "signal-automated-key-verification-protocol",
-      "file": "signal-automated-key-verification-protocol.md",
-      "title": "Signal Automated Key Verification Protocol",
-      "description": "Analysis of Signal automated key verification protocol.",
-      "date": "2026-08-30",
-      "id": "signal-automated-key-verification-protocol-2026-08-30",
-      "categories": [],
-      "tags": [
-        "signal",
-        "security",
-        "cryptography",
-        "privacy"
-      ],
-      "url": "https://redoracle.com/News/signal-automated-key-verification-protocol.html",
-      "image": "",
-      "readingTime": 1,
-      "contentHash": "sha256:c0bc4019100fcad309e79995c399106ae0d6709034db28d922e6c2b0aa4b6e7f"
-    },
     {
       "slug": "lazarus-dream-job-windows-zero-day",
       "file": "lazarus-dream-job-windows-zero-day.md",
