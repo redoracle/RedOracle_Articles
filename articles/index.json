@@ -1,9 +1,34 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:1d6db03446bb4ab86175213f740e656f097209c5fa5d74dd10baae061d8c550d",
-  "total": 391,
+  "revision": "sha256:0191357fd5abad7e72adc0363cdecd6d44102851d3e1aa3d7ddf8a7ef5246595",
+  "total": 392,
   "articles": [
+    {
+      "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
+      "file": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.md",
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "description": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "date": "2026-09-17",
+      "id": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at-2026-09-17",
+      "categories": [],
+      "tags": [
+        "sparrowocky",
+        "backdoor",
+        "famoussparrow",
+        "attacks",
+        "group",
+        "government",
+        "latin",
+        "malware",
+        "sparrowdoor",
+        "used"
+      ],
+      "url": "https://redoracle.com/News/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.html",
+      "image": "https://storage.googleapis.com/red_articles/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.avif",
+      "readingTime": 11,
+      "contentHash": "sha256:657e55d66532eb80a90389683f0db390bf3cfb19aa04b8e18552cc82ccd06114"
+    },
     {
       "slug": "latest-pixel-security-update-lists-110-flaws-including-one-y",
       "file": "latest-pixel-security-update-lists-110-flaws-including-one-y.md",
