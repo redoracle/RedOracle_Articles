@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:28f160b9f9d43618acb09fd950be321969630ccef25bf1c067fb96b496afd019",
-  "total": 394,
+  "revision": "sha256:5542fb1298747e9068daa320aabdef7af6bf2425593d427e933a4c10b593162c",
+  "total": 393,
   "articles": [
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
@@ -28,31 +28,6 @@
       "image": "https://storage.googleapis.com/red_articles/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.avif",
       "readingTime": 11,
       "contentHash": "sha256:657e55d66532eb80a90389683f0db390bf3cfb19aa04b8e18552cc82ccd06114"
-    },
-    {
-      "slug": "cisco-warns-of-max-severity-ise-zero-day-exploited-in-attack",
-      "file": "cisco-warns-of-max-severity-ise-zero-day-exploited-in-attack.md",
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "description": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "date": "2026-09-17",
-      "id": "cisco-warns-of-max-severity-ise-zero-day-exploited-in-attack-2026-09-17",
-      "categories": [],
-      "tags": [
-        "cisco",
-        "zero",
-        "vulnerability",
-        "attackers",
-        "identity",
-        "engine",
-        "active",
-        "released",
-        "security",
-        "updates"
-      ],
-      "url": "https://redoracle.com/News/cisco-warns-of-max-severity-ise-zero-day-exploited-in-attack.html",
-      "image": "https://storage.googleapis.com/red_articles/cisco-warns-of-max-severity-ise-zero-day-exploited-in-attack.avif",
-      "readingTime": 7,
-      "contentHash": "sha256:a46e31e034c3a9feddc42264f293f3b1a01c86d4d04ea7c2c4499f3d7513af80"
     },
     {
       "slug": "cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit",
