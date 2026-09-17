@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:0191357fd5abad7e72adc0363cdecd6d44102851d3e1aa3d7ddf8a7ef5246595",
-  "total": 392,
+  "revision": "sha256:5542fb1298747e9068daa320aabdef7af6bf2425593d427e933a4c10b593162c",
+  "total": 393,
   "articles": [
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
@@ -28,6 +28,31 @@
       "image": "https://storage.googleapis.com/red_articles/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.avif",
       "readingTime": 11,
       "contentHash": "sha256:657e55d66532eb80a90389683f0db390bf3cfb19aa04b8e18552cc82ccd06114"
+    },
+    {
+      "slug": "cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit",
+      "file": "cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.md",
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "description": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "date": "2026-09-17",
+      "id": "cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit-2026-09-17",
+      "categories": [],
+      "tags": [
+        "patch",
+        "2026",
+        "76460",
+        "cisco",
+        "releases",
+        "exploitation",
+        "severity",
+        "authentication",
+        "bypass",
+        "active"
+      ],
+      "url": "https://redoracle.com/News/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.html",
+      "image": "https://storage.googleapis.com/red_articles/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.avif",
+      "readingTime": 8,
+      "contentHash": "sha256:9eb249c2352ea6f0091614cbf8f9fa7b34082c10718bfa0f9c4241bb41a8e249"
     },
     {
       "slug": "latest-pixel-security-update-lists-110-flaws-including-one-y",
