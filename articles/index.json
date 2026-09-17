@@ -1,9 +1,34 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:cb6e9c490223420d318fb820cefb4d678725015fcc0bbd0dc05cd60e019df28f",
-  "total": 390,
+  "revision": "sha256:1d6db03446bb4ab86175213f740e656f097209c5fa5d74dd10baae061d8c550d",
+  "total": 391,
   "articles": [
+    {
+      "slug": "latest-pixel-security-update-lists-110-flaws-including-one-y",
+      "file": "latest-pixel-security-update-lists-110-flaws-including-one-y.md",
+      "title": "Latest Pixel security update lists 110 flaws including one you need to have patched now",
+      "description": "Latest Pixel security update lists 110 flaws including one you need to have patched now",
+      "date": "2026-09-17",
+      "id": "latest-pixel-security-update-lists-110-flaws-including-one-y-2026-09-17",
+      "categories": [],
+      "tags": [
+        "pixel",
+        "google",
+        "flaw",
+        "exploited",
+        "flaws",
+        "update",
+        "security",
+        "zero",
+        "2026",
+        "critical"
+      ],
+      "url": "https://redoracle.com/News/latest-pixel-security-update-lists-110-flaws-including-one-y.html",
+      "image": "https://storage.googleapis.com/red_articles/latest-pixel-security-update-lists-110-flaws-including-one-y.avif",
+      "readingTime": 8,
+      "contentHash": "sha256:a394cc2441775206ce144a15b0ee9b947269fb87d985656b7d0b1fbed72177fe"
+    },
     {
       "slug": "lazarus-dream-job-windows-zero-day",
       "file": "lazarus-dream-job-windows-zero-day.md",
