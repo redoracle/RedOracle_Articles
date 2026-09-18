@@ -1,9 +1,34 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:5542fb1298747e9068daa320aabdef7af6bf2425593d427e933a4c10b593162c",
-  "total": 393,
+  "revision": "sha256:e7beb146396e83395457e6870a4cd624ffe6108ed75ea1b99c137e453d886011",
+  "total": 394,
   "articles": [
+    {
+      "slug": "federal-officials-warn-of-growing-threat-from-ai-assisted-te",
+      "file": "federal-officials-warn-of-growing-threat-from-ai-assisted-te.md",
+      "title": "Federal officials warn of growing threat from AI-assisted terrorist attacks",
+      "description": "Federal officials warn of growing threat from AI-assisted terrorist attacks",
+      "date": "2026-09-18",
+      "id": "federal-officials-warn-of-growing-threat-from-ai-assisted-te-2026-09-18",
+      "categories": [],
+      "tags": [
+        "federal",
+        "threats",
+        "agencies",
+        "security",
+        "cybersecurity",
+        "assisted",
+        "terrorist",
+        "terrorism",
+        "warnings",
+        "addressing"
+      ],
+      "url": "https://redoracle.com/News/federal-officials-warn-of-growing-threat-from-ai-assisted-te.html",
+      "image": "https://storage.googleapis.com/red_articles/federal-officials-warn-of-growing-threat-from-ai-assisted-te.avif",
+      "readingTime": 8,
+      "contentHash": "sha256:7eac1f2099bf03cc982ff9f676bf7c24f54c082db9fd7f8833bb69d9ada47bd8"
+    },
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
       "file": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.md",
