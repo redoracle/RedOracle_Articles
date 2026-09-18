@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:e7beb146396e83395457e6870a4cd624ffe6108ed75ea1b99c137e453d886011",
-  "total": 394,
+  "revision": "sha256:ffb856b8a9d1942301e52ca940ada32ca53d2fdf55a92402f5aa1a7fd6fad7e9",
+  "total": 395,
   "articles": [
     {
       "slug": "federal-officials-warn-of-growing-threat-from-ai-assisted-te",
@@ -28,6 +28,31 @@
       "image": "https://storage.googleapis.com/red_articles/federal-officials-warn-of-growing-threat-from-ai-assisted-te.avif",
       "readingTime": 8,
       "contentHash": "sha256:7eac1f2099bf03cc982ff9f676bf7c24f54c082db9fd7f8833bb69d9ada47bd8"
+    },
+    {
+      "slug": "new-check-point-flaw-lets-hackers-execute-code-with-root-pri",
+      "file": "new-check-point-flaw-lets-hackers-execute-code-with-root-pri.md",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "description": "New Check Point flaw lets hackers execute code with root privileges",
+      "date": "2026-09-18",
+      "id": "new-check-point-flaw-lets-hackers-execute-code-with-root-pri-2026-09-18",
+      "categories": [],
+      "tags": [
+        "root",
+        "attackers",
+        "code",
+        "flaw",
+        "check",
+        "point",
+        "security",
+        "critical",
+        "vulnerability",
+        "execute"
+      ],
+      "url": "https://redoracle.com/News/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.html",
+      "image": "https://storage.googleapis.com/red_articles/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.avif",
+      "readingTime": 7,
+      "contentHash": "sha256:ad8a7a3f79df31f09aec61511af7bbb155e9c69a17d396a233b9e4bef10112e3"
     },
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
