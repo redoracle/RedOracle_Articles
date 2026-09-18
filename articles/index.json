@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:ffb856b8a9d1942301e52ca940ada32ca53d2fdf55a92402f5aa1a7fd6fad7e9",
+  "revision": "sha256:893e08da781a5d175cec76e4f00013002c85b6bbd7bbb67b186d2c56579eecca",
   "total": 395,
   "articles": [
     {
@@ -51,8 +51,8 @@
       ],
       "url": "https://redoracle.com/News/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.html",
       "image": "https://storage.googleapis.com/red_articles/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.avif",
-      "readingTime": 7,
-      "contentHash": "sha256:ad8a7a3f79df31f09aec61511af7bbb155e9c69a17d396a233b9e4bef10112e3"
+      "readingTime": 6,
+      "contentHash": "sha256:f1a6cf411788ff2aa528c1e66e33e02a6b00cac448c10e51273f3033283a79fd"
     },
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
