@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:5ee11e2fc77106c89d17c605760e945ed8657ccecbcab9a4f91260052c5f89e4",
+  "revision": "sha256:1b86ec0506c8039e0552204af944215550c86c75952c112e4a548077d42fbbe9",
   "total": 398,
   "articles": [
     {
@@ -27,7 +27,7 @@
       "url": "https://redoracle.com/News/google-patches-pixel-zero-click-vulnerability-exploited-in-t.html",
       "image": "https://storage.googleapis.com/red_articles/google-patches-pixel-zero-click-vulnerability-exploited-in-t.avif",
       "readingTime": 7,
-      "contentHash": "sha256:fc724c09ea32d87ab26997e6953b0ab7024751a12768253f30e35a8af537d94b"
+      "contentHash": "sha256:24d1c9dc80c53f50ef81957ff8d80c62af0dbaa2a6c815e4a333878444f32273"
     },
     {
       "slug": "is-ai-making-cyberattacks-easier-researchers-say-they-breach",
@@ -52,7 +52,7 @@
       "url": "https://redoracle.com/News/is-ai-making-cyberattacks-easier-researchers-say-they-breach.html",
       "image": "https://storage.googleapis.com/red_articles/is-ai-making-cyberattacks-easier-researchers-say-they-breach.avif",
       "readingTime": 10,
-      "contentHash": "sha256:79738057b6787dcc6db9c98691d9ed138ca7e564c0ad8dc8277f6a8d05cb39c4"
+      "contentHash": "sha256:c3bb8f89b77af2208568ab5c8be00a8774ce2df9d5a13d8a32d9c53a6cae002c"
     },
     {
       "slug": "random-meeting-and-event-invites-on-your-calendar-could-be-a",
@@ -77,7 +77,7 @@
       "url": "https://redoracle.com/News/random-meeting-and-event-invites-on-your-calendar-could-be-a.html",
       "image": "https://storage.googleapis.com/red_articles/random-meeting-and-event-invites-on-your-calendar-could-be-a.avif",
       "readingTime": 12,
-      "contentHash": "sha256:4a632cd19a81394bc2b71105298d6e74d3459d11df9586a41de74edc2fac80d6"
+      "contentHash": "sha256:fd2ed7186920137f00c8ef7c1e08ebe59d9a8643fa49dfedfdd092d97a7e304d"
     },
     {
       "slug": "federal-officials-warn-of-growing-threat-from-ai-assisted-te",
@@ -102,7 +102,7 @@
       "url": "https://redoracle.com/News/federal-officials-warn-of-growing-threat-from-ai-assisted-te.html",
       "image": "https://storage.googleapis.com/red_articles/federal-officials-warn-of-growing-threat-from-ai-assisted-te.avif",
       "readingTime": 8,
-      "contentHash": "sha256:7eac1f2099bf03cc982ff9f676bf7c24f54c082db9fd7f8833bb69d9ada47bd8"
+      "contentHash": "sha256:a9a9077312fa42afb4506d2a2423b10d57323e993ca8af389e2c1963f952c850"
     },
     {
       "slug": "new-check-point-flaw-lets-hackers-execute-code-with-root-pri",
@@ -127,7 +127,7 @@
       "url": "https://redoracle.com/News/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.html",
       "image": "https://storage.googleapis.com/red_articles/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.avif",
       "readingTime": 6,
-      "contentHash": "sha256:f1a6cf411788ff2aa528c1e66e33e02a6b00cac448c10e51273f3033283a79fd"
+      "contentHash": "sha256:206b63fcb7ac87c18ed508252ae4dd516ba23bd4fd37d31bf44994826ed252d1"
     },
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
@@ -152,7 +152,7 @@
       "url": "https://redoracle.com/News/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.html",
       "image": "https://storage.googleapis.com/red_articles/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at.avif",
       "readingTime": 11,
-      "contentHash": "sha256:657e55d66532eb80a90389683f0db390bf3cfb19aa04b8e18552cc82ccd06114"
+      "contentHash": "sha256:2fb0ea59047c00331e5105258f25e28a53cafbfd84fba579a76f24727ced2dff"
     },
     {
       "slug": "cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit",
@@ -176,8 +176,8 @@
       ],
       "url": "https://redoracle.com/News/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.html",
       "image": "https://storage.googleapis.com/red_articles/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.avif",
-      "readingTime": 8,
-      "contentHash": "sha256:9eb249c2352ea6f0091614cbf8f9fa7b34082c10718bfa0f9c4241bb41a8e249"
+      "readingTime": 7,
+      "contentHash": "sha256:7d11c066e110ff5b1368e9d74c4d83507c0a132698d6b9d260570c6cc65c91c0"
     },
     {
       "slug": "latest-pixel-security-update-lists-110-flaws-including-one-y",
@@ -201,8 +201,8 @@
       ],
       "url": "https://redoracle.com/News/latest-pixel-security-update-lists-110-flaws-including-one-y.html",
       "image": "https://storage.googleapis.com/red_articles/latest-pixel-security-update-lists-110-flaws-including-one-y.avif",
-      "readingTime": 8,
-      "contentHash": "sha256:a394cc2441775206ce144a15b0ee9b947269fb87d985656b7d0b1fbed72177fe"
+      "readingTime": 7,
+      "contentHash": "sha256:0191727c6c8900471ca9815e38ad947d72c0c40ff6d5331da52b3ea6840637a5"
     },
     {
       "slug": "lazarus-dream-job-windows-zero-day",
