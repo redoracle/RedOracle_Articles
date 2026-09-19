@@ -1,9 +1,34 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:cb41d084d73ff78d4cf43eb03664ccd91672372780f118d6814c51b7f35e39fd",
-  "total": 399,
+  "revision": "sha256:e3370fd9f7d2b22c7d1983e858d87dc7d95a796350c5a77c8f303f70dd608e05",
+  "total": 400,
   "articles": [
+    {
+      "slug": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of",
+      "file": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.md",
+      "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+      "description": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+      "date": "2026-09-19",
+      "id": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-2026-09-19",
+      "categories": [],
+      "tags": [
+        "riyadh",
+        "airport",
+        "saudi",
+        "near",
+        "smoke",
+        "civil",
+        "defence",
+        "incident",
+        "flames",
+        "clear"
+      ],
+      "url": "https://redoracle.com/News/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.html",
+      "image": "https://storage.googleapis.com/red_articles/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.avif",
+      "readingTime": 7,
+      "contentHash": "sha256:ea86de6ab0ff40550a8a4dac4ac288e7514aa5c46f33094cdefda7b16c370a8c"
+    },
     {
       "slug": "google-patches-pixel-zero-click-vulnerability-exploited-in-t",
       "file": "google-patches-pixel-zero-click-vulnerability-exploited-in-t.md",
