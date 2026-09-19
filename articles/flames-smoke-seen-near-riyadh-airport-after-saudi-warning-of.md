@@ -20,10 +20,10 @@ The sequence mirrors a classic crisis-management cycle: alarm, confusion, then r
 
 ## Key facts
 
-- **Incident date**: September 19, 2026 [[1]](#ref-1)
-- **Location**: King Khalid International Airport, Riyadh [[1]](#ref-1)
-- **Attributed cause**: Houthi attacks involving drones and missiles [[2]](#ref-2)
-- **Initial response**: Saudi civil defence sent phone alerts overnight before issuing an all-clear [[2]](#ref-2)
+- **Incident date**: September 19, 2026 [[[1]](#ref-1)](#ref-1)
+- **Location**: King Khalid International Airport, Riyadh [[[1]](#ref-1)](#ref-1)
+- **Attributed cause**: Houthi attacks involving drones and missiles [[[2]](#ref-2)](#ref-2)
+- **Initial response**: Saudi civil defence sent phone alerts overnight before issuing an all-clear [[[2]](#ref-2)](#ref-2)
 
 These elements represent the highest-confidence information from available reporting and official statements. Details such as property damage extent, eyewitness accounts, and independent technical analyses remain unverified at this time.
 
@@ -80,10 +80,10 @@ The progression follows a textbook pattern of crisis communication: warning → 
 
 Multiple reputable outlets converge on the core timeline and causation claims.
 
-- **Al-Monitor** offers extensive coverage, describing the visual phenomena and Houthi attribution [[1]](#ref-1). Its reporting includes specific references to the Houthi claim and the Saudi response [[1]](#ref-1).
-- **Indian Express** contributes technical detail on the alleged drone/missile strike, explaining fuel-tank dynamics of the suspected attack platform [[2]](#ref-2).
-- **The Guardian** documents the broader context of air-raid alerts in the capital, confirming the incident occurred amid heightened regional tension [[3]](#ref-3).
-- **Jang** and **Al-Monitor** carry similar accounts of the smoke plume and subsequent all-clear messaging [[4]](#ref-4)[[5]](#ref-5).
+- **Al-Monitor** offers extensive coverage, describing the visual phenomena and Houthi attribution [[[1]](#ref-1)](#ref-1). Its reporting includes specific references to the Houthi claim and the Saudi response [[[1]](#ref-1)](#ref-1).
+- **Indian Express** contributes technical detail on the alleged drone/missile strike, explaining fuel-tank dynamics of the suspected attack platform [[[2]](#ref-2)](#ref-2).
+- **The Guardian** documents the broader context of air-raid alerts in the capital, confirming the incident occurred amid heightened regional tension [[[3]](#ref-3)](#ref-3).
+- **Jang** and **Al-Monitor** carry similar accounts of the smoke plume and subsequent all-clear messaging [[[4]](#ref-4)](#ref-4)[[[5]](#ref-5)](#ref-5).
 
 All four sources rank as Tier B (reliable, cross-referenced). No conflicting narratives suggesting alternative causes—such as accidental explosions or purely natural events—appear among the primary outlets covering this story. The consistent Houthi attribution and documented civil defence response provide strong evidentiary support for the published account.
 
