@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:ec008d3a76464d2182d5649a706ac2e4cb2cb7a4a28802d4897c9da830796afe",
+  "revision": "sha256:34ffbfec740de970610aab295465a5f14924e5c042b5f5c6878e4504bd9d0f5a",
   "total": 401,
   "articles": [
     {
@@ -27,7 +27,7 @@
       "url": "https://redoracle.com/News/ai-hackers-threaten-internet-security-and-expose-new-vulnera.html",
       "image": "https://storage.googleapis.com/red_articles/ai-hackers-threaten-internet-security-and-expose-new-vulnera.avif",
       "readingTime": 10,
-      "contentHash": "sha256:c474a5e77db51ff0acf738e0fb1add0de2c16e972d502eca26b4c30306f276dc"
+      "contentHash": "sha256:39f3bae7171a7e5609107affa68a46a3d42d3ae9d641a4077673b3b190bd374e"
     },
     {
       "slug": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of",
@@ -52,7 +52,7 @@
       "url": "https://redoracle.com/News/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.html",
       "image": "https://storage.googleapis.com/red_articles/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.avif",
       "readingTime": 7,
-      "contentHash": "sha256:492dab4eb6b688846ee85ddcf75036c29d5de562db26d36df2d3f0dd26402381"
+      "contentHash": "sha256:44a8aeed81af7b8228ebeec2bd41c140d0ffd0675ef5cb64c99a116a13385f9c"
     },
     {
       "slug": "google-patches-pixel-zero-click-vulnerability-exploited-in-t",
@@ -102,7 +102,7 @@
       "url": "https://redoracle.com/News/hackers-breached-openai-adding-to-fever-pitch-of-security-an.html",
       "image": "https://storage.googleapis.com/red_articles/hackers-breached-openai-adding-to-fever-pitch-of-security-an.avif",
       "readingTime": 8,
-      "contentHash": "sha256:51743dc1c1ec3ab08623d4d2dba7a737ff67ac859376b9b3319f5f1e29c02733"
+      "contentHash": "sha256:38ee0528ec52dc218cb468a5ee09021fb751271b99c6b1d05de0f55963348635"
     },
     {
       "slug": "is-ai-making-cyberattacks-easier-researchers-say-they-breach",
