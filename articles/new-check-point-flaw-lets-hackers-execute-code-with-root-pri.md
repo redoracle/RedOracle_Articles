@@ -12,7 +12,7 @@ schema-type: "NewsArticle"
 
 ## Introduction
 
-A newly discovered vulnerability in Check Point's security management and log servers has exposed a critical weakness in enterprise-grade next-generation firewalls. The flaw, labeled CVE-2026-91843 in technical documentation, allows unauthenticated attackers to execute arbitrary code with root privileges directly on the Check Point management plane. This represents a severe privilege escalation vulnerability that bypasses every authentication mechanism, granting adversaries complete administrative control over the target device without ever needing valid credentials.[1][2][3][4][5]
+A newly discovered vulnerability in Check Point's security management and log servers has exposed a critical weakness in enterprise-grade next-generation firewalls. The flaw, labeled [CVE-2026-91843](https://www.cve.org/CVERecord?id=CVE-2026-91843) in technical documentation, allows unauthenticated attackers to execute arbitrary code with root privileges directly on the Check Point management plane. This represents a severe privilege escalation vulnerability that bypasses every authentication mechanism, granting adversaries complete administrative control over the target device without ever needing valid credentials.[1][2][3][4][5]
 
 ## What happened
 
