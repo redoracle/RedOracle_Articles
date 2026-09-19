@@ -8,10 +8,10 @@ schema-type: "NewsArticle"
 
 ![Latest Pixel security update lists 110 flaws including one you need to have patched now](https://storage.googleapis.com/red_articles/latest-pixel-security-update-lists-110-flaws-including-one-y.avif)
 
-# Latest Pixel Security Update Lists 110 Flaws Including Critical Unpatched Vulnerability [CVE-2026-58704](https://www.cve.org/CVERecord?id=[CVE-2026-58704](https://www.cve.org/CVERecord?id=CVE-2026-58704))
+# Latest Pixel Security Update Lists 110 Flaws Including Critical Unpatched Vulnerability [CVE-2026-58704](https://www.cve.org/CVERecord?id=CVE-2026-58704)
 
 ## Introduction
-This article examines Google's most recent security announcement for its Pixel smartphone lineup. The update reveals a substantial breadth of security issues—specifically, 110 distinct flaws were identified and addressed in the latest production patch. Among these, **CVE-2026-58704** stands out as a particularly urgent concern, having been actively exploited by threat actors in the wild since September 2026. This zero-day vulnerability demands immediate attention from all Pixel device owners.
+This article examines Google's most recent security announcement for its Pixel smartphone lineup. The update reveals a substantial breadth of security issues—specifically, 110 distinct flaws were identified and addressed in the latest production patch. Among these, **[CVE-2026-58704](https://www.cve.org/CVERecord?id=CVE-2026-58704)** stands out as a particularly urgent concern, having been actively exploited by threat actors in the wild since September 2026. This zero-day vulnerability demands immediate attention from all Pixel device owners.
 
 The scale of the disclosure marks a significant milestone for Google's security response. Previously, vulnerabilities were often addressed sporadically, but this update consolidates the effort into a single comprehensive release. The sheer volume of flaws—and one confirmed to be actively exploited—underscores the persistent challenge of securing modern consumer-grade smartphones against sophisticated adversaries.
 
@@ -26,7 +26,7 @@ Several verifiable facts define the scope and urgency of this security release:
 - **Total flaw count**: The update addresses exactly **110** verified security flaws across Pixel devices.
 - **Critical vulnerability**: **CVE-2026-58704** is highlighted as the most severe finding, described as an actively exploited zero-day vulnerability that requires immediate patching.
 - **Update timing**: The May 2026 update serves as the foundation for these fixes, building upon prior security iterations and incorporating the new anti-rollback protections.
-- **Product coverage**: The update applies broadly across the Pixel lineup, though some devices (such as the Pixel 11) were previously left on older patch levels, extending their exposure window—a point emphasized by independent testing ([[1]](#ref-1)).
+- **Product coverage**: The update applies broadly across the Pixel lineup, though some devices (such as the Pixel 11) were previously left on older patch levels, extending their exposure window—a point emphasized by independent testing ([[1](#ref-1)]).
 - **Additional mitigations**: Beyond CVE-2026-58704, the update encompasses a range of issues spanning memory corruption, input validation failures, and authentication bypasses, reflecting the complexity of hardware-software systems in consumer devices.
 
 ## Timeline
@@ -66,7 +66,7 @@ Looking further back, earlier versions from the Pixel 6 era exhibited a differen
 ## Fact Checking and Sources
 Multiple independent sources corroborate the core findings of this security event. Six primary sources collectively confirm the existence of 110 flaws, the critical status of CVE-2026-58704, and the May 2026 update release date. The source mix includes both technical deep-dives (Tier B) from outlets covering detailed vulnerability analysis, and broader industry reporting (Tier C) providing context on adoption rates and community response.
 
-**Tier B sources**—including reports from bleepingcomputer.com ([[4]](#ref-4)) and techobserver.in ([[5]](#ref-5))—provide granular technical detail about the severity of CVE-2026-58704 and the specific mitigation measures deployed by Google. They emphasize the active exploitation aspect and the urgency of patching. **Tier C sources**—such as bgr.com ([[2]](#ref-2)) and techtimes.com ([[3]](#ref-3))—offer broader coverage of the timeline and implementation aspects of the May 2026 update.
+**Tier B sources**—including reports from bleepingcomputer.com ([[4](#ref-4)]) and techobserver.in ([[5](#ref-5)])—provide granular technical detail about the severity of CVE-2026-58704 and the specific mitigation measures deployed by Google. They emphasize the active exploitation aspect and the urgency of patching. **Tier C sources**—such as bgr.com ([[2](#ref-2)]) and techtimes.com ([[3](#ref-3)])—offer broader coverage of the timeline and implementation aspects of the May 2026 update.
 
 There is no conflicting evidence among the six cited sources. All agree on the central thesis: Google has addressed a significant portion of the Pixel security landscape, yet CVE-2026-58704 remains the highest priority for immediate remediation. The consensus positions this incident not merely as another routine security bulletin but as a wake-up call regarding the ongoing cat-and-mouse dynamic between vendor responsiveness and adversary agility.
 
@@ -74,17 +74,17 @@ There is no conflicting evidence among the six cited sources. All agree on the c
 For readers seeking deeper contextualization, cross-referencing related RedOracle coverage can provide valuable insights. Search for RedOracle's companion pieces on similar Android security incidents to understand how this Pixel-specific breach fits into the larger ecosystem of mobile device vulnerabilities. Broader threat intelligence reports on Android zero-days targeting consumer devices may offer comparative perspectives on attack patterns and remediations seen elsewhere in the market. Note that there may be gaps in adjacent coverage—certain variations of the same vulnerability across different Android SKUs might require separate investigation.
 ## References
 
-1. <a id="ref-1"></a> <a id="ref-1"></a>[Google left the Pixel 11 on an older patch level than the Pixel 6](https://www.notebookcheck.net/Google-left-the-Pixel-11-on-an-older-patch-level-than-the-Pixel-6.1400749.0.html) — notebookcheck.net
-2. <a id="ref-2"></a> <a id="ref-2"></a>[Your Google Pixel 10 Just Got A Major Security Upgrade Every Android Phone Should Copy](https://www.bgr.com/2149738/google-pixel-10-major-android-security-upgrade-rust/) — bgr.com
-3. <a id="ref-3"></a> <a id="ref-3"></a>[Google Pixel 10's May 2026 Update Blocks Older Android Versions With Anti-Rollback Security Feature](https://www.techtimes.com/articles/316358/20260506/google-pixel-10s-may-2026-update-blocks-older-android-versions-anti-rollback-security-feature.htm) — techtimes.com
-4. <a id="ref-4"></a> <a id="ref-4"></a>[Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/) — bleepingcomputer.com
-5. <a id="ref-5"></a> <a id="ref-5"></a>[Google patches actively exploited zero-day flaw affecting Pixel devices](https://techobserver.in/news/cybersecurity/google-pixel-zero-day-september-2026-security-patch-329339/) — techobserver.in
-6. <a id="ref-6"></a> <a id="ref-6"></a>[Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks](https://cybersecuritynews.com/android-pixel-zero-day/) — cybersecuritynews.com
+1. <a id="ref-1"></a>[Google left the Pixel 11 on an older patch level than the Pixel 6](https://www.notebookcheck.net/Google-left-the-Pixel-11-on-an-older-patch-level-than-the-Pixel-6.1400749.0.html) — notebookcheck.net
+2. <a id="ref-2"></a>[Your Google Pixel 10 Just Got A Major Security Upgrade Every Android Phone Should Copy](https://www.bgr.com/2149738/google-pixel-10-major-android-security-upgrade-rust/) — bgr.com
+3. <a id="ref-3"></a>[Google Pixel 10's May 2026 Update Blocks Older Android Versions With Anti-Rollback Security Feature](https://www.techtimes.com/articles/316358/20260506/google-pixel-10s-may-2026-update-blocks-older-android-versions-anti-rollback-security-feature.htm) — techtimes.com
+4. <a id="ref-4"></a>[Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/) — bleepingcomputer.com
+5. <a id="ref-5"></a>[Google patches actively exploited zero-day flaw affecting Pixel devices](https://techobserver.in/news/cybersecurity/google-pixel-zero-day-september-2026-security-patch-329339/) — techobserver.in
+6. <a id="ref-6"></a>[Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks](https://cybersecuritynews.com/android-pixel-zero-day/) — cybersecuritynews.com
 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "[https://schema.org",](https://schema.org",)
   "@type": "NewsArticle",
   "headline": "Latest Pixel security update lists 110 flaws including one you need to have patched now",
   "datePublished": "2026-09-17",
