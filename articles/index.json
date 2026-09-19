@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:34ffbfec740de970610aab295465a5f14924e5c042b5f5c6878e4504bd9d0f5a",
+  "revision": "sha256:8efdce6db8b525fd166f2edfffe8e015b0ba4ee2de009b2dc59a7abe2955c3cb",
   "total": 401,
   "articles": [
     {
@@ -27,7 +27,7 @@
       "url": "https://redoracle.com/News/ai-hackers-threaten-internet-security-and-expose-new-vulnera.html",
       "image": "https://storage.googleapis.com/red_articles/ai-hackers-threaten-internet-security-and-expose-new-vulnera.avif",
       "readingTime": 10,
-      "contentHash": "sha256:39f3bae7171a7e5609107affa68a46a3d42d3ae9d641a4077673b3b190bd374e"
+      "contentHash": "sha256:e36d08856a92b2b68f557b966799ec37587795b4dea1db734819e9673ac1fa84"
     },
     {
       "slug": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of",
