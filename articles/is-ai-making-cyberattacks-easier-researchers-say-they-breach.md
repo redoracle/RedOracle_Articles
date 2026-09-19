@@ -82,7 +82,7 @@ No major changes to the core facts have emerged; the incident remains a referenc
 
 ## Fact checking and sources
 
-All core facts in this article derive from verified reporting across six independent sources [1][2][3][4][5][6]. Leading accounts from *thediplomaticinsight.com* [1], *Silicon Angle* [2], and *IBNT* [3] provide consistent descriptions of the methodology involving Claude models and the Discourse/SSO attack chain. The *Indian Express* piece [5] adds detail about the involvement of Indian-origin researchers, while *Eastleigh Voice* [6] offers additional perspective on the technical steps taken. Together, these sources form a robust evidentiary base for the claims made here.
+All core facts in this article derive from verified reporting across six independent sources [[1]](#ref-1)[[2]](#ref-2)[[3]](#ref-3)[[4]](#ref-4)[[5]](#ref-5)[[6]](#ref-6). Leading accounts from *thediplomaticinsight.com* [[1]](#ref-1), *Silicon Angle* [[2]](#ref-2), and *IBNT* [[3]](#ref-3) provide consistent descriptions of the methodology involving Claude models and the Discourse/SSO attack chain. The *Indian Express* piece [[5]](#ref-5) adds detail about the involvement of Indian-origin researchers, while *Eastleigh Voice* [[6]](#ref-6) offers additional perspective on the technical steps taken. Together, these sources form a robust evidentiary base for the claims made here.
 
 It is worth noting that some secondary sites (*24Newshd*, *Indiana Express variants*) corroborate the main points though with varying levels of depth. Tier designations indicate that the primary sources are considered reliable tier C content, while others fall into tier B. Regardless of granularity, all cited information aligns with the high-confidence facts listed above.
 
@@ -121,12 +121,12 @@ Looking ahead, the cybersecurity community should prioritize:
 Until such measures mature, the industry will continue to learn from incidents like this one—alarming in nature, but ultimately driving the field toward stronger defenses.
 ## References
 
-1. [Researchers Used Anthropic’s Claude to Breach OpenAI Systems in Under 72 Hours](https://thediplomaticinsight.com/researchers-claude-breach-openai-72-hours/) — thediplomaticinsight.com
-2. [Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude](https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/) — siliconangle.com
-3. [Hackers Used Anthropic's Claude to Break Into OpenAI. They Reached the ChatGPT Maker's Private Code.](https://www.ibtimes.com/hackers-used-anthropics-claude-break-openai-they-reached-chatgpt-makers-private-code-3807619) — ibtimes.com
-4. [Researchers used Claude to breach OpenAI's internal systems](https://www.24newshd.tv/18-Sep-2026/researchers-used-claude-breach-openai-s-internal-systems) — 24newshd.tv
-5. [OpenAI hack: How 3 Indian-origin researchers used Anthropic’s Claude to access employee accounts](https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/) — indianexpress.com
-6. [Researchers used Anthropic’s Claude to breach OpenAI systems](https://eastleighvoice.co.ke/technology/402144/researchers-used-anthropics-claude-to-breach-openai-systems) — eastleighvoice.co.ke
+1. <a id="ref-1"></a>[Researchers Used Anthropic’s Claude to Breach OpenAI Systems in Under 72 Hours](https://thediplomaticinsight.com/researchers-claude-breach-openai-72-hours/) — thediplomaticinsight.com
+2. <a id="ref-2"></a>[Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude](https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/) — siliconangle.com
+3. <a id="ref-3"></a>[Hackers Used Anthropic's Claude to Break Into OpenAI. They Reached the ChatGPT Maker's Private Code.](https://www.ibtimes.com/hackers-used-anthropics-claude-break-openai-they-reached-chatgpt-makers-private-code-3807619) — ibtimes.com
+4. <a id="ref-4"></a>[Researchers used Claude to breach OpenAI's internal systems](https://www.24newshd.tv/18-Sep-2026/researchers-used-claude-breach-openai-s-internal-systems) — 24newshd.tv
+5. <a id="ref-5"></a>[OpenAI hack: How 3 Indian-origin researchers used Anthropic’s Claude to access employee accounts](https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/) — indianexpress.com
+6. <a id="ref-6"></a>[Researchers used Anthropic’s Claude to breach OpenAI systems](https://eastleighvoice.co.ke/technology/402144/researchers-used-anthropics-claude-to-breach-openai-systems) — eastleighvoice.co.ke
 
 
 <script type="application/ld+json">
