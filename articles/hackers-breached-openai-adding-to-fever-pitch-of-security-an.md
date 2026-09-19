@@ -129,7 +129,7 @@ For individuals outside the industry, the takeaway is clear: vigilance around cr
 
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org",](https://schema.org",)
+  "@context": "[[https://schema.org",](https://schema.org",](https://schema.org",](https://schema.org",))
   "@type": "NewsArticle",
   "headline": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
   "datePublished": "2026-09-19",
