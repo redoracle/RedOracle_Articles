@@ -131,7 +131,7 @@ Until such measures mature, the industry will continue to learn from incidents l
 
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org",](https://schema.org",)
+  "@context": "[[https://schema.org",](https://schema.org",](https://schema.org",](https://schema.org",))
   "@type": "NewsArticle",
   "headline": "Is AI Making Cyberattacks Easier? Researchers Say They Breached OpenAI Systems Using Claude",
   "datePublished": "2026-09-19",
