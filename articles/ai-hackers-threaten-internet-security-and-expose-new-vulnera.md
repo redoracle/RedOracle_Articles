@@ -92,9 +92,9 @@ The situation remains fundamentally dynamic. Ongoing monitoring suggests the thr
 
 All major reported developments in this incident are corroborated by multiple independent sources:
 
-California Building 'AI Cyber Defense Fund' to Protect Critical Infrastructure From Hackers — gizmodo.com ([https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182](https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182))
-Water industry turns to AI and hackers for help after suspected Iran cyberattacks — nbcnews.com ([https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178](https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178))
-US warns AI-powered cyberattacks now targeting water systems, power plants — biz.heraldcorp.com ([https://biz.heraldcorp.com/article/10847382](https://biz.heraldcorp.com/article/10847382))
+California Building 'AI Cyber Defense Fund' to Protect Critical Infrastructure From Hackers — gizmodo.com ([[https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182](https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182](https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182](https://gizmodo.com/california-building-ai-cyber-defense-fund-to-protect-critical-infrastructure-from-hackers-2000797182)))
+Water industry turns to AI and hackers for help after suspected Iran cyberattacks — nbcnews.com ([[https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178](https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178](https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178](https://www.nbcnews.com/tech/security/water-industry-turns-ai-hackers-help-suspected-iran-cyberattacks-rcna591178)))
+US warns AI-powered cyberattacks now targeting water systems, power plants — biz.heraldcorp.com ([[https://biz.heraldcorp.com/article/10847382](https://biz.heraldcorp.com/article/10847382](https://biz.heraldcorp.com/article/10847382](https://biz.heraldcorp.com/article/10847382)))
 
 These sources collectively establish the core narrative: coordinated AI-enhanced attacks on critical infrastructure, institutional responses including fund creation and agency advisories, and the emerging legal and regulatory awareness surrounding the issue.
 
@@ -128,7 +128,7 @@ Addressing these limitations requires continued vigilance, transparent communica
 
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org",](https://schema.org",)
+  "@context": "[[https://schema.org",](https://schema.org",](https://schema.org",](https://schema.org",))
   "@type": "NewsArticle",
   "headline": "AI hackers threaten internet security and expose new vulnerabilities",
   "datePublished": "2026-09-19",
