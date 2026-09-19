@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:a698b736c63a3fd093854a6abce33029a9457015a84eedfc9f69e9aa48f64bc7",
+  "revision": "sha256:ec008d3a76464d2182d5649a706ac2e4cb2cb7a4a28802d4897c9da830796afe",
   "total": 401,
   "articles": [
     {
@@ -27,7 +27,7 @@
       "url": "https://redoracle.com/News/ai-hackers-threaten-internet-security-and-expose-new-vulnera.html",
       "image": "https://storage.googleapis.com/red_articles/ai-hackers-threaten-internet-security-and-expose-new-vulnera.avif",
       "readingTime": 10,
-      "contentHash": "sha256:cb4598fb9129216378b2917baf617822ec1b1d76acef2a8eb1c1a516e79037ca"
+      "contentHash": "sha256:c474a5e77db51ff0acf738e0fb1add0de2c16e972d502eca26b4c30306f276dc"
     },
     {
       "slug": "flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of",
@@ -52,7 +52,7 @@
       "url": "https://redoracle.com/News/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.html",
       "image": "https://storage.googleapis.com/red_articles/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of.avif",
       "readingTime": 7,
-      "contentHash": "sha256:c5925bd1b3eed15791595d65b8cd4a59059c1120b1dc12d63b2bdc992360268a"
+      "contentHash": "sha256:492dab4eb6b688846ee85ddcf75036c29d5de562db26d36df2d3f0dd26402381"
     },
     {
       "slug": "google-patches-pixel-zero-click-vulnerability-exploited-in-t",
@@ -77,7 +77,7 @@
       "url": "https://redoracle.com/News/google-patches-pixel-zero-click-vulnerability-exploited-in-t.html",
       "image": "https://storage.googleapis.com/red_articles/google-patches-pixel-zero-click-vulnerability-exploited-in-t.avif",
       "readingTime": 7,
-      "contentHash": "sha256:ae25dd753c7b6b258d0040179fb369c0393827f3ec57de54c19b19dedc991022"
+      "contentHash": "sha256:370a1e8493069ba9b087b9bc76dabdc287df690e9381dc05b778f1357f5ca437"
     },
     {
       "slug": "hackers-breached-openai-adding-to-fever-pitch-of-security-an",
@@ -102,7 +102,7 @@
       "url": "https://redoracle.com/News/hackers-breached-openai-adding-to-fever-pitch-of-security-an.html",
       "image": "https://storage.googleapis.com/red_articles/hackers-breached-openai-adding-to-fever-pitch-of-security-an.avif",
       "readingTime": 8,
-      "contentHash": "sha256:5e95beb42a6c8b791584d67f50838bcde35ae37ef7aab9ce9c1414436a1b8af3"
+      "contentHash": "sha256:51743dc1c1ec3ab08623d4d2dba7a737ff67ac859376b9b3319f5f1e29c02733"
     },
     {
       "slug": "is-ai-making-cyberattacks-easier-researchers-say-they-breach",
@@ -127,7 +127,7 @@
       "url": "https://redoracle.com/News/is-ai-making-cyberattacks-easier-researchers-say-they-breach.html",
       "image": "https://storage.googleapis.com/red_articles/is-ai-making-cyberattacks-easier-researchers-say-they-breach.avif",
       "readingTime": 10,
-      "contentHash": "sha256:4ac6fea2b34265cd4bc9ca278e6c600afbd4888c01372ed5007e76e3ead8a3d7"
+      "contentHash": "sha256:b1ce0f91fc448ce4288cafea78731d5367044d1d9cd053252f8d7dd4ad907196"
     },
     {
       "slug": "random-meeting-and-event-invites-on-your-calendar-could-be-a",
