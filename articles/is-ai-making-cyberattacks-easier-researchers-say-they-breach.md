@@ -121,17 +121,17 @@ Looking ahead, the cybersecurity community should prioritize:
 Until such measures mature, the industry will continue to learn from incidents like this one—alarming in nature, but ultimately driving the field toward stronger defenses.
 ## References
 
-1. <a id="ref-1"></a> <a id="ref-1"></a>[Researchers Used Anthropic’s Claude to Breach OpenAI Systems in Under 72 Hours](https://thediplomaticinsight.com/researchers-claude-breach-openai-72-hours/) — thediplomaticinsight.com
-2. <a id="ref-2"></a> <a id="ref-2"></a>[Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude](https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/) — siliconangle.com
-3. <a id="ref-3"></a> <a id="ref-3"></a>[Hackers Used Anthropic's Claude to Break Into OpenAI. They Reached the ChatGPT Maker's Private Code.](https://www.ibtimes.com/hackers-used-anthropics-claude-break-openai-they-reached-chatgpt-makers-private-code-3807619) — ibtimes.com
-4. <a id="ref-4"></a> <a id="ref-4"></a>[Researchers used Claude to breach OpenAI's internal systems](https://www.24newshd.tv/18-Sep-2026/researchers-used-claude-breach-openai-s-internal-systems) — 24newshd.tv
-5. <a id="ref-5"></a> <a id="ref-5"></a>[OpenAI hack: How 3 Indian-origin researchers used Anthropic’s Claude to access employee accounts](https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/) — indianexpress.com
-6. <a id="ref-6"></a> <a id="ref-6"></a>[Researchers used Anthropic’s Claude to breach OpenAI systems](https://eastleighvoice.co.ke/technology/402144/researchers-used-anthropics-claude-to-breach-openai-systems) — eastleighvoice.co.ke
+1. <a id="ref-1"></a>[Researchers Used Anthropic’s Claude to Breach OpenAI Systems in Under 72 Hours](https://thediplomaticinsight.com/researchers-claude-breach-openai-72-hours/) — thediplomaticinsight.com
+2. <a id="ref-2"></a>[Cybersecurity researchers gain access to OpenAI’s GitHub repository using Claude](https://siliconangle.com/2026/09/18/cybersecurity-researchers-gain-access-to-openais-github-repository-using-claude/) — siliconangle.com
+3. <a id="ref-3"></a>[Hackers Used Anthropic's Claude to Break Into OpenAI. They Reached the ChatGPT Maker's Private Code.](https://www.ibtimes.com/hackers-used-anthropics-claude-break-openai-they-reached-chatgpt-makers-private-code-3807619) — ibtimes.com
+4. <a id="ref-4"></a>[Researchers used Claude to breach OpenAI's internal systems](https://www.24newshd.tv/18-Sep-2026/researchers-used-claude-breach-openai-s-internal-systems) — 24newshd.tv
+5. <a id="ref-5"></a>[OpenAI hack: How 3 Indian-origin researchers used Anthropic’s Claude to access employee accounts](https://indianexpress.com/article/world/indian-origin-researchers-use-claude-ai-breach-openai-systems-hacktron-10884340/) — indianexpress.com
+6. <a id="ref-6"></a>[Researchers used Anthropic’s Claude to breach OpenAI systems](https://eastleighvoice.co.ke/technology/402144/researchers-used-anthropics-claude-to-breach-openai-systems) — eastleighvoice.co.ke
 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "[https://schema.org",](https://schema.org",)
   "@type": "NewsArticle",
   "headline": "Is AI Making Cyberattacks Easier? Researchers Say They Breached OpenAI Systems Using Claude",
   "datePublished": "2026-09-19",
