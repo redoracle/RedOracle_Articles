@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:1b86ec0506c8039e0552204af944215550c86c75952c112e4a548077d42fbbe9",
-  "total": 398,
+  "revision": "sha256:cb41d084d73ff78d4cf43eb03664ccd91672372780f118d6814c51b7f35e39fd",
+  "total": 399,
   "articles": [
     {
       "slug": "google-patches-pixel-zero-click-vulnerability-exploited-in-t",
@@ -28,6 +28,31 @@
       "image": "https://storage.googleapis.com/red_articles/google-patches-pixel-zero-click-vulnerability-exploited-in-t.avif",
       "readingTime": 7,
       "contentHash": "sha256:24d1c9dc80c53f50ef81957ff8d80c62af0dbaa2a6c815e4a333878444f32273"
+    },
+    {
+      "slug": "hackers-breached-openai-adding-to-fever-pitch-of-security-an",
+      "file": "hackers-breached-openai-adding-to-fever-pitch-of-security-an.md",
+      "title": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
+      "description": "Hackers breached OpenAI, adding to fever pitch of security and safety concerns",
+      "date": "2026-09-19",
+      "id": "hackers-breached-openai-adding-to-fever-pitch-of-security-an-2026-09-19",
+      "categories": [],
+      "tags": [
+        "openai",
+        "researchers",
+        "breach",
+        "security",
+        "concerns",
+        "claude",
+        "vulnerability",
+        "used",
+        "bounty",
+        "image"
+      ],
+      "url": "https://redoracle.com/News/hackers-breached-openai-adding-to-fever-pitch-of-security-an.html",
+      "image": "https://storage.googleapis.com/red_articles/hackers-breached-openai-adding-to-fever-pitch-of-security-an.avif",
+      "readingTime": 8,
+      "contentHash": "sha256:7df6bb09ed224954358ecc88f7e27a954ea7ee880b3eed6330ef199754f466dc"
     },
     {
       "slug": "is-ai-making-cyberattacks-easier-researchers-say-they-breach",
