@@ -92,11 +92,11 @@ These updates collectively confirm that the threat is mature, well-documented, a
 
 All claims in this article are grounded in verified factual records from authoritative cybersecurity sources. The following sources provide corroborating evidence:
 
-- [[1]](#ref-1) *Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it* — itwire.com (https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it)
-- [[2]](#ref-2) *New Phishing Attack Creates Malicious Pages Inside the Victim's Browser* — securityweek.com (https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/)
-- [[3]](#ref-3) *Email and text phishing scams have moved to calendar invites* — commercialappeal.com (https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/)
-- [[4]](#ref-4) *Email and text phishing scams have moved to calendar invites* — aol.com (https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html)
-- [[5]](#ref-5) *How I almost fell for a Microsoft 365 Calendar invite scam* — foxnews.com (https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam)
+- [[1]](#ref-1) *Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it* — itwire.com ([https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it](https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it))
+- [[2]](#ref-2) *New Phishing Attack Creates Malicious Pages Inside the Victim's Browser* — securityweek.com ([https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/](https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/))
+- [[3]](#ref-3) *Email and text phishing scams have moved to calendar invites* — commercialappeal.com ([https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/](https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/))
+- [[4]](#ref-4) *Email and text phishing scams have moved to calendar invites* — aol.com ([https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html](https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html))
+- [[5]](#ref-5) *How I almost fell for a Microsoft 365 Calendar invite scam* — foxnews.com ([https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam](https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam))
 
 Each source independently confirms the two primary facts stated above: that attackers use calendar invites to inject phishing content into browsers via blob URLs, and that these invites can imitate legitimate business communications to enhance credibility and evade detection. No conflicting information was found across these reputable outlets.
 
@@ -136,16 +136,16 @@ As calendar systems become ever more integral to distributed work environments, 
 
 ## References
 
-1. <a id="ref-1"></a> <a id="ref-1"></a>[Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it](https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it) — itwire.com
-2. <a id="ref-2"></a> <a id="ref-2"></a>[New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser](https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/) — securityweek.com
-3. <a id="ref-3"></a> <a id="ref-3"></a>[Email and text phishing scams have moved to calendar invites | Opinion](https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/) — commercialappeal.com
-4. <a id="ref-4"></a> <a id="ref-4"></a>[Email and text phishing scams have moved to calendar invites | Opinion](https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html) — aol.com
-5. <a id="ref-5"></a> <a id="ref-5"></a>[How I almost fell for a Microsoft 365 Calendar invite scam](https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam) — foxnews.com
+1. <a id="ref-1"></a>[Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it](https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it) — itwire.com
+2. <a id="ref-2"></a>[New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser](https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/) — securityweek.com
+3. <a id="ref-3"></a>[Email and text phishing scams have moved to calendar invites | Opinion](https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/) — commercialappeal.com
+4. <a id="ref-4"></a>[Email and text phishing scams have moved to calendar invites | Opinion](https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html) — aol.com
+5. <a id="ref-5"></a>[How I almost fell for a Microsoft 365 Calendar invite scam](https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam) — foxnews.com
 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "[https://schema.org",](https://schema.org",)
   "@type": "NewsArticle",
   "headline": "Random meeting and event invites on your calendar could be a phishing attack. Here’s how to stay safe",
   "datePublished": "2026-09-19",
