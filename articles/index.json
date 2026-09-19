@@ -1,9 +1,34 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:893e08da781a5d175cec76e4f00013002c85b6bbd7bbb67b186d2c56579eecca",
-  "total": 395,
+  "revision": "sha256:376153965b8f2c3e858fc77710f09b83f5df285f6acb0977e995adbce9022f81",
+  "total": 396,
   "articles": [
+    {
+      "slug": "random-meeting-and-event-invites-on-your-calendar-could-be-a",
+      "file": "random-meeting-and-event-invites-on-your-calendar-could-be-a.md",
+      "title": "Random meeting and event invites on your calendar could be a phishing attack. Here's how to stay safe",
+      "description": "Random meeting and event invites on your calendar could be a phishing attack. Here’s how to stay safe",
+      "date": "2026-09-19",
+      "id": "random-meeting-and-event-invites-on-your-calendar-could-be-a-2026-09-19",
+      "categories": [],
+      "tags": [
+        "calendar",
+        "invites",
+        "phishing",
+        "malicious",
+        "attackers",
+        "files",
+        "deliver",
+        "links",
+        "malware",
+        "directly"
+      ],
+      "url": "https://redoracle.com/News/random-meeting-and-event-invites-on-your-calendar-could-be-a.html",
+      "image": "https://storage.googleapis.com/red_articles/random-meeting-and-event-invites-on-your-calendar-could-be-a.avif",
+      "readingTime": 12,
+      "contentHash": "sha256:4a632cd19a81394bc2b71105298d6e74d3459d11df9586a41de74edc2fac80d6"
+    },
     {
       "slug": "federal-officials-warn-of-growing-threat-from-ai-assisted-te",
       "file": "federal-officials-warn-of-growing-threat-from-ai-assisted-te.md",
