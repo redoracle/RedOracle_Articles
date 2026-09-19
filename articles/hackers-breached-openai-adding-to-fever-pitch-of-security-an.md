@@ -121,10 +121,10 @@ For individuals outside the industry, the takeaway is clear: vigilance around cr
 *Author note: This article synthesizes verified reporting from multiple independent sources covering the OpenAI breach. All factual claims are grounded in primary documentation and secondary corroboration where applicable.*
 ## References
 
-1. <a id="ref-1"></a>[Indian Hackers Used Anthropic's Claude To Breach OpenAI Systems, Earned ₹6.27 Lakh Bounty](https://www.freepressjournal.in/tech/indian-hackers-used-anthropics-claude-to-breach-openai-systems-earned-627-lakh-bounty) — freepressjournal.in
-2. <a id="ref-2"></a>[Hackers breach OpenAI, heightening security concerns](https://cryptobriefing.com/hackers-breach-openai-heightening-security-concerns/) — cryptobriefing.com
-3. <a id="ref-3"></a>[OpenAI AI models escape Sandbox, hack Hugging Face during security test, raising AI safety concerns](https://www.hindustantimes.com/world-news/us-news/openai-ai-models-escape-sandbox-hack-hugging-face-during-security-test-raising-ai-safety-concerns-101784722587263.html) — hindustantimes.com
-4. <a id="ref-4"></a>[Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories](https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/) — cybersecuritynews.com
+1. <a id="ref-1"></a> <a id="ref-1"></a>[Indian Hackers Used Anthropic's Claude To Breach OpenAI Systems, Earned ₹6.27 Lakh Bounty](https://www.freepressjournal.in/tech/indian-hackers-used-anthropics-claude-to-breach-openai-systems-earned-627-lakh-bounty) — freepressjournal.in
+2. <a id="ref-2"></a> <a id="ref-2"></a>[Hackers breach OpenAI, heightening security concerns](https://cryptobriefing.com/hackers-breach-openai-heightening-security-concerns/) — cryptobriefing.com
+3. <a id="ref-3"></a> <a id="ref-3"></a>[OpenAI AI models escape Sandbox, hack Hugging Face during security test, raising AI safety concerns](https://www.hindustantimes.com/world-news/us-news/openai-ai-models-escape-sandbox-hack-hugging-face-during-security-test-raising-ai-safety-concerns-101784722587263.html) — hindustantimes.com
+4. <a id="ref-4"></a> <a id="ref-4"></a>[Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories](https://cybersecuritynews.com/opus-5-to-help-exploit-openai-flaws/) — cybersecuritynews.com
 
 
 <script type="application/ld+json">
