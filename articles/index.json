@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:966fdda84d7fc365a6d4648b70f90880eb8d1ee2be1c3036e988b4b1c66362c0",
+  "revision": "sha256:3fada970791167ae5cfd1d6144ff574b2b1a9f620ad05422379c3af5827cb442",
   "total": 401,
   "articles": [
     {
@@ -77,7 +77,7 @@
       "url": "https://redoracle.com/News/google-patches-pixel-zero-click-vulnerability-exploited-in-t.html",
       "image": "https://storage.googleapis.com/red_articles/google-patches-pixel-zero-click-vulnerability-exploited-in-t.avif",
       "readingTime": 7,
-      "contentHash": "sha256:24d1c9dc80c53f50ef81957ff8d80c62af0dbaa2a6c815e4a333878444f32273"
+      "contentHash": "sha256:95436f1a4d7a60792b785e100a3852ed8102dd69e50f69eb68e65f4a2fd32fb9"
     },
     {
       "slug": "hackers-breached-openai-adding-to-fever-pitch-of-security-an",
@@ -202,7 +202,7 @@
       "url": "https://redoracle.com/News/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.html",
       "image": "https://storage.googleapis.com/red_articles/new-check-point-flaw-lets-hackers-execute-code-with-root-pri.avif",
       "readingTime": 6,
-      "contentHash": "sha256:206b63fcb7ac87c18ed508252ae4dd516ba23bd4fd37d31bf44994826ed252d1"
+      "contentHash": "sha256:8e2b9aa29e854b5ad9d9da93a8e31b16c9df5bb7401a9a35fdac2cb5507b1fff"
     },
     {
       "slug": "chinese-hackers-use-sparrowocky-malware-in-govt-espionage-at",
@@ -252,7 +252,7 @@
       "url": "https://redoracle.com/News/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.html",
       "image": "https://storage.googleapis.com/red_articles/cisco-warns-of-new-zero-day-ise-auth-bypass-cvss-100-exploit.avif",
       "readingTime": 7,
-      "contentHash": "sha256:7d11c066e110ff5b1368e9d74c4d83507c0a132698d6b9d260570c6cc65c91c0"
+      "contentHash": "sha256:5e37c57fb6e61cd3606488601f32eba8f615c35e7ad99a7c4449cafcb0aaf789"
     },
     {
       "slug": "latest-pixel-security-update-lists-110-flaws-including-one-y",
