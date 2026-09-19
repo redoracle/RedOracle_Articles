@@ -18,7 +18,7 @@ The breach involved exploiting both a heap overflow vulnerability in OpenAI's im
 
 This event occurs at a pivotal moment as the generative AI industry grapples with fundamental questions about safety, governance, and the resilience of systems built on foundation models.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**]
+**[[1](#ref-1)]** [**2**]
 
 ## What Happened
 
@@ -28,7 +28,7 @@ The attack chain unfolded precisely: after gaining initial access through the SS
 
 At the heart of the exploit lay a textbook case of chained vulnerability exploitation—a heap overflow combined with an authentication weakness. The SSO flaw allowed attackers to impersonate legitimate users without enforcing multi-factor authentication, while the heap overflow in the image decoder enabled deep system traversal once internal credentials were obtained. Together, these flaws represented a textbook case of compounding failures in a cloud-native AI platform.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**4**]
+**[[1](#ref-1)]** [**2**] [**4**]
 
 ## Key Facts
 
@@ -36,7 +36,7 @@ The breach was carried out by Indian security researchers Harsh Jaiswal, Mohan P
 
 OpenAI addressed the SSO issue approximately 14 hours after the initial vulnerability disclosure, demonstrating rapid response capability. The attack showcased sophisticated chaining of multiple vulnerabilities—a heap overflow paired with an authentication flaw—that highlights systemic weaknesses in cloud-based AI platforms.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**3**]
+**[[1](#ref-1)]** [**2**] [**3**]
 
 ## Timeline
 
@@ -44,7 +44,7 @@ Initial vulnerability discovery and exploitation occurred within days of the bre
 
 The incident has been widely covered by outlets including FreePress Journal, CryptoBriefing, and Hindustan Times, reflecting broad community engagement with the security fallout.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**]
+**[[1](#ref-1)]** [**2**]
 
 ## Impact
 
@@ -52,7 +52,7 @@ Internal employee ChatGPT accounts were compromised, potentially exposing person
 
 The breach underscores broader concerns about AI company security postures and the potential for external actors to target foundational AI infrastructure. The $6,500 bounty signals that OpenAI maintains active vulnerability disclosure programs—but may face challenges addressing all discovered issues simultaneously.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**]
+**[[1](#ref-1)]** [**2**]
 
 ## Technical Context
 
@@ -62,7 +62,7 @@ Claude Opus 5 was specifically noted as the model driving the exploitation chain
 
 For security professionals, this incident serves as a reminder that modern AI platforms contain rich attack surfaces spanning both traditional software vulnerabilities and emerging AI-specific attack vectors. The combination of an insecure authentication boundary with a memory safety defect in a core system component illustrates the complexity of securing hybrid cloud-AI architectures.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**4**]
+**[[1](#ref-1)]** [**2**] [**4**]
 
 ## Update History
 
@@ -70,17 +70,17 @@ Initial reports emerged shortly after the breach, with multiple outlets covering
 
 The $6,500 bounty payment was confirmed as part of OpenAI's standard security incentive framework—a consistent pattern between the company and independent security researchers. Subsequent coverage focused on implications for AI governance, with commentators debating whether such breaches represent isolated incidents or systemic risks in the generative AI ecosystem.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**]
+**[[1](#ref-1)]** [**2**]
 
 ## Fact Checking and Sources
 
-All major factual claims are supported by primary reporting from FreePress Journal [[[1]](#ref-1)](#ref-1) and CryptoBriefing [[[2]](#ref-2)](#ref-2), which independently corroborated the researcher identities and bounty amount. The Hindustan Times report [[[3]](#ref-3)](#ref-3) adds context regarding related sandbox escape incidents that raised broader AI safety concerns.
+All major factual claims are supported by primary reporting from FreePress Journal [[1](#ref-1)] and CryptoBriefing [[2](#ref-2)], which independently corroborated the researcher identities and bounty amount. The Hindustan Times report [[3](#ref-3)] adds context regarding related sandbox escape incidents that raised broader AI safety concerns.
 
-SecurityNews [[[4]](#ref-4)](#ref-4) offers supplementary technical analysis of the exploit chain but ranks lower due to its tertiary status among available sources. No contradictory evidence appeared across all cited sources—the facts align consistently across tier A and B publications.
+SecurityNews [[4](#ref-4)] offers supplementary technical analysis of the exploit chain but ranks lower due to its tertiary status among available sources. No contradictory evidence appeared across all cited sources—the facts align consistently across tier A and B publications.
 
 These sources collectively verify the key elements: researcher identities, specific vulnerabilities exploited, bounty amount, and the timeline of events.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**3**] [**4**]
+**[[1](#ref-1)]** [**2**] [**3**] [**4**]
 
 ## Alternative Views
 
@@ -92,7 +92,7 @@ Another viewpoint emphasizes the unique challenge posed by AI-specific attack su
 
 These competing perspectives highlight the broader tension in the security industry between incremental improvements and systemic rethinking of architecture patterns in AI-centric services.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**3**] [**4**]
+**[[1](#ref-1)]** [**2**] [**3**] [**4**]
 
 ## Risks and Limitations
 
@@ -104,7 +104,7 @@ Moreover, the broader systemic implications—whether this represents an isolate
 
 Finally, attribution of all activities to the named researchers assumes no collusion or coordination with other parties not mentioned in the sources. The completeness of the forensic picture depends entirely on the openness of investigations and the willingness of the targeted organization to share full details.
 
-**[[[1]](#ref-1)](#ref-1)** [**2**] [**3**] [**4**]
+**[[1](#ref-1)]** [**2**] [**3**] [**4**]
 
 ## Conclusion
 
