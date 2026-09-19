@@ -12,7 +12,7 @@ schema-type: "NewsArticle"
 
 ## Introduction
 
-A newly discovered vulnerability in Check Point's security management and log servers has exposed a critical weakness in enterprise-grade next-generation firewalls. The flaw, labeled [CVE-2026-91843](https://www.cve.org/CVERecord?id=[CVE-2026-91843](https://www.cve.org/CVERecord?id=CVE-2026-91843)) in technical documentation, allows unauthenticated attackers to execute arbitrary code with root privileges directly on the Check Point management plane. This represents a severe privilege escalation vulnerability that bypasses every authentication mechanism, granting adversaries complete administrative control over the target device without ever needing valid credentials.[[1]](#ref-1)[[2]](#ref-2)[[3]](#ref-3)[[4]](#ref-4)[[5]](#ref-5)
+A newly discovered vulnerability in Check Point's security management and log servers has exposed a critical weakness in enterprise-grade next-generation firewalls. The flaw, labeled [CVE-2026-91843](https://www.cve.org/CVERecord?id=[CVE-2026-91843](https://www.cve.org/CVERecord?id=[CVE-2026-91843](https://www.cve.org/CVERecord?id=CVE-2026-91843))) in technical documentation, allows unauthenticated attackers to execute arbitrary code with root privileges directly on the Check Point management plane. This represents a severe privilege escalation vulnerability that bypasses every authentication mechanism, granting adversaries complete administrative control over the target device without ever needing valid credentials.[[1]](#ref-1)[[2]](#ref-2)[[3]](#ref-3)[[4]](#ref-4)[[5]](#ref-5)
 
 ## What happened
 
@@ -50,11 +50,11 @@ While the consensus across available sources emphasizes the critical nature of t
 ## References
 
 
-1. <a id="ref-1"></a>[New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/) — bleepingcomputer.com
-2. <a id="ref-2"></a>[Critical Check Point Flaw Lets Remote Attackers Gain Root Code Execution Without Login](https://cyberpress.org/critical-check-point-flaw-3/) — cyberpress.org
-3. <a id="ref-3"></a>[Attackers May Need Just A Long Username To Take Over Your Network](https://www.techjuice.pk/check-point-cve-2026-91843-stack-overflow-root-code-execution/) — techjuice.pk
-4. <a id="ref-4"></a>[Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html) — thehackernews.com
-5. <a id="ref-5"></a>[Root security flaw endangers Check Point Security Management and Log Servers](https://www.heise.de/en/news/Root-security-flaw-endangers-Check-Point-Security-Management-and-Log-Servers-11457980.html) — heise.de
+1. <a id="ref-1"></a> <a id="ref-1"></a>[New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/) — bleepingcomputer.com
+2. <a id="ref-2"></a> <a id="ref-2"></a>[Critical Check Point Flaw Lets Remote Attackers Gain Root Code Execution Without Login](https://cyberpress.org/critical-check-point-flaw-3/) — cyberpress.org
+3. <a id="ref-3"></a> <a id="ref-3"></a>[Attackers May Need Just A Long Username To Take Over Your Network](https://www.techjuice.pk/check-point-cve-2026-91843-stack-overflow-root-code-execution/) — techjuice.pk
+4. <a id="ref-4"></a> <a id="ref-4"></a>[Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html) — thehackernews.com
+5. <a id="ref-5"></a> <a id="ref-5"></a>[Root security flaw endangers Check Point Security Management and Log Servers](https://www.heise.de/en/news/Root-security-flaw-endangers-Check-Point-Security-Management-and-Log-Servers-11457980.html) — heise.de
 
 
 <script type="application/ld+json">
