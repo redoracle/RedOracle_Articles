@@ -82,16 +82,16 @@ While the majority of sources agree on the fundamental premise—that AI is bein
 - The relationship between AI assistance and overall attack success rates varies significantly by sector and adversary capability, meaning quantitative projections carry considerable uncertainty.
 ## References
 
-1. <a id="ref-1"></a> <a id="ref-1"></a>[Federal cybersecurity agencies warn US adversaries could use AI to plan terrorist attacks](https://abc7chicago.com/post/ai-warning-federal-officials-warn-growing-threat-artificial-intelligence-assisted-terrorist-attacks/19845317/) — abc7chicago.com
-2. <a id="ref-2"></a> <a id="ref-2"></a>[Rick Scott Warns AI Is Creating 'New National Security Threats,' Pushes Bill Requiring Public Terrorism Risk Reports](https://www.yahoo.com/news/politics/articles/rick-scott-warns-ai-creating-180043602.html) — yahoo.com
-3. <a id="ref-3"></a> <a id="ref-3"></a>[CISA Issues Binding Directive on Security Updates to Federal Agencies](https://www.afcea.org/signal-media/cyber-edge/cisa-issues-binding-directive-security-updates-federal-agencies) — afcea.org
-4. <a id="ref-4"></a> <a id="ref-4"></a>[CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats](https://www.wired.com/story/cisa-ai-vulnerability-directive/) — wired.com
-5. <a id="ref-5"></a> <a id="ref-5"></a>[FBI: From Cybercrime to Terrorism, America Faces Many Elevated Threats ‘All at Once’](https://www.insurancejournal.com/magazines/mag-features/2024/09/16/792476.htm) — insurancejournal.com
+1. <a id="ref-1"></a>[Federal cybersecurity agencies warn US adversaries could use AI to plan terrorist attacks](https://abc7chicago.com/post/ai-warning-federal-officials-warn-growing-threat-artificial-intelligence-assisted-terrorist-attacks/19845317/) — abc7chicago.com
+2. <a id="ref-2"></a>[Rick Scott Warns AI Is Creating 'New National Security Threats,' Pushes Bill Requiring Public Terrorism Risk Reports](https://www.yahoo.com/news/politics/articles/rick-scott-warns-ai-creating-180043602.html) — yahoo.com
+3. <a id="ref-3"></a>[CISA Issues Binding Directive on Security Updates to Federal Agencies](https://www.afcea.org/signal-media/cyber-edge/cisa-issues-binding-directive-security-updates-federal-agencies) — afcea.org
+4. <a id="ref-4"></a>[CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats](https://www.wired.com/story/cisa-ai-vulnerability-directive/) — wired.com
+5. <a id="ref-5"></a>[FBI: From Cybercrime to Terrorism, America Faces Many Elevated Threats ‘All at Once’](https://www.insurancejournal.com/magazines/mag-features/2024/09/16/792476.htm) — insurancejournal.com
 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "[https://schema.org",](https://schema.org",)
   "@type": "NewsArticle",
   "headline": "Federal officials warn of growing threat from AI-assisted terrorist attacks",
   "datePublished": "2026-09-18",
