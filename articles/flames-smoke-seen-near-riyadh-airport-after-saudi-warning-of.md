@@ -105,16 +105,16 @@ The current evidence base imposes several constraints on definitive conclusions:
 In summary, while the incident rests firmly on established facts about timing, location, and initial response protocols, deeper technical validation and sustained intelligence integration will be required to close remaining knowledge gaps. The case reminds us that in modern security operations, visual indicators alone are insufficient; they must be triangulated against signals intelligence, physical evidence, and expert analysis to ensure accurate classification and appropriate countermeasures.
 ## References
 
-1. <a id="ref-1"></a> <a id="ref-1"></a>[Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat](https://www.al-monitor.com/originals/2026/09/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-saudi-capital) — al-monitor.com
-2. <a id="ref-2"></a> <a id="ref-2"></a>[Flames, smoke seen near Riyadh airport after Saudi Arabia warning of aerial attack threat](https://indianexpress.com/article/world/middle-east-west-asia-riyadh-airport-drone-attack-houthi-strike-jet-fuel-tanks-explained-10885303/) — indianexpress.com
-3. <a id="ref-3"></a> <a id="ref-3"></a>[Thick smoke seen near Riyadh airport after air raid alerts in Saudi capital](https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport) — theguardian.com
-4. <a id="ref-4"></a> <a id="ref-4"></a>[Plumes of smoke visible near Riyadh airport following overnight air raid warning](https://jang.com.pk/en/73497-plumes-of-smoke-visible-near-riyadh-airport-following-overnight-air-raid-warning-news) — jang.com.pk
-5. <a id="ref-5"></a> <a id="ref-5"></a>[Black smoke, flames rising near Riyadh airport: residents to AFP](https://www.al-monitor.com/originals/2026/09/fire-erupts-near-riyadh-airport-houthis-claim-strikes) — al-monitor.com
+1. <a id="ref-1"></a>[Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat](https://www.al-monitor.com/originals/2026/09/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-saudi-capital) — al-monitor.com
+2. <a id="ref-2"></a>[Flames, smoke seen near Riyadh airport after Saudi Arabia warning of aerial attack threat](https://indianexpress.com/article/world/middle-east-west-asia-riyadh-airport-drone-attack-houthi-strike-jet-fuel-tanks-explained-10885303/) — indianexpress.com
+3. <a id="ref-3"></a>[Thick smoke seen near Riyadh airport after air raid alerts in Saudi capital](https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport) — theguardian.com
+4. <a id="ref-4"></a>[Plumes of smoke visible near Riyadh airport following overnight air raid warning](https://jang.com.pk/en/73497-plumes-of-smoke-visible-near-riyadh-airport-following-overnight-air-raid-warning-news) — jang.com.pk
+5. <a id="ref-5"></a>[Black smoke, flames rising near Riyadh airport: residents to AFP](https://www.al-monitor.com/originals/2026/09/fire-erupts-near-riyadh-airport-houthis-claim-strikes) — al-monitor.com
 
 
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "[https://schema.org",](https://schema.org",)
   "@type": "NewsArticle",
   "headline": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
   "datePublished": "2026-09-19",
