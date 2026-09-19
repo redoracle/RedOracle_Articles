@@ -136,11 +136,11 @@ As calendar systems become ever more integral to distributed work environments, 
 
 ## References
 
-1. [Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it](https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it) — itwire.com · tier A · retrieved 2026-09-19
-2. [New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser](https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/) — securityweek.com · tier B · retrieved 2026-09-19
-3. [Email and text phishing scams have moved to calendar invites | Opinion](https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/) — commercialappeal.com · tier B · retrieved 2026-09-19
-4. [Email and text phishing scams have moved to calendar invites | Opinion](https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html) — aol.com · tier B · retrieved 2026-09-19
-5. [How I almost fell for a Microsoft 365 Calendar invite scam](https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam) — foxnews.com · tier B · retrieved 2026-09-19
+1. [Understanding calendar invite phishing: How attackers abuse ics files and how to defend against it](https://itwire.com/guest-articles/guest-research/understanding-calendar-invite-phishing-how-attackers-abuse-ics-files-and-how-to-defend-against-it) — itwire.com
+2. [New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser](https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/) — securityweek.com
+3. [Email and text phishing scams have moved to calendar invites | Opinion](https://www.commercialappeal.com/story/opinion/contributors/2026/06/09/digital-calendar-phishing-scam-identity-theft-wallet-warning/90465130007/) — commercialappeal.com
+4. [Email and text phishing scams have moved to calendar invites | Opinion](https://www.aol.com/articles/email-text-phishing-scams-moved-100809000.html) — aol.com
+5. [How I almost fell for a Microsoft 365 Calendar invite scam](https://www.foxnews.com/tech/how-i-almost-fell-microsoft-365-calendar-invite-scam) — foxnews.com
 
 
 <script type="application/ld+json">

@@ -50,11 +50,11 @@ While the consensus across available sources emphasizes the critical nature of t
 ## References
 
 
-1. [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/) — bleepingcomputer.com · tier B · retrieved 2026-09-18
-2. [Critical Check Point Flaw Lets Remote Attackers Gain Root Code Execution Without Login](https://cyberpress.org/critical-check-point-flaw-3/) — cyberpress.org · tier B · retrieved 2026-09-18
-3. [Attackers May Need Just A Long Username To Take Over Your Network](https://www.techjuice.pk/check-point-cve-2026-91843-stack-overflow-root-code-execution/) — techjuice.pk · tier C · retrieved 2026-09-18
-4. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html) — thehackernews.com · tier B · retrieved 2026-09-18
-5. [Root security flaw endangers Check Point Security Management and Log Servers](https://www.heise.de/en/news/Root-security-flaw-endangers-Check-Point-Security-Management-and-Log-Servers-11457980.html) — heise.de · tier B · retrieved 2026-09-18
+1. [New Check Point flaw lets hackers execute code with root privileges](https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/) — bleepingcomputer.com
+2. [Critical Check Point Flaw Lets Remote Attackers Gain Root Code Execution Without Login](https://cyberpress.org/critical-check-point-flaw-3/) — cyberpress.org
+3. [Attackers May Need Just A Long Username To Take Over Your Network](https://www.techjuice.pk/check-point-cve-2026-91843-stack-overflow-root-code-execution/) — techjuice.pk
+4. [Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/09/critical-check-point-management-server.html) — thehackernews.com
+5. [Root security flaw endangers Check Point Security Management and Log Servers](https://www.heise.de/en/news/Root-security-flaw-endangers-Check-Point-Security-Management-and-Log-Servers-11457980.html) — heise.de
 
 
 <script type="application/ld+json">

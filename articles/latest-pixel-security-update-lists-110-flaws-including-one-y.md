@@ -74,12 +74,12 @@ There is no conflicting evidence among the six cited sources. All agree on the c
 For readers seeking deeper contextualization, cross-referencing related RedOracle coverage can provide valuable insights. Search for RedOracle's companion pieces on similar Android security incidents to understand how this Pixel-specific breach fits into the larger ecosystem of mobile device vulnerabilities. Broader threat intelligence reports on Android zero-days targeting consumer devices may offer comparative perspectives on attack patterns and remediations seen elsewhere in the market. Note that there may be gaps in adjacent coverage—certain variations of the same vulnerability across different Android SKUs might require separate investigation.
 ## References
 
-1. [Google left the Pixel 11 on an older patch level than the Pixel 6](https://www.notebookcheck.net/Google-left-the-Pixel-11-on-an-older-patch-level-than-the-Pixel-6.1400749.0.html) — notebookcheck.net · tier B · retrieved 2026-09-17
-2. [Your Google Pixel 10 Just Got A Major Security Upgrade Every Android Phone Should Copy](https://www.bgr.com/2149738/google-pixel-10-major-android-security-upgrade-rust/) — bgr.com · tier C · retrieved 2026-09-17
-3. [Google Pixel 10's May 2026 Update Blocks Older Android Versions With Anti-Rollback Security Feature](https://www.techtimes.com/articles/316358/20260506/google-pixel-10s-may-2026-update-blocks-older-android-versions-anti-rollback-security-feature.htm) — techtimes.com · tier C · retrieved 2026-09-17
-4. [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/) — bleepingcomputer.com · tier B · retrieved 2026-09-17
-5. [Google patches actively exploited zero-day flaw affecting Pixel devices](https://techobserver.in/news/cybersecurity/google-pixel-zero-day-september-2026-security-patch-329339/) — techobserver.in · tier B · retrieved 2026-09-17
-6. [Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks](https://cybersecuritynews.com/android-pixel-zero-day/) — cybersecuritynews.com · tier B · retrieved 2026-09-17 · background
+1. [Google left the Pixel 11 on an older patch level than the Pixel 6](https://www.notebookcheck.net/Google-left-the-Pixel-11-on-an-older-patch-level-than-the-Pixel-6.1400749.0.html) — notebookcheck.net
+2. [Your Google Pixel 10 Just Got A Major Security Upgrade Every Android Phone Should Copy](https://www.bgr.com/2149738/google-pixel-10-major-android-security-upgrade-rust/) — bgr.com
+3. [Google Pixel 10's May 2026 Update Blocks Older Android Versions With Anti-Rollback Security Feature](https://www.techtimes.com/articles/316358/20260506/google-pixel-10s-may-2026-update-blocks-older-android-versions-anti-rollback-security-feature.htm) — techtimes.com
+4. [Google fixes actively exploited Android zero-day on Pixel devices](https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/) — bleepingcomputer.com
+5. [Google patches actively exploited zero-day flaw affecting Pixel devices](https://techobserver.in/news/cybersecurity/google-pixel-zero-day-september-2026-security-patch-329339/) — techobserver.in
+6. [Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks](https://cybersecuritynews.com/android-pixel-zero-day/) — cybersecuritynews.com
 
 
 <script type="application/ld+json">
