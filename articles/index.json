@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:11cbf51effd2cabf47efbaef40d079c845bed3fdc3e5365bbd8779e8cb450358",
-  "total": 397,
+  "revision": "sha256:5ee11e2fc77106c89d17c605760e945ed8657ccecbcab9a4f91260052c5f89e4",
+  "total": 398,
   "articles": [
     {
       "slug": "google-patches-pixel-zero-click-vulnerability-exploited-in-t",
@@ -28,6 +28,31 @@
       "image": "https://storage.googleapis.com/red_articles/google-patches-pixel-zero-click-vulnerability-exploited-in-t.avif",
       "readingTime": 7,
       "contentHash": "sha256:fc724c09ea32d87ab26997e6953b0ab7024751a12768253f30e35a8af537d94b"
+    },
+    {
+      "slug": "is-ai-making-cyberattacks-easier-researchers-say-they-breach",
+      "file": "is-ai-making-cyberattacks-easier-researchers-say-they-breach.md",
+      "title": "Is AI Making Cyberattacks Easier? Researchers Say They Breached OpenAI Systems Using Claude",
+      "description": "Is AI Making Cyberattacks Easier? Researchers Say They Breached OpenAI Systems Using Claude",
+      "date": "2026-09-19",
+      "id": "is-ai-making-cyberattacks-easier-researchers-say-they-breach-2026-09-19",
+      "categories": [],
+      "tags": [
+        "claude",
+        "openai",
+        "researchers",
+        "used",
+        "anthropic",
+        "systems",
+        "hacktron",
+        "breach",
+        "opus",
+        "exploit"
+      ],
+      "url": "https://redoracle.com/News/is-ai-making-cyberattacks-easier-researchers-say-they-breach.html",
+      "image": "https://storage.googleapis.com/red_articles/is-ai-making-cyberattacks-easier-researchers-say-they-breach.avif",
+      "readingTime": 10,
+      "contentHash": "sha256:79738057b6787dcc6db9c98691d9ed138ca7e564c0ad8dc8277f6a8d05cb39c4"
     },
     {
       "slug": "random-meeting-and-event-invites-on-your-calendar-could-be-a",
