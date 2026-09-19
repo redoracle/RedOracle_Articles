@@ -41,6 +41,25 @@ function extractImage(body) {
  * 2. Otherwise first paragraph → first 200 Unicode code points
  * Strip markdown syntax, collapse whitespace.
  */
+function extractSearchText(body) {
+  return body
+    .replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, ' ')
+    .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/https?:\/\/\S+/g, ' ')
+    .replace(/^\s{0,3}#{1,6}\s+/gm, ' ')
+    .replace(/^\s{0,3}(?:[-*_]\s*){3,}$/gm, ' ')
+    .replace(/[`*_~>#]/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 function extractDescription(body) {
   const introMatch = body.match(/^##\s*Introduction\s*\n\n([\s\S]*?)(?=\n\n##|\n\n\*\*|$)/im);
   let text = '';
@@ -180,6 +199,7 @@ function main() {
     article.tags = tags;
     article.url = url;
     article.image = image;
+    article.searchText = extractSearchText(body);
     article.readingTime = readingTime;
     article.contentHash = contentHash;
 

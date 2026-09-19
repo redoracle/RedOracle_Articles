@@ -80,7 +80,7 @@ function main() {
 
   for (const article of manifest.articles) {
     // Required fields
-    const required = ['slug', 'file', 'title', 'description', 'date', 'id', 'categories', 'tags', 'url', 'image', 'readingTime', 'contentHash'];
+    const required = ['slug', 'file', 'title', 'description', 'date', 'id', 'categories', 'tags', 'url', 'image', 'searchText', 'readingTime', 'contentHash'];
     for (const field of required) {
       if (!(field in article)) {
         fail(`Missing required field '${field}' in ${article.file || 'unknown'}`);
@@ -143,6 +143,10 @@ function main() {
           fail(`contentHash mismatch in ${article.file}: expected ${expectedHash}, got ${article.contentHash}`);
         }
       }
+    }
+
+    if (typeof article.searchText !== 'string') {
+      fail(`Invalid searchText in ${article.file}: expected string`);
     }
 
     // readingTime check
