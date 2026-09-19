@@ -114,7 +114,7 @@ In summary, while the incident rests firmly on established facts about timing, l
 
 <script type="application/ld+json">
 {
-  "@context": "[https://schema.org",](https://schema.org",)
+  "@context": "[[https://schema.org",](https://schema.org",](https://schema.org",](https://schema.org",))
   "@type": "NewsArticle",
   "headline": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
   "datePublished": "2026-09-19",
