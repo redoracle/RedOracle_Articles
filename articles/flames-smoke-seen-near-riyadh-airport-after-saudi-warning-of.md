@@ -20,10 +20,10 @@ The sequence mirrors a classic crisis-management cycle: alarm, confusion, then r
 
 ## Key facts
 
-- **Incident date**: September 19, 2026 [1]
-- **Location**: King Khalid International Airport, Riyadh [1]
-- **Attributed cause**: Houthi attacks involving drones and missiles [2]
-- **Initial response**: Saudi civil defence sent phone alerts overnight before issuing an all-clear [2]
+- **Incident date**: September 19, 2026 [[1]](#ref-1)
+- **Location**: King Khalid International Airport, Riyadh [[1]](#ref-1)
+- **Attributed cause**: Houthi attacks involving drones and missiles [[2]](#ref-2)
+- **Initial response**: Saudi civil defence sent phone alerts overnight before issuing an all-clear [[2]](#ref-2)
 
 These elements represent the highest-confidence information from available reporting and official statements. Details such as property damage extent, eyewitness accounts, and independent technical analyses remain unverified at this time.
 
@@ -80,10 +80,10 @@ The progression follows a textbook pattern of crisis communication: warning → 
 
 Multiple reputable outlets converge on the core timeline and causation claims.
 
-- **Al-Monitor** offers extensive coverage, describing the visual phenomena and Houthi attribution [1]. Its reporting includes specific references to the Houthi claim and the Saudi response [1].
-- **Indian Express** contributes technical detail on the alleged drone/missile strike, explaining fuel-tank dynamics of the suspected attack platform [2].
-- **The Guardian** documents the broader context of air-raid alerts in the capital, confirming the incident occurred amid heightened regional tension [3].
-- **Jang** and **Al-Monitor** carry similar accounts of the smoke plume and subsequent all-clear messaging [4][5].
+- **Al-Monitor** offers extensive coverage, describing the visual phenomena and Houthi attribution [[1]](#ref-1). Its reporting includes specific references to the Houthi claim and the Saudi response [[1]](#ref-1).
+- **Indian Express** contributes technical detail on the alleged drone/missile strike, explaining fuel-tank dynamics of the suspected attack platform [[2]](#ref-2).
+- **The Guardian** documents the broader context of air-raid alerts in the capital, confirming the incident occurred amid heightened regional tension [[3]](#ref-3).
+- **Jang** and **Al-Monitor** carry similar accounts of the smoke plume and subsequent all-clear messaging [[4]](#ref-4)[[5]](#ref-5).
 
 All four sources rank as Tier B (reliable, cross-referenced). No conflicting narratives suggesting alternative causes—such as accidental explosions or purely natural events—appear among the primary outlets covering this story. The consistent Houthi attribution and documented civil defence response provide strong evidentiary support for the published account.
 
@@ -105,11 +105,11 @@ The current evidence base imposes several constraints on definitive conclusions:
 In summary, while the incident rests firmly on established facts about timing, location, and initial response protocols, deeper technical validation and sustained intelligence integration will be required to close remaining knowledge gaps. The case reminds us that in modern security operations, visual indicators alone are insufficient; they must be triangulated against signals intelligence, physical evidence, and expert analysis to ensure accurate classification and appropriate countermeasures.
 ## References
 
-1. [Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat](https://www.al-monitor.com/originals/2026/09/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-saudi-capital) — al-monitor.com
-2. [Flames, smoke seen near Riyadh airport after Saudi Arabia warning of aerial attack threat](https://indianexpress.com/article/world/middle-east-west-asia-riyadh-airport-drone-attack-houthi-strike-jet-fuel-tanks-explained-10885303/) — indianexpress.com
-3. [Thick smoke seen near Riyadh airport after air raid alerts in Saudi capital](https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport) — theguardian.com
-4. [Plumes of smoke visible near Riyadh airport following overnight air raid warning](https://jang.com.pk/en/73497-plumes-of-smoke-visible-near-riyadh-airport-following-overnight-air-raid-warning-news) — jang.com.pk
-5. [Black smoke, flames rising near Riyadh airport: residents to AFP](https://www.al-monitor.com/originals/2026/09/fire-erupts-near-riyadh-airport-houthis-claim-strikes) — al-monitor.com
+1. <a id="ref-1"></a>[Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat](https://www.al-monitor.com/originals/2026/09/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-saudi-capital) — al-monitor.com
+2. <a id="ref-2"></a>[Flames, smoke seen near Riyadh airport after Saudi Arabia warning of aerial attack threat](https://indianexpress.com/article/world/middle-east-west-asia-riyadh-airport-drone-attack-houthi-strike-jet-fuel-tanks-explained-10885303/) — indianexpress.com
+3. <a id="ref-3"></a>[Thick smoke seen near Riyadh airport after air raid alerts in Saudi capital](https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport) — theguardian.com
+4. <a id="ref-4"></a>[Plumes of smoke visible near Riyadh airport following overnight air raid warning](https://jang.com.pk/en/73497-plumes-of-smoke-visible-near-riyadh-airport-following-overnight-air-raid-warning-news) — jang.com.pk
+5. <a id="ref-5"></a>[Black smoke, flames rising near Riyadh airport: residents to AFP](https://www.al-monitor.com/originals/2026/09/fire-erupts-near-riyadh-airport-houthis-claim-strikes) — al-monitor.com
 
 
 <script type="application/ld+json">
