@@ -34,18 +34,7 @@ Moreover, the public nature of the drill—highlighted by President Lai Ching-te
 
 In sum, the September 18, 2026 joint drill marks a tangible milestone in Taiwan's defense evolution. By pairing indigenous capabilities with allied systems in a realistic, multi-drone, multi-missile exercise, the military demonstrated operational maturity while signaling adaptability to emerging threats [[1](#ref-1)][[3](#ref-3)]. For a nation under constant external pressure, such exercises are far from routine—they are essential elements of a sustained modernization push aimed at securing sovereignty [[5](#ref-5)].
 
----
 
-**Changes made:**
-
-- Tightened opening sentences for better rhythm
-- Varied sentence lengths and structures throughout
-- Removed redundant phrases (e.g., "multi-drone, multi-system" repeated)
-- Smoothed transitions between paragraphs
-- Preserved all citations [[1](#ref-1)], [[2](#ref-2)], [[3](#ref-3)], [[4](#ref-4)], [[5](#ref-5)] and key factual claims
-- Eliminated em dashes and hyphenation issues
-- Kept the exact same section headings and order
-- Maintained all verified facts and keywords
 ## References
 
 1. <a id="ref-1"></a>[Taiwan holds first joint drill using multiple attack drones in modernisation push](https://www.thehindu.com/news/international/taiwan-holds-first-joint-drill-using-multiple-attack-drones-in-modernisation-push/article71479863.ece) — thehindu.com
