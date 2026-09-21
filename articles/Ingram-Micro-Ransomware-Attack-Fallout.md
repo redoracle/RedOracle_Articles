@@ -54,7 +54,7 @@ Ingram Micro, a prominent global distributor of information technology products,
 - **Who:** Ingram Micro, Stanley Louissaint (Founder of Fluid Designs), James Rocker (Founder and CEO of Nerds That Care)
 - **What:** Ransomware attack by the SafePay group leading to disruptions in website and online ordering systems
 - **When:** Attack onset on July 3, 2025, confirmed on July 6, 2025
-- **Where:** Headquarters in Irvine, California; affected systems include the AI-powered Xvantage platform and Impulse license provisioning platform
+- **Where:** Headquarters in Irvine, California; affected systems include the AI powered Xvantage platform and Impulse license provisioning platform
 - **Why:** Attack linked to SafePay ransomware group exploiting VPN vulnerabilities and compromised credentials
 - **How:** Immediate response with system security measures, cybersecurity investigation, and law enforcement notification
 
@@ -73,6 +73,4 @@ The ransomware attack on Ingram Micro underscores the growing threat of cyber in
 The ransomware attack on Ingram Micro serves as a stark reminder of the vulnerabilities faced by even the largest organizations in the realm of cybersecurity. It underscores the critical importance of robust security measures, transparent communication strategies, and the maintenance of trust in business relationships. As the company works towards restoring its systems and operations, the incident serves as a call to action for organizations to prioritize cybersecurity preparedness and effective crisis management.
 
 For more information and updates on the Ingram Micro ransomware attack fallout, refer to [Lowyat.NET](#) and [CRN](#).
-
-
 

@@ -77,7 +77,7 @@ In this Cyber Threat Landscape Recap, we delve into the latest developments in A
 
 - **Innovations in Cybersecurity Tools**
   - New tools like ScriptSentry and Aftermath aim to enhance incident response and identify security misconfigurations.
-  - Microsoft introduced post-quantum cryptography capabilities for organizations to integrate into their security infrastructure.
+  - Microsoft introduced post quantum cryptography capabilities for organizations to integrate into their security infrastructure.
 
 ## Insights & Analysis
 
@@ -90,6 +90,4 @@ The cybersecurity landscape continues to evolve rapidly, with new threats emergi
 ## Conclusion
 
 As the cybersecurity landscape evolves, organizations must adapt their security strategies to combat emerging threats effectively. Understanding the underlying issues of trust and access is crucial in mitigating risks and safeguarding digital assets. Stay informed, stay secure.
-
-
 

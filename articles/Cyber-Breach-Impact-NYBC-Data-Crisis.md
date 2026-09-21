@@ -25,7 +25,7 @@ Key Highlights
 
 - NYBC's data breach investigation is ongoing, impacting multiple operational divisions.
 - Affected divisions include major blood banks across the U.S., potentially leading to leaks of confidential consumer data.
-- The organization has resumed its collection activities post-incident containment, emphasizing the importance of swift response and recovery efforts.
+- The organization has resumed its collection activities post incident containment, emphasizing the importance of swift response and recovery efforts.
 
 Insights & Analysis
 
@@ -37,5 +37,4 @@ The NYBC data breach serves as a stark reminder of the cybersecurity challenges 
 
 Fact Checking Section:
 - [Data Breach Guide](https://databreachclassaction.io/blog/guide-for-victims-of-a-data-breach)
-
 

@@ -47,7 +47,7 @@ head:
 
 ## Introduction
 
-In early August 2025, cybersecurity teams in Türkiye uncovered a new Java-based malware loader named SoupDealer. This malware managed to evade detection by all public sandboxes, antivirus solutions, and enterprise EDR/XDR platforms. It was part of a phishing campaign targeting Turkish users, distributing a three-stage loader via files named 'TEKLIFALINACAKURUNLER.jar'.
+In early August 2025, cybersecurity teams in Türkiye uncovered a new Java based malware loader named SoupDealer. This malware managed to evade detection by all public sandboxes, antivirus solutions, and enterprise EDR/XDR platforms. It was part of a phishing campaign targeting Turkish users, distributing a three-stage loader via files named 'TEKLIFALINACAKURUNLER.jar'.
 
 ## Key Highlights
 
@@ -60,7 +60,7 @@ In early August 2025, cybersecurity teams in Türkiye uncovered a new Java-based
 
 ### Malware Overview
 
-SoupDealer is a Java-based loader distributed through a phishing campaign. It verifies system criteria before executing its payload, showcasing advanced evasion tactics.
+SoupDealer is a Java based loader distributed through a phishing campaign. It verifies system criteria before executing its payload, showcasing advanced evasion tactics.
 
 ### Technical Architecture
 
@@ -81,6 +81,4 @@ The discovery of SoupDealer highlights the evolving landscape of cyber threats a
 ## Conclusion
 
 Unmasking SoupDealer Cybersecurity's Newest Threat sheds light on the sophisticated nature of modern malware and the challenges it poses to cybersecurity. By understanding the evasion techniques and technical architecture of threats like SoupDealer, organizations can better prepare to defend against similar attacks in the future. Stay vigilant and prioritize local threat analysis to safeguard critical infrastructure from emerging cyber threats.
-
-
 

@@ -64,7 +64,7 @@ A sophisticated cyberattack campaign named NordDragonScan has been unveiled, tar
 
 - NordDragonScan employs a complex infection chain to infiltrate systems.
 - The attack begins with shortened URLs redirecting users to seemingly legitimate file-sharing platforms.
-- Users are prompted to download RAR archives with Ukrainian-themed filenames, designed to appear as official documents.
+- Users are prompted to download RAR archives with Ukrainian themed filenames, designed to appear as official documents.
 - The malicious package contains a crafted LNK shortcut file that executes Microsoft’s mshta.exe utility to run an embedded HTA payload, allowing attackers to bypass security measures.
 
 ### Malware Functionality and Data Collection
@@ -101,6 +101,4 @@ For more information and key indicators of compromise (IOCs) associated with Nor
 - Executable (SHA256): f4f6beea11f21a053d27d719dab711a482ba0e2e42d160cefdbdad7a958b93d0
 
 Stay informed and vigilant against cyber threats to protect your digital assets.
-
-
 

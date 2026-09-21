@@ -55,10 +55,10 @@ In a significant legal development, a telehealth company that assists healthcare
 
 - **Nature of the Lawsuit**
   - The lawsuit was filed on April 11, 2025, in the U.S. District Court for the Eastern District of New York.
-  - The breach reportedly exposed sensitive personal information, including names, addresses, and health-related data.
+  - The breach reportedly exposed sensitive personal information, including names, addresses, and health related data.
 
 - **Company's Role and Responsibilities**
-  - The telehealth company provides services that facilitate communication between healthcare providers and patients during non-business hours.
+  - The telehealth company provides services that facilitate communication between healthcare providers and patients during non business hours.
   - The lawsuit claims that the company failed to implement adequate security measures to protect user data.
 
 - **Implications of the Breach**
@@ -91,6 +91,4 @@ The lawsuit against the telehealth company highlights the importance of safeguar
 ## Fact Checking Section
 
 - Source: [Law360](https://www.law360.com/classaction/articles/2324571/telehealth-co-sued-over-2024-data-breach)
-
-
 

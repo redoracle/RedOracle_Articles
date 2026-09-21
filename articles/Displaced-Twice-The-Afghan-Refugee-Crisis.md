@@ -56,7 +56,7 @@ The forced repatriation of Afghan refugees from Pakistan has created a significa
 - **Impact on Afghan Girls:** Afghan girls born and raised in Pakistan, facing the risk of the Taliban's education ban in Afghanistan, are particularly vulnerable. Calls for a gender-centric refugee law have gone unanswered, exacerbating the challenges faced by these young women.
 - **Challenges Faced by Returnees:** Returnees are arriving in a country grappling with economic collapse and humanitarian emergencies, with inadequate support from the Taliban government. Tent settlements like Moye Mubarak in Nangarhar are now home to families struggling to survive.
 - **Strained Relations Between Pakistan and Afghanistan:** The deportations have strained relations between Islamabad and Kabul, with accusations of using refugees as leverage. The Taliban government has criticized Pakistan's treatment of Afghan refugees.
-- **International Response and Concerns:** The UNHCR has urged Pakistan to halt the forced return of Afghan refugees, particularly PoR cardholders, citing violations of non-refoulement principles. Concerns for women and girls sent back to Taliban-controlled Afghanistan have been raised.
+- **International Response and Concerns:** The UNHCR has urged Pakistan to halt the forced return of Afghan refugees, particularly PoR cardholders, citing violations of non refoulement principles. Concerns for women and girls sent back to Taliban-controlled Afghanistan have been raised.
 
 ## Insights & Analysis
 
@@ -71,6 +71,4 @@ The forced repatriation of Afghan refugees from Pakistan represents a critical h
 The forced repatriation of Afghan refugees from Pakistan underscores the urgent need for a comprehensive and compassionate response to the humanitarian crisis unfolding at the Torkham border. The international community must prioritize the protection of vulnerable populations, uphold human rights standards, and address the complex challenges faced by Afghan refugees returning to a country in turmoil. As the situation continues to evolve, concerted efforts are required to mitigate the impact of forced displacement and support those affected by this crisis.
 
 For more information and updates on the Afghan refugee crisis, visit [UNHCR](https://www.unhcr.org/), [Human Rights Watch](https://www.hrw.org/), and [Refugees International](https://www.refugeesinternational.org/).
-
-
 

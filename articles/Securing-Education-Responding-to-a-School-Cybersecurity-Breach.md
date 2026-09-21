@@ -23,7 +23,7 @@ Laurens County School District 56 has transitioned to traditional learning metho
 
 ## Key Details
 
-- **When:** The decision to switch to non-digital methods was made effective on February 3, 2025, after the breach was confirmed.
+- **When:** The decision to switch to non digital methods was made effective on February 3, 2025, after the breach was confirmed.
 - **Where:** The incident is taking place within the Laurens County School District 56 in South Carolina.
 - **Why:** The primary goal of the switch is to safeguard student data and maintain educational continuity amidst ongoing assessments of the breach.
 - **Who:** District Superintendent, administrators, students, and state and local law enforcement are involved in responding to the cybersecurity incident.
@@ -47,5 +47,4 @@ As schools adapt to the challenges posed by cyber threats, Laurens County School
 
 **Fact Checking Section:**
 - [PowerSchool Cybersecurity Breach Report](https://www.foxcarolina.com/2025/01/15/laurens-district-56-confirms-student-data-compromised-after-powerschool-breach/)
-
 

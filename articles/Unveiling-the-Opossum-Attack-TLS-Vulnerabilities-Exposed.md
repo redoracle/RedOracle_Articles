@@ -51,7 +51,7 @@ The Opossum Attack has unveiled critical vulnerabilities in TLS communication pr
 
 ## Key Highlights
 
-- The Opossum attack exploits cross-protocol desynchronization vulnerabilities in TLS-based communications.
+- The Opossum attack exploits cross-protocol desynchronization vulnerabilities in TLS based communications.
 - Attackers can inject unexpected messages into secure channels, leading to persistent desynchronization between clients and servers.
 - Vulnerable protocols include HTTP, FTP, POP3, SMTP, LMTP, and NNTP, affecting a wide range of services.
 - Mitigation strategies involve disabling opportunistic TLS and prioritizing implicit TLS implementations to enhance security.
@@ -70,7 +70,5 @@ The Opossum attack underscores the ongoing challenges in securing internet proto
 
 ## Conclusion
 
-The Opossum Attack represents a significant advancement in TLS-based vulnerabilities, requiring a concerted effort from organizations, research institutions, and vendors to mitigate its impact. By understanding the technical intricacies of the attack, implementing robust mitigation strategies, and fostering collaboration within the cybersecurity community, stakeholders can effectively address the challenges posed by this sophisticated threat. Stay informed and proactive in safeguarding your digital assets against emerging vulnerabilities in communication protocols.
-
-
+The Opossum Attack represents a significant advancement in TLS based vulnerabilities, requiring a concerted effort from organizations, research institutions, and vendors to mitigate its impact. By understanding the technical intricacies of the attack, implementing robust mitigation strategies, and fostering collaboration within the cybersecurity community, stakeholders can effectively address the challenges posed by this sophisticated threat. Stay informed and proactive in safeguarding your digital assets against emerging vulnerabilities in communication protocols.
 

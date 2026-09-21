@@ -51,16 +51,16 @@ Navigating Satellite Cybersecurity Risks is crucial in today's digital landscape
 
 ## Key Highlights
 
-- The shift to cloud-connected satellite ground stations introduces new attack surfaces for cybersecurity threats.
+- The shift to cloud connected satellite ground stations introduces new attack surfaces for cybersecurity threats.
 - Unique vulnerabilities exist within space-ground systems, including timing attacks and command injection.
 - The integration of cloud computing with satellite operations is expanding, posing both benefits and risks.
-- Legacy systems present ongoing vulnerabilities that need careful consideration when integrating with cloud-based solutions.
+- Legacy systems present ongoing vulnerabilities that need careful consideration when integrating with cloud based solutions.
 - Recommendations include stronger authentication, encryption, and isolation measures to enhance cybersecurity.
 - Regulatory frameworks governing ground station infrastructure are currently lacking, highlighting the need for improved cybersecurity practices.
 
 ## Insights & Analysis
 
-The study conducted by Actica Consulting for the Department for Science, Innovation, and Technology (DSIT) emphasizes the risks associated with cloud-connected ground stations. It highlights the potential for hackers to steal data from satellites and disrupt essential services, with intrusions having physical consequences like altering satellite positioning or disabling payloads.
+The study conducted by Actica Consulting for the Department for Science, Innovation, and Technology (DSIT) emphasizes the risks associated with cloud connected ground stations. It highlights the potential for hackers to steal data from satellites and disrupt essential services, with intrusions having physical consequences like altering satellite positioning or disabling payloads.
 
 The integration of cloud technology with satellite operations, exemplified by Amazon's AWS Ground Station, streamlines operations but also expands the attack surface for malicious actors. The study underscores the importance of clear lines of responsibility between cloud providers and satellite operators to prevent security gaps.
 
@@ -75,7 +75,4 @@ In conclusion, the integration of cloud technology into satellite operations mus
 For more information, refer to the [full study](link) on navigating satellite cybersecurity risks.
 
 ---
-
-
-
 

@@ -54,7 +54,7 @@ The Delhi High Court has issued a significant order regarding legal transparency
 - The Delhi High Court mandated Zettai Pte Ltd, the parent company of WazirX, to disclose acquisition documents related to Binance.
 - The order, issued on August 5, 2025, is part of ongoing legal proceedings, with the next hearing scheduled for August 26, 2025.
 - The case stems from a major security breach at WazirX in July 2024, resulting in significant financial losses.
-- The court's directive aims to investigate the circumstances surrounding the acquisition and its implications for WazirX post-security breach.
+- The court's directive aims to investigate the circumstances surrounding the acquisition and its implications for WazirX post security breach.
 
 ## Insights & Analysis
 
@@ -73,6 +73,4 @@ The breach at WazirX not only impacted user trust but also highlighted the need 
 The Delhi High Court's order for Zettai Pte Ltd to disclose acquisition documents related to Binance marks a significant step in ensuring legal transparency in cryptocurrency acquisitions. This development underscores the importance of regulatory compliance and accountability in the evolving landscape of cryptocurrency exchanges. The upcoming hearing on August 26, 2025, will be pivotal in determining the implications of this case for the industry and the companies involved. 
 
 For further information and updates, refer to the [Delhi High Court's official website](#) and [Zettai Pte Ltd's press releases](#).
-
-
 

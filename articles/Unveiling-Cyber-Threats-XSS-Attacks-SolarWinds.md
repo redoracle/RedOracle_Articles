@@ -53,7 +53,7 @@ In the realm of cybersecurity, understanding the nuances of threats like XSS vul
 
 - **Understanding Cross-Site Scripting (XSS):**
   - XSS is a client-side code injection vulnerability that enables attackers to execute malicious scripts in a user's browser.
-  - Types of XSS include Stored XSS, Reflected XSS, and DOM-based XSS, each with distinct characteristics and risks.
+  - Types of XSS include Stored XSS, Reflected XSS, and DOM based XSS, each with distinct characteristics and risks.
 - **Types of Cyber Attacks:**
   - Cyber attacks have evolved significantly, targeting individuals, businesses, and government entities through methods like phishing, malware, DDoS attacks, SQL injection, and insider threats.
 - **The SolarWinds Hack: A Case Study:**
@@ -80,6 +80,4 @@ The implications of XSS vulnerabilities, cyber attacks, and the SolarWinds breac
 As the cybersecurity landscape continues to evolve, organizations must remain vigilant against threats like XSS vulnerabilities, various cyber attacks, and supply chain breaches like the SolarWinds hack. By prioritizing cybersecurity awareness and implementing robust defense strategies, businesses can navigate the complex digital environment with resilience and preparedness. 
 
 For further information and fact-checking, refer to the [SolarWinds official statement](https://www.solarwinds.com/securityadvisory) and [Cybersecurity and Infrastructure Security Agency (CISA) report](https://www.cisa.gov/).
-
-
 

@@ -83,7 +83,7 @@ This article examines resilience in discovery across community platforms, policy
 - Hacker News’ Algolia search ingestion paused over a weekend, halting new items from being indexed while the site front page continued to update from the Hacker News API, illustrating an ingestion layer failure specific to the search provider.
 - Typesense and other open source search engines surfaced in community conversations as possible paths to reduce vendor lock and build self hosted or hybrid search resilience.
 
-## Section 1 — Stakeholders, core issues, and the information landscape
+## Section 1, Stakeholders, core issues, and the information landscape
 
 - Who: Hacker News community members including frequent contributors and thread starters, Hunters of alternative communities, the U.S. House CAO and congressional staff, WhatsApp and Meta spokespeople, Algolia as the search provider, operators of federated platforms and open source search projects.
 - What: A crowdsourced mapping of alternatives to Hacker News; a formal government restriction on WhatsApp for staff devices; and a service disruption in the Algolia powered search index for Hacker News.
@@ -92,7 +92,7 @@ This article examines resilience in discovery across community platforms, policy
 - Why: Motivation includes desire for diversified discovery channels, institutional needs for auditable security and data governance, and operational concerns about third party dependencies that risk real time access to conversations.
 - How: Users share manual recommendations, direct links and qualitative assessments; institutions issue memos and approved tool lists; engineers and maintainers diagnose ingestion problems and consider restart or rekeying procedures and potential migrations.
 
-## Section 2 — Hacker News alternatives: who’s offering what and why it matters
+## Section 2, Hacker News alternatives: who’s offering what and why it matters
 
 - Lobste.rs functions as a close cultural alternative emphasizing curated tech links and community moderation practices distinct from Hacker News.
 - Tilde ecosystems provide lightweight, retro style community hosting that appeals to independent contributors and hobbyist projects.
@@ -100,7 +100,7 @@ This article examines resilience in discovery across community platforms, policy
 - Twostopbits provides retro and vintage tech oriented content and community discussion that differs in topical focus from mainstream HN threads.
 - Community trade offs include lower activity volume on alternatives, different moderation philosophies, and varying UX expectations, balanced against greater governance pluralism and control for participants.
 
-## Section 3 — U.S. House ban on WhatsApp: policy, rationale, and reaction
+## Section 3, U.S. House ban on WhatsApp: policy, rationale, and reaction
 
 - Policy detail: The House CAO memo instructs congressional staff not to install WhatsApp on House issued mobile, desktop, or web platforms citing the Office of Cybersecurity assessment.
 - Rationale: Concerns center on transparency in data handling, stored data encryption practices, and inability to demonstrate compliance with governance expectations for official communications.
@@ -109,7 +109,7 @@ This article examines resilience in discovery across community platforms, policy
 - Vendor response: Meta emphasized that WhatsApp uses end to end encryption by default and argued its security posture is strong relative to some apps on approved lists; Meta offered to support House members and staff where possible.
 - Broader context: The ban sits within wider debates about monetization changes in consumer messaging, privacy perceptions, and the challenge of reconciling consumer convenience with auditable enterprise security.
 
-## Section 4 — Hacker News Algolia search outage: what happened and operational implications
+## Section 4, Hacker News Algolia search outage: what happened and operational implications
 
 - Incident summary: Algolia ingestion of new Hacker News stories and comments stopped over a weekend. The Hacker News front page continued to surface new posts from the native API, but the Algolia powered search index did not receive new content.
 - Detection and trace: The problem was logged and discussed in the Algolia hn search repository, issue 248, where contributors noted ingestion had ceased.
@@ -119,7 +119,7 @@ This article examines resilience in discovery across community platforms, policy
 - Long term options: Operators and community engineers discussed open source alternatives like Typesense and hybrid architectures that include local indices, cached layers and federated or self hosted search to reduce single vendor risk.
 - Risk trade offs: Moving to open source search introduces maintenance cost and operational overhead but increases control, transparency and the ability to tailor indexing behavior for community needs.
 
-## Section 5 — Synthesis: resilience, governance, and community design
+## Section 5, Synthesis: resilience, governance, and community design
 
 - Resilience through diversification: The trio of developments underscores that resilient discovery requires multiple layers of redundancy: alternative communities for content diversity; auditable, policy aligned communication tools for institutions; and modular, replaceable infrastructure for search and indexing.
 - Governance differences matter: Government risk appetites and auditing needs will diverge from consumer preferences, producing policy choices like the WhatsApp ban that change who can participate in official communications and how.

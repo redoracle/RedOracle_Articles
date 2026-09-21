@@ -57,7 +57,7 @@ The Defense Contractor Cybersecurity Fraud Settlement involves MORSECORP, a defe
 - Allegations included submitting false or fraudulent claims for payment on government contracts.
 - The False Claims Act imposes liability on individuals and companies defrauding governmental programs.
 - Compliance with cybersecurity requirements in government contracts is crucial to prevent legal and financial repercussions.
-- The Department of Justice accused MORSECORP of knowingly submitting false claims for payment despite non-compliance with cybersecurity standards.
+- The Department of Justice accused MORSECORP of knowingly submitting false claims for payment despite non compliance with cybersecurity standards.
 - The settlement amount of $4.6 million reflects the seriousness of the allegations and serves as a deterrent for future violations.
 
 ## Insights & Analysis
@@ -70,9 +70,7 @@ The Defense Contractor Cybersecurity Fraud Settlement serves as a cautionary tal
 
 ## Conclusion
 
-The settlement with MORSECORP highlights the critical importance of cybersecurity compliance in defense contracting. The significant financial penalties and involvement of a whistleblower underscore the potential consequences for companies that fail to adhere to established cybersecurity standards. This case may prompt other defense contractors to reassess their compliance practices and lead to increased reporting of non-compliance by whistleblowers, enhancing overall cybersecurity within the defense sector.
+The settlement with MORSECORP highlights the critical importance of cybersecurity compliance in defense contracting. The significant financial penalties and involvement of a whistleblower underscore the potential consequences for companies that fail to adhere to established cybersecurity standards. This case may prompt other defense contractors to reassess their compliance practices and lead to increased reporting of non compliance by whistleblowers, enhancing overall cybersecurity within the defense sector.
 
 For further details on this case and its implications, refer to the full articles on [MLex](https://www.mlex.com/mlex/data-privacy-security/articles/2316192/morsecorp-agrees-to-pay-4-6-million-to-settle-us-cybersecurity-fraud-allegations), [The Cyber Express](https://thecyberexpress.com/defense-contractor-morse-corp-settles-fraud/), and [PR Newswire](https://www.prnewswire.com/news-releases/morsecorp-agrees-to-pay-4-6-million-to-settle-landmark-cybersecurity-false-claims-act-case-brought-by-whistleblower-law-collaborative-client-302412118.html).
-
-
 

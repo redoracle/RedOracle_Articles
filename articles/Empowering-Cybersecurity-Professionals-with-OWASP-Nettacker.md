@@ -76,7 +76,5 @@ The development of OWASP Nettacker underscores the importance of open-source sol
 
 ## Conclusion
 
-Empowering Cybersecurity Professionals with OWASP Nettacker is a significant step towards bolstering cybersecurity defenses. The tool's features, future plans, and community-driven development make it a valuable asset in combating evolving cyber threats. Stay informed and engaged with the latest advancements in cybersecurity tools to stay ahead of potential risks.
-
-
+Empowering Cybersecurity Professionals with OWASP Nettacker is a significant step towards bolstering cybersecurity defenses. The tool's features, future plans, and community driven development make it a valuable asset in combating evolving cyber threats. Stay informed and engaged with the latest advancements in cybersecurity tools to stay ahead of potential risks.
 

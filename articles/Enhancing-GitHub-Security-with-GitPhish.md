@@ -52,15 +52,15 @@ GitPhish is an innovative open-source tool designed for security assessments foc
 ## Key Highlights
 
 - GitPhish allows red teamers to test organizational resilience against phishing attacks and helps detection engineers validate their ability to identify suspicious OAuth flows.
-- The architecture of GitPhish features a robust Flask-based authentication server and a web-based management dashboard.
+- The architecture of GitPhish features a robust Flask based authentication server and a web based management dashboard.
 - By simulating realistic attack scenarios, GitPhish enhances the capabilities of red teams and detection engineers.
 - The open-source nature of GitPhish encourages collaboration and continuous improvement within the cybersecurity community.
 
 ## Insights & Analysis
 
-Mason Davis, a Staff Security Engineer at Praetorian, emphasized that GitPhish is specifically designed for security teams looking to conduct assessments and build detection capabilities around Device Code Phishing in GitHub. The tool's architecture includes an authentication server built on a Flask-based HTTPS endpoint implementing device code flow, along with features like comprehensive token capture, email allowlisting, and GitHub Pages Deployment Engine.
+Mason Davis, a Staff Security Engineer at Praetorian, emphasized that GitPhish is specifically designed for security teams looking to conduct assessments and build detection capabilities around Device Code Phishing in GitHub. The tool's architecture includes an authentication server built on a Flask based HTTPS endpoint implementing device code flow, along with features like comprehensive token capture, email allowlisting, and GitHub Pages Deployment Engine.
 
-GitPhish's availability on GitHub promotes collaboration and contributions from the open-source community, fostering a culture of continuous improvement and knowledge sharing within the cybersecurity domain. The tool's integration with authentication server endpoints and the web-based management dashboard allows for real-time monitoring, analytics, deployment orchestration, and audit logging.
+GitPhish's availability on GitHub promotes collaboration and contributions from the open-source community, fostering a culture of continuous improvement and knowledge sharing within the cybersecurity domain. The tool's integration with authentication server endpoints and the web based management dashboard allows for real-time monitoring, analytics, deployment orchestration, and audit logging.
 
 ## Impact
 
@@ -73,6 +73,4 @@ In conclusion, GitPhish stands out as a valuable tool for security teams looking
 For further reading on related topics, consider exploring:
 - [35 open-source security tools to power your red team, SOC, and cloud security](#)
 - [GitHub CISO on security strategy and collaborating with the open-source community](#)
-
-
 

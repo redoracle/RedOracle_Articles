@@ -53,7 +53,7 @@ In recent developments, the genetic testing company 23andMe has filed for Chapte
 
 ## Overview of 23andMe's Bankruptcy Filing
 
-- **Company Background**: Founded in 2006, 23andMe is a pioneer in personal genomics and biotechnology, offering direct-to-consumer genetic testing services. The company gained popularity for its ancestry and health-related genetic insights, attracting millions of customers.
+- **Company Background**: Founded in 2006, 23andMe is a pioneer in personal genomics and biotechnology, offering direct-to-consumer genetic testing services. The company gained popularity for its ancestry and health related genetic insights, attracting millions of customers.
 - **Bankruptcy Filing**: On December 7, 2023, 23andMe filed for Chapter 11 bankruptcy in the U.S. Bankruptcy Court for the Northern District of California. This move allows the company to reorganize its debts while continuing operations, raising questions about its future viability.
 
 ## Factors Leading to Bankruptcy
@@ -82,6 +82,4 @@ The bankruptcy of 23andMe marks a significant moment in the genetic testing indu
 
 - [23andMe Account Closure Request](https://customercare.23andme.com/hc/en-us/articles/212170688-Requesting-23andMe-Account-Closure)
 - [Full Article on KTTC](https://www.kttc.com/2025/03/27/mn-attorney-general-keith-ellison-issues-consumer-alert-following-23andme-bankruptcy/)
-
-
 

@@ -24,7 +24,7 @@ The cybersecurity landscape in New Jersey is experiencing rapid evolution, marke
 ## Key Developments
 
 ### Cognizant
-- **Who:** Cognizant, a Teaneck-based technology company.
+- **Who:** Cognizant, a Teaneck based technology company.
 - **What:** Announced a strategic partnership with CrowdStrike to enhance enterprise security transformation.
 - **When:** January 2025.
 - **Where:** Teaneck, New Jersey.
@@ -51,11 +51,11 @@ The cybersecurity landscape in New Jersey is experiencing rapid evolution, marke
 - **Quote:** CEO James Maida: "We are thrilled and humbled that the industry recognized us for our industrious efforts."
 
 ### BCN
-- **Who:** BCN, a Morristown-based company.
+- **Who:** BCN, a Morristown based company.
 - **What:** Formed a strategic partnership with Adaptiv Networks to enhance SD-WAN solutions.
 - **When:** January 2025.
 - **Where:** Morristown, New Jersey.
-- **Why:** To provide advanced site-to-site connectivity and cloud-based security.
+- **Why:** To provide advanced site-to-site connectivity and cloud based security.
 - **How:** By combining BCN's managed internet connectivity with Adaptiv's SD-WAN overlay expertise.
 - **Quote:** President Julian Jacquez: "Our collaboration underscores our dedication to offering comprehensive connectivity management solutions."
 
@@ -69,6 +69,4 @@ The cybersecurity industry in New Jersey is witnessing significant advancements 
 - [Gaming Laboratories International](https://gaminglabs.com/)
 - [BCN](https://www.bcntele.com/company/)
 - [NJBIZ Article](https://njbiz.com/roundup-significant-developments-in-njs-cybersecurity-industry/)
-
-
 

@@ -64,7 +64,7 @@ A critical 0-day vulnerability in Microsoft SharePoint Server has led to a globa
 - **Reporting Date:** July 31, 2025
 - **Affected Regions:** South Africa, Mauritius, Jordan, United States, Netherlands
 - **Vulnerability Exploitation:** Attackers leveraged vulnerabilities present only in locally hosted SharePoint deployments
-- **Cloud Security:** Cloud-based SharePoint environments managed by Microsoft remain unaffected
+- **Cloud Security:** Cloud based SharePoint environments managed by Microsoft remain unaffected
 
 ## Insights & Analysis
 
@@ -77,6 +77,4 @@ The compromise of various sectors highlights the risks associated with maintaini
 ## Conclusion
 
 The exploitation of the 0-day vulnerability in Microsoft SharePoint Server has significant implications for cybersecurity across various sectors, particularly in Africa. Organizations must prioritize robust cybersecurity strategies in an evolving threat landscape to protect against sophisticated threats.
-
-
 

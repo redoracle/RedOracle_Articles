@@ -47,7 +47,7 @@ head:
 
 ## Introduction
 
-In a significant development within the cybersecurity sector, CloudSEK, a Bengaluru-based cybersecurity startup, has successfully raised $19 million in its Series A2 and B1 funding rounds. This funding milestone reflects the growing investor confidence in CloudSEK's proactive approach to threat intelligence, AI models, and market expansion.
+In a significant development within the cybersecurity sector, CloudSEK, a Bengaluru based cybersecurity startup, has successfully raised $19 million in its Series A2 and B1 funding rounds. This funding milestone reflects the growing investor confidence in CloudSEK's proactive approach to threat intelligence, AI models, and market expansion.
 
 ## Key Highlights
 
@@ -94,6 +94,4 @@ CloudSEK's $19 million funding achievement marks a significant milestone in the 
 **Source:** [Entrackr](https://entrackr.com/news/cybersecurity-startup-cloudsek-raises-19-mn-9085770)
 
 **CloudSEK Tag:** [Entrackr](https://entrackr.com/tags/cloudsek)
-
-
 

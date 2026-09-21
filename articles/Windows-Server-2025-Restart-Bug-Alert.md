@@ -54,7 +54,7 @@ A critical bug in Windows Server 2025 has been identified, impacting domain cont
 ## Key Highlights
 
 - **Problem Description:** Microsoft has alerted IT administrators to a significant issue affecting Windows Server 2025 domain controllers. After a system restart, these servers may fail to manage network traffic properly, severely disrupting Active Directory environments.
-- **Cause:** The root of the problem lies in the domain controllers loading the standard firewall profile instead of the necessary domain firewall profile post-reboot, leading to various operational challenges.
+- **Cause:** The root of the problem lies in the domain controllers loading the standard firewall profile instead of the necessary domain firewall profile post reboot, leading to various operational challenges.
 - **Specific Issues:** Domain controllers may become inaccessible on the domain network, applications and services relying on these servers may fail, and security risks may arise due to open ports and protocols.
 - **Scope of Impact:** This issue specifically affects Windows Server 2025 systems hosting the Active Directory Domain Services role, with client systems and earlier server versions remaining unaffected.
 - **Workaround:** Microsoft has provided a temporary solution where administrators can manually restart the network adapter on impacted servers using PowerShell with the command: `Restart-NetAdapter *`. Automation through scheduled tasks is recommended to ease manual intervention.
@@ -64,7 +64,7 @@ A critical bug in Windows Server 2025 has been identified, impacting domain cont
 
 ## Insights & Analysis
 
-The misconfiguration in Windows Server 2025 domain controllers post-restart highlights the critical importance of proper network profile management. Failure to address this issue promptly can result in severe operational disruptions and security vulnerabilities within Active Directory environments. By following Microsoft's recommendations and staying vigilant, organizations can mitigate the impact of this bug on their systems.
+The misconfiguration in Windows Server 2025 domain controllers post restart highlights the critical importance of proper network profile management. Failure to address this issue promptly can result in severe operational disruptions and security vulnerabilities within Active Directory environments. By following Microsoft's recommendations and staying vigilant, organizations can mitigate the impact of this bug on their systems.
 
 ## Impact
 
@@ -77,6 +77,4 @@ In conclusion, the Windows Server 2025 restart bug underscores the importance of
 **Fact Checking Links:**
 - [Microsoft's official guidance on the issue](https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2025#domain-controllers-manage-network-traffic-incorrectly-after-restarting)
 - [Bleeping Computer's coverage of the issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-restarts-break-services-on-domain-controllers/)
-
-
 

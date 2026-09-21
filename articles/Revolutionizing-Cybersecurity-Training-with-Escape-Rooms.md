@@ -52,7 +52,7 @@ Revolutionizing Cybersecurity Training with Escape Rooms has become a cutting-ed
 ## Key Highlights
 
 - The Idaho National Laboratory (INL) has developed cyber escape rooms to train cybersecurity professionals in defending against real-world cyberattacks targeting industrial control systems (ICS).
-- The ICS Cybersecurity & RED – BLUE Exercise (ICS 301 training) is a comprehensive four-day course that combines theoretical knowledge with practical applications.
+- The ICS Cybersecurity & RED, BLUE Exercise (ICS 301 training) is a comprehensive four-day course that combines theoretical knowledge with practical applications.
 - INL's cybersecurity team prepares both seasoned professionals and newcomers to counter modern threats that could disrupt society.
 - The training program has attracted participants from over 110 countries, highlighting its global significance in cybersecurity education.
 - INL's innovative approach combines traditional instruction with interactive escape rooms, enhancing engagement and learning.

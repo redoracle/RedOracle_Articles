@@ -65,7 +65,7 @@ head:
 
 ## Introduction
 
-Chrome 140 bolsters security with six CVEs fixed and remote code execution risk mitigated. This release reinforces Chrome's multi-layered defense approach combining patch management, bug-bounty collaboration, fuzzing, and sanitizer-driven discovery. Keywords integrated throughout: chrome vulnerabilities rce v8 patch bug-bounty fuzzing sanitizers vulnerability-disclosure researchers rollout extended-stable toolbar extensions downloads browsers.
+Chrome 140 bolsters security with six CVEs fixed and remote code execution risk mitigated. This release reinforces Chrome's multi-layered defense approach combining patch management, bug-bounty collaboration, fuzzing, and sanitizer driven discovery. Keywords integrated throughout: chrome vulnerabilities rce v8 patch bug-bounty fuzzing sanitizers vulnerability-disclosure researchers rollout extended-stable toolbar extensions downloads browsers.
 
 ## Executive Summary
 
@@ -208,5 +208,4 @@ Please consult the Chromium release notes and the official Chrome stable-channel
 Chrome 140 delivers a focused set of security fixes that collectively mitigate remote code execution risk and harden multiple browser subsystems. The release highlights coordinated vulnerability-disclosure efforts between external researchers and Google internal teams supported by bug-bounty incentives and automated sanitizer and fuzzing pipelines. For chrome users and organizations the combined effect is meaningful reduction in exploitability across v8 toolbar extensions and downloads components and a continued demonstration of security engineering practices centered on defense-in-depth.
 
 Summary Chrome 140 Bolsters Security with Six CVEs Fixed and RCE Mitigated
-
 

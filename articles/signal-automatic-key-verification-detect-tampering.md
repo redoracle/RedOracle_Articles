@@ -64,8 +64,8 @@ On 2026-08-12 Signal released/announced automatic key verification, a cryptograp
 
 ## Timeline
 
-- 2026-05 — Signal added new protections after Russian state-sponsored hackers targeted high-profile accounts with fake "Signal Support" alerts.  
-- 2026-08-12 — Release/announcement of automatic key verification.
+- 2026-05, Signal added new protections after Russian state-sponsored hackers targeted high-profile accounts with fake "Signal Support" alerts.  
+- 2026-08-12, Release/announcement of automatic key verification.
 
 ## Impact
 
@@ -82,7 +82,7 @@ On 2026-08-12 Signal released/announced automatic key verification, a cryptograp
 
 ## Update history
 
-- 2026-08-12 — Initial publication: coverage of Signal’s announcement of automatic key verification.
+- 2026-08-12, Initial publication: coverage of Signal’s announcement of automatic key verification.
 
 ## Fact checking and sources
 
@@ -91,7 +91,7 @@ Sources used for this article:
 
 ## Conclusion
 
-Signal’s automatic key verification introduces a key-transparency–based, audited system intended to make tamper detection easier for end users while preserving manual verification options and auditor privacy protections. The feature addresses usability and threat-model concerns following earlier attacks on high-profile accounts, but Signal notes directory compromise remains a potential risk.
+Signal’s automatic key verification introduces a key-transparency, based, audited system intended to make tamper detection easier for end users while preserving manual verification options and auditor privacy protections. The feature addresses usability and threat-model concerns following earlier attacks on high-profile accounts, but Signal notes directory compromise remains a potential risk.
 
 <script setup lang="ts">
 import SocialShare from "@SocialShare";

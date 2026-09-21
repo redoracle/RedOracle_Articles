@@ -52,7 +52,7 @@ In the realm of AI development, vulnerabilities pose a significant threat, espec
 ## Key Highlights
 
 - A critical security vulnerability, tracked as CVE-2025-49596, has been identified in Anthropic's MCP Inspector, potentially allowing remote code execution (RCE) and unauthorized access to developer machines.
-- The vulnerability, with a CVSS score of 9.4 out of 10, exposes a new class of browser-based attacks against AI developer tools within the MCP ecosystem.
+- The vulnerability, with a CVSS score of 9.4 out of 10, exposes a new class of browser based attacks against AI developer tools within the MCP ecosystem.
 - The MCP Inspector, introduced in November 2024, is a developer tool for testing and debugging MCP servers, enabling AI systems to access information beyond their training data.
 - Misconfigurations in the default settings of the MCP Inspector tool, lacking authentication and encryption, contribute to the vulnerability, making it susceptible to attacks from local and public networks.
 
@@ -73,6 +73,4 @@ The incident serves as a reminder of the vulnerabilities that can arise from mis
 ## Conclusion
 
 Mitigating AI developer vulnerabilities is a critical aspect of ensuring the security and integrity of AI systems. By addressing vulnerabilities promptly, implementing secure configurations, and staying informed about potential risks, developers can enhance the resilience of their AI tools against malicious attacks. As the industry progresses, prioritizing security in AI development will be key to fostering a safe and trustworthy environment for innovation and advancement.
-
-
 

@@ -67,25 +67,25 @@ head:
 
 ## Introduction
 
-"Little Things, Big Breaches Asset-Centric Security for Manufacturing" examines how small, often-overlooked details in manufacturing environments compound into major cyber risk. This rewrite synthesizes Manufacturing.net’s Security Breach podcast episode (published August 21, 2025) featuring Jesper Sønderby Andersen, Global Head of Customer Success at Secomea, with host Jeff Reinke. It centers on practical, asset-focused approaches to security across IT and OT, and emphasizes the essential keywords: manufacturing, assets, governance, it-ot, remote-access, segmentation, crown-jewels, asset-inventory, vendor-risk, ai, supply-chain, resilience, incident-response, visibility, monitoring, cross-functional, continuity, trust.
+"Little Things, Big Breaches Asset-Centric Security for Manufacturing" examines how small, often-overlooked details in manufacturing environments compound into major cyber risk. This rewrite synthesizes Manufacturing.net’s Security Breach podcast episode (published August 21, 2025) featuring Jesper Sønderby Andersen, Global Head of Customer Success at Secomea, with host Jeff Reinke. It centers on practical, asset focused approaches to security across IT and OT, and emphasizes the essential keywords: manufacturing, assets, governance, it-ot, remote-access, segmentation, crown-jewels, asset-inventory, vendor-risk, ai, supply-chain, resilience, incident-response, visibility, monitoring, cross-functional, continuity, trust.
 
 ---
 
 ## Executive Overview
 
-- **What happened:** Manufacturing.net’s Security Breach episode highlights how seemingly small gaps — misconfigurations, unmanaged remote access, and visibility blind spots — drive breaches in manufacturing environments. The conversation articulates an asset-centric framework that converts basics into durable defenses.
+- **What happened:** Manufacturing.net’s Security Breach episode highlights how seemingly small gaps (misconfigurations, unmanaged remote access, and visibility blind spots) drive breaches in manufacturing environments. The conversation articulates an asset-centric framework that converts basics into durable defenses.
 - **Who:** Jesper Sønderby Andersen (Global Head of Customer Success, Secomea) and host Jeff Reinke (Security Breach). Production: Unit 202 Productions.
 - **When & Where:** Published August 21, 2025 on Manufacturing.net’s Security Breach podcast series; distributed across major podcast platforms.
 - **Why this matters:** Minor, persistent vulnerabilities across IT, OT, employees, and vendors escalate risk; addressing them with governance, visibility, and segmentation reduces blast radius and supports continuity and trust.
-- **Core value:** Practical guidance — asset-inventory, remote-access governance, segmented architectures, and cross-functional accountability — that maps theory to operational actions for manufacturing organizations.
+- **Core value:** Practical guidance, asset-inventory, remote-access governance, segmented architectures, and cross-functional accountability, that maps theory to operational actions for manufacturing organizations.
 
 ---
 
 ## Who, What, When, Where, Why, and How (Concise)
 
 - **Who:** Jesper Sønderby Andersen (Secomea) with host Jeff Reinke; Unit 202 Productions credited.
-- **What:** A deep-dive on “blocking and tackling” fundamentals — asset-inventory, remote-access controls, segmentation, vendor-risk and the intersection of IT and OT.
-- **When:** Episode release — August 21, 2025.
+- **What:** A deep-dive on “blocking and tackling” fundamentals, asset-inventory, remote-access controls, segmentation, vendor-risk and the intersection of IT and OT.
+- **When:** Episode release, August 21, 2025.
 - **Where:** Manufacturing.net’s Security Breach podcast (available on Apple, Amazon, Overcast and related outlets).
 - **Why:** Because small, overlooked issues are the primary vectors that convert low-severity findings into catastrophic breaches.
 - **How:** Through an asset-centric framework: start with inventory and crown-jewel identification, then apply governance, role-based remote-access, segmentation guided by criticality, continuous monitoring and cross-functional incident-response.
@@ -96,7 +96,7 @@ head:
 
 ### The Central Premise: Little Things Determine Outcomes
 
-- The episode’s core thesis: basic controls and consistent execution matter more than exotic defenses. Small missteps — weak defaults, unmonitored vendor sessions, forgotten accounts — create opportunities attackers exploit.
+- The episode’s core thesis: basic controls and consistent execution matter more than exotic defenses. Small missteps (weak defaults, unmonitored vendor sessions, forgotten accounts) create opportunities attackers exploit.
 - _Belichick-style discipline:_ Andersen cites Bill Belichick’s coaching ethos to illustrate the value of disciplined, layered defense and meticulous execution.
 
 ### Breaking Silos and Assigning Accountability
@@ -132,7 +132,7 @@ head:
 
 ### Security as Competitive Advantage
 
-- Robust cybersecurity strengthens resilience and trust — attributes that can become market differentiators in manufacturing procurement and partnerships.
+- Robust cybersecurity strengthens resilience and trust, attributes that can become market differentiators in manufacturing procurement and partnerships.
 - Tools should enable operations and security, not impede them.
 
 ---
@@ -176,7 +176,7 @@ Note: The episode frames these principles as governance and architecture guidanc
    - Implement supplier risk assessments, contractual security standards, and limited, monitored vendor access to crown-jewel systems.
 
 8. **Prepare for AI-Accelerated Threats**
-   - Invest in analytics, detection automation, and behavior baselines to counter AI-driven reconnaissance and exploitation.
+   - Invest in analytics, detection automation, and behavior baselines to counter AI driven reconnaissance and exploitation.
 
 ---
 
@@ -198,14 +198,14 @@ Note: The episode frames these principles as governance and architecture guidanc
 ## Industry Impact and Stakeholders
 
 - **Stakeholders:** Manufacturers, OT operators, IT security teams, vendor-management, supplier networks, cybersecurity vendors (e.g., Secomea), and regulatory/resilience bodies.
-- **Operational relevance:** The asset-centric model informs procurement, operations, compliance, and incident-response — aligning technical controls with business continuity.
-- **Strategic implications:** Organizations that adopt asset-inventory-driven governance, robust remote-access controls, and segmentation-first architectures will reduce breach likelihood and improve recovery outcomes, translating security into competitive trust.
+- **Operational relevance:** The asset-centric model informs procurement, operations, compliance, and incident-response, aligning technical controls with business continuity.
+- **Strategic implications:** Organizations that adopt asset-inventory driven governance, robust remote-access controls, and segmentation-first architectures will reduce breach likelihood and improve recovery outcomes, translating security into competitive trust.
 
 ---
 
 ## Conclusion
 
-The Manufacturing.net Security Breach episode with Jesper Sønderby Andersen delivers a clear, practical message: cybersecurity in manufacturing is an ongoing, integrated discipline where "little things" — asset visibility, remote-access governance, segmentation, vendor-risk controls, and execution discipline — collectively determine resilience. Adopting an asset-centric approach across IT and OT, instituting cross-functional governance, and treating security as an operational enabler turns small fixes into substantial risk reduction and continuity assurance. This is the durable strategy for defending modern manufacturing against evolving, AI-augmented threats and supply-chain-based attack paths.
+The Manufacturing.net Security Breach episode with Jesper Sønderby Andersen delivers a clear, practical message: cybersecurity in manufacturing is an ongoing, integrated discipline where "little things", asset visibility, remote-access governance, segmentation, vendor-risk controls, and execution discipline, collectively determine resilience. Adopting an asset-centric approach across IT and OT, instituting cross-functional governance, and treating security as an operational enabler turns small fixes into substantial risk reduction and continuity assurance. This is the durable strategy for defending modern manufacturing against evolving, AI-augmented threats and supply-chain based attack paths.
 
 ---
 
@@ -213,12 +213,11 @@ The Manufacturing.net Security Breach episode with Jesper Sønderby Andersen del
 
 - Secomea (vendor referenced): https://www.secomea.com
 - Manufacturing.net (podcast publisher and Security Breach series): https://www.manufacturing.net
-- U.S. Cybersecurity and Infrastructure Security Agency — Operational Technology resources: https://www.cisa.gov/operational-technology
+- U.S. Cybersecurity and Infrastructure Security Agency, Operational Technology resources: https://www.cisa.gov/operational-technology
 
-(Event: Security Breach podcast episode — published August 21, 2025; guest: Jesper Sønderby Andersen; host: Jeff Reinke; production: Unit 202 Productions.)
+(Event: Security Breach podcast episode, published August 21, 2025; guest: Jesper Sønderby Andersen; host: Jeff Reinke; production: Unit 202 Productions.)
 
 ---
 
 Do you have a specific manufacturing environment or asset class (PLC, HMI, MES, robotics) you want this asset-centric framework applied to for a tailored checklist?
-
 

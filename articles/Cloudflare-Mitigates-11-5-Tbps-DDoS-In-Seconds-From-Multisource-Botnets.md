@@ -100,7 +100,7 @@ Cloudflare mitigated an unprecedented volumetric DDoS event that peaked at **11.
 
 - Attack vector: UDP flood exploiting the stateless nature of UDP to push high packet-per-second rates and maximize throughput per compromised host.
 - Botnet composition: Compromised devices include PCs, misconfigured cloud instances, NVRs, DVRs, routers, and other IoT edge devices that can be coerced into high-rate packet transmission.
-- Propagation and command infrastructure: Analyses of related campaigns show attackers using DNS-based mechanisms for command-and-control. RapperBot examples use DNS TXT records and a domain generation algorithm to retrieve C2 addresses and map them to operational endpoints.
+- Propagation and command infrastructure: Analyses of related campaigns show attackers using DNS based mechanisms for command-and-control. RapperBot examples use DNS TXT records and a domain generation algorithm to retrieve C2 addresses and map them to operational endpoints.
 - RapperBot methods: Exploits include path traversal in NVR firmware to leak administrator credentials, mounting a remote NFS share at 104.194.9[.]127, delivering a fake firmware update, and executing architecture-specific binaries to join a DDoS botnet.
 - C2 resilience: Use of DNS TXT lookups, a multi-domain multi-subdomain two-TLD DGA schema, hard-coded DNS resolvers, and encrypted C2 channels to improve survivability and evade simple IP blocklisting.
 - Packet profile: Small, high-frequency UDP packets optimized to maximize packets per second while minimizing per-packet bandwidth cost.
@@ -123,7 +123,7 @@ Cloudflare mitigated an unprecedented volumetric DDoS event that peaked at **11.
 
 - IoT exposure: RapperBot and similar campaigns underline persistent vulnerabilities in NVRs, DVRs and other consumer or enterprise edge devices that enable botnet recruitment at scale.
 - Multi-vector risk: Volumetric floods may be used concurrently with application-level exploits, credential theft or lateral movement as part of smoke-screen strategies.
-- DNS and DGA techniques: Botnets increasingly adopt DNS TXT retrievals and sophisticated DGA schemes to locate resilient C2 infrastructure and survive IP-based takedowns.
+- DNS and DGA techniques: Botnets increasingly adopt DNS TXT retrievals and sophisticated DGA schemes to locate resilient C2 infrastructure and survive IP based takedowns.
 - Industry response levers: Device segmentation, firmware integrity verification, credential hygiene, and observability at shard and flow levels across cloud and edge networks are essential to reduce attack surface and accelerate detection.
 
 ## Timeline and Case Comparisons
@@ -136,13 +136,13 @@ Cloudflare mitigated an unprecedented volumetric DDoS event that peaked at **11.
 - Late August to September 3 2025
   - Event: Cloudflare mitigates a UDP flood peaking at 11.5 Tbps and 5.1 Bpps, lasting around 35 seconds. Initial reporting cited Google Cloud as a significant source; later clarifications identified multiple participating cloud and IoT sources.
 - RapperBot chronology
-  - Event: Bitsight analysis describes exploitation of NVR firmware path traversal, credential leakage, NFS-based fake firmware deployment, DNS TXT based C2 retrieval and DGA use for resilient command infrastructure.
+  - Event: Bitsight analysis describes exploitation of NVR firmware path traversal, credential leakage, NFS based fake firmware deployment, DNS TXT based C2 retrieval and DGA use for resilient command infrastructure.
 
 ## Detailed Analysis
 
 Overview and significance
 
-- The 11.5 Tbps event represents an inflection point in volumetric-attack capacity, demonstrating that botnet-driven UDP floods can be orchestrated to deliver extremely high-throughput, short-duration surges that stress network edges and peering links.
+- The 11.5 Tbps event represents an inflection point in volumetric-attack capacity, demonstrating that botnet driven UDP floods can be orchestrated to deliver extremely high-throughput, short-duration surges that stress network edges and peering links.
 - Packet-per-second scale matters as much as raw throughput when defenses must inspect and filter individual packets at line rate.
 
 Mechanics and bottlenecks
@@ -215,6 +215,5 @@ Event information summary
 
 ## Conclusion
 
-Cloudflare mitigated a landmark 11.5 Tbps UDP flood that crystallizes 2025 trends in hyper-volumetric DDoS, multisource botnet mobilization and IoT-driven attack amplification. The incident demonstrates the need for scalable auto-mitigation, cross-provider coordination, improved IoT security posture and vigilant monitoring of UDP and Bpps anomalies. The RapperBot case reinforces how firmware vulnerabilities, NFS-based delivery mechanisms and DNS-based C2 can feed large botnets that power modern volumetric-attacks.
-
+Cloudflare mitigated a landmark 11.5 Tbps UDP flood that crystallizes 2025 trends in hyper-volumetric DDoS, multisource botnet mobilization and IoT driven attack amplification. The incident demonstrates the need for scalable auto-mitigation, cross-provider coordination, improved IoT security posture and vigilant monitoring of UDP and Bpps anomalies. The RapperBot case reinforces how firmware vulnerabilities, NFS based delivery mechanisms and DNS based C2 can feed large botnets that power modern volumetric-attacks.
 

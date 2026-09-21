@@ -47,7 +47,7 @@ head:
 
 ## Introduction
 
-Deep Algorithm Solutions, a Mumbai-based cybersecurity and AI startup, has secured Rs 10.8 crore in a seed funding round to enhance its capabilities in fraud prevention within digital financial ecosystems. This funding marks a significant milestone for the company's growth and development in the cybersecurity sector.
+Deep Algorithm Solutions, a Mumbai based cybersecurity and AI startup, has secured Rs 10.8 crore in a seed funding round to enhance its capabilities in fraud prevention within digital financial ecosystems. This funding marks a significant milestone for the company's growth and development in the cybersecurity sector.
 
 ## Key Highlights
 
@@ -70,6 +70,4 @@ The successful seed funding round not only validates Deep Algorithm's innovative
 In conclusion, Deep Algorithm's achievement in securing Rs 10.8 crore for cyber solutions signifies a significant step towards strengthening cybersecurity measures in the digital financial ecosystem. With a strong focus on product development, market expansion, and strategic partnerships, the company is poised for continued growth and success in the cybersecurity industry.
 
 For more information on Deep Algorithm's funding round and cybersecurity solutions, visit [Deep Algorithm Solutions](https://www.deepalgorithm.com).
-
-
 

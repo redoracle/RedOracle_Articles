@@ -81,16 +81,16 @@ Automatic key verification aims to reduce the friction of ensuring end-to-end en
 
 ## Update history
 
-- Initial publication: 2026-08-12 — Signal published the automatic key verification feature.
+- Initial publication: 2026-08-12, Signal published the automatic key verification feature.
 
 ## Fact checking and sources
 
-- Help Net Security — Signal’s new security feature checks if your encrypted chats were tampered with  
+- Help Net Security, Signal’s new security feature checks if your encrypted chats were tampered with  
   https://www.helpnetsecurity.com/2026/08/12/signal-automatic-key-verification-feature
 
 ## Conclusion
 
-Signal's automatic key verification adds a convenience-focused layer to key verification by combining key transparency, network-based checks, and independent audits. It addresses risks around key-directory manipulation while preserving manual verification and an opt-out for users; it does not, however, establish real-world identity or defend against account hijack.
+Signal's automatic key verification adds a convenience focused layer to key verification by combining key transparency, network based checks, and independent audits. It addresses risks around key-directory manipulation while preserving manual verification and an opt-out for users; it does not, however, establish real-world identity or defend against account hijack.
 
 <script setup lang="ts">
 import SocialShare from "@SocialShare";

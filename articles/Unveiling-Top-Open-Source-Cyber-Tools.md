@@ -77,7 +77,7 @@ In the realm of cybersecurity, the utilization of open-source tools is paramount
 - **Powerpipe**: A solution for DevOps management with visualization and compliance tools.
 - **reconFTW**: A tool automating reconnaissance processes for subdomain enumeration and vulnerability assessment.
 - **Rspamd**: An open-source spam filtering and email processing framework.
-- **SafeLine**: A self-hosted web application firewall protecting websites from cyber attacks.
+- **SafeLine**: A self hosted web application firewall protecting websites from cyber attacks.
 - **Sara**: A tool for analyzing RouterOS configurations and identifying security vulnerabilities.
 - **SCCMSecrets**: A tool exploiting SCCM policies for credential extraction.
 - **ScubaGear**: A tool evaluating Microsoft 365 configurations for security gaps.
@@ -95,7 +95,7 @@ The integration of these open-source cyber tools signifies a proactive approach 
 
 ## Impact
 
-The availability of top open-source cyber tools empowers security professionals, developers, and organizations to bolster their defenses and stay ahead of malicious actors. These tools not only enhance threat detection and vulnerability assessment but also promote a culture of shared knowledge and community-driven security solutions. Embracing open-source tools is a strategic move towards building resilient and adaptive cybersecurity frameworks.
+The availability of top open-source cyber tools empowers security professionals, developers, and organizations to bolster their defenses and stay ahead of malicious actors. These tools not only enhance threat detection and vulnerability assessment but also promote a culture of shared knowledge and community driven security solutions. Embracing open-source tools is a strategic move towards building resilient and adaptive cybersecurity frameworks.
 
 ## Conclusion
 
@@ -107,6 +107,4 @@ Unveiling top open-source cyber tools underscores the critical role of open-sour
 - [20 Free Cybersecurity Tools You Might Have Missed](https://www.helpnetsecurity.com/2024/06/04/free-open-source-cybersecurity-tools/)
 
 For more information and to stay updated on the latest cybersecurity trends, subscribe to the Help Net Security ad-free monthly newsletter. [Subscribe here](https://www.helpnetsecurity.com/newsletter/).
-
-
 

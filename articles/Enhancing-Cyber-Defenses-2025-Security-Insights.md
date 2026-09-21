@@ -60,17 +60,15 @@ Horizon3.ai, a prominent player in the field of offensive security, has unveiled
 
 ## Insights & Analysis
 
-The report emphasizes the need for an offense-driven approach to cybersecurity, identifying systemic issues in current security practices such as reliance on point-in-time testing, ineffective tools generating excessive noise, and risk models based on assumptions rather than empirical evidence. Organizations are urged to adopt continuous visibility into identity, access, and privilege exposure to effectively mitigate risks.
+The report emphasizes the need for an offense driven approach to cybersecurity, identifying systemic issues in current security practices such as reliance on point-in-time testing, ineffective tools generating excessive noise, and risk models based on assumptions rather than empirical evidence. Organizations are urged to adopt continuous visibility into identity, access, and privilege exposure to effectively mitigate risks.
 
 ## Impact
 
-The 2025 Cybersecurity Insights Report serves as a critical resource for organizations seeking to understand and address their cybersecurity vulnerabilities. By advocating for an offense-driven security strategy, Horizon3.ai provides a roadmap for organizations to enhance their defenses against evolving cyber threats.
+The 2025 Cybersecurity Insights Report serves as a critical resource for organizations seeking to understand and address their cybersecurity vulnerabilities. By advocating for an offense driven security strategy, Horizon3.ai provides a roadmap for organizations to enhance their defenses against evolving cyber threats.
 
 ## Conclusion
 
-In conclusion, the report underscores the importance of proactive security measures and continuous monitoring to combat cyber threats effectively. Organizations must evolve beyond traditional compliance measures and adopt offense-driven security strategies to stay ahead of adversaries. The full report, titled _The State of Cybersecurity in 2025: Data-Driven Insights from Over 50,000 NodeZero® Pentests_, is available for download, offering a deeper exploration of the root causes behind persistent security failures.
+In conclusion, the report underscores the importance of proactive security measures and continuous monitoring to combat cyber threats effectively. Organizations must evolve beyond traditional compliance measures and adopt offense driven security strategies to stay ahead of adversaries. The full report, titled _The State of Cybersecurity in 2025: Data-Driven Insights from Over 50,000 NodeZero® Pentests_, is available for download, offering a deeper exploration of the root causes behind persistent security failures.
 
 For more information, you can access the full report [here](https://www.horizon3.ai/downloads/research/annual-insights-report-the-state-of-cybersecurity-in-2025/).
-
-
 

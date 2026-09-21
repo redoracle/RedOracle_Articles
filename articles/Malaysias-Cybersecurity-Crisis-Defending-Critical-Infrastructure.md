@@ -88,7 +88,7 @@ Malaysia recently faced a significant cybersecurity incident that targeted its a
 ## Recommendations for Strengthening Cybersecurity
 
 - **Recommendation:** Invest in advanced cybersecurity technologies and training for personnel
-  - *Explanation:* This includes adopting AI-driven security solutions and conducting regular training exercises
+  - *Explanation:* This includes adopting AI driven security solutions and conducting regular training exercises
 - **Recommendation:** Enhance public-private partnerships to improve information sharing
   - *Explanation:* Collaboration between government agencies and private sector companies can lead to more effective responses to cyber threats
 - **Recommendation:** Develop a comprehensive national cybersecurity strategy
@@ -99,6 +99,4 @@ Malaysia recently faced a significant cybersecurity incident that targeted its a
 The recent cyberattack on Malaysia's airport systems underscores the urgent need for robust cybersecurity measures. As cyber threats continue to evolve, governments and organizations must prioritize cybersecurity to protect critical infrastructure and maintain public trust.
 
 **Summary:** Malaysia's response to the cyberattack and ransom demand highlights the critical role of cybersecurity in safeguarding national interests. To address such challenges effectively, international cooperation and public-private partnerships are essential. For more information, visit [MLex](https://www.mlex.com/mlex/data-privacy-security/articles/2315885/malaysian-pm-said-no-to-10-million-ransom-demand-from-airport-hackers), [The Record](https://therecord.media/malaysia-pm-says-country-rejected-ransom-demand-airport-cyberattack), and [South China Morning Post](https://www.scmp.com/week-asia/politics/article/3303835/malaysias-anwar-says-no-way-us10-million-ransom-demand-end-airport-cyberattack).
-
-
 

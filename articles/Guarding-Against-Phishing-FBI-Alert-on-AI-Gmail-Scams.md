@@ -19,12 +19,12 @@ sitemap:
 
 ## Introduction
 
-The FBI has issued a stark warning regarding the increasing sophistication of phishing attacks targeting Gmail users, especially with the rise of AI-powered threats. Users are urged to exercise extreme caution and avoid clicking on any unsolicited links to protect themselves from potential account compromises and data theft.
+The FBI has issued a stark warning regarding the increasing sophistication of phishing attacks targeting Gmail users, especially with the rise of AI powered threats. Users are urged to exercise extreme caution and avoid clicking on any unsolicited links to protect themselves from potential account compromises and data theft.
 
 ## Key Highlights
 
 - Phishing attacks have evolved into complex social engineering schemes.
-- AI-powered phishing attacks are now described as the most sophisticated ever, posing a significant threat to Gmail users.
+- AI powered phishing attacks are now described as the most sophisticated ever, posing a significant threat to Gmail users.
 - The Hoxhunt Phishing Trends Report indicates a 49% rise in phishing attacks since early 2022, with AI-generated threats accounting for 4.7% of total attacks.
 - Cybercriminals are increasingly targeting Gmail due to its vast user base and the potential access to sensitive data through compromised Google accounts.
 
@@ -52,6 +52,4 @@ For more details, visit the original sources:
 - [Hoxhunt Phishing Trends Report](source: Hoxhunt Phishing Trends Report)
 - [Nord Security video demonstration](source: Nord Security video demonstration)
 - [Google security advice](source: Google security advice)
-
-
 

@@ -74,7 +74,7 @@ The use of spyware has escalated, with many EU member states reportedly employin
 #### EU Commission
 - Propose a comprehensive legal framework to ban spyware that disproportionately interferes with fundamental rights.
 - Impose a moratorium on spyware until the new legal framework is established.
-- Ensure compliance with existing privacy laws and initiate infringement procedures against non-compliant member states.
+- Ensure compliance with existing privacy laws and initiate infringement procedures against non compliant member states.
 
 #### EU Parliament
 - Continue investigations into spyware abuses and hold member states accountable for violations.
@@ -105,7 +105,4 @@ The call for an EU-wide ban on spyware reflects a growing recognition of the nee
 For more information, refer to the [Civil Society Joint Statement on the Use of Surveillance Spyware in the EU and Beyond](#).
 
 ---
-
-
-
 

@@ -52,7 +52,7 @@ Nvidia's recent win in securing export licenses for its H20 AI chips to China ha
 ## Key Highlights
 
 - The U.S. Commerce Department granted Nvidia licenses to export H20 AI chips to China.
-- Nvidia's stock price closed at $182.70, reflecting a 1.07% increase post-announcement.
+- Nvidia's stock price closed at $182.70, reflecting a 1.07% increase post announcement.
 - The approval marks a policy shift after a previous ban imposed under the Trump administration.
 - Concerns have been raised regarding national security implications and aiding China's military and AI ambitions.
 
@@ -80,6 +80,4 @@ The approval of export licenses is a short-term victory for Nvidia, but it carri
 ## Conclusion
 
 Nvidia's H20 export license win signifies a significant milestone in the company's growth trajectory. The debate surrounding national security and market competition adds complexity to the situation. As Nvidia navigates these challenges, the industry will closely monitor the outcomes of this decision. For more information, refer to the [official announcement](link) and [industry analysis](link).
-
-
 

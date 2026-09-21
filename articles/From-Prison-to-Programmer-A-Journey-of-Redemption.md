@@ -63,7 +63,7 @@ The story of Rick Wolter's transformation from a convicted felon to an ethical h
 ### Rick Wolter's Journey
 
 - **Background and Conviction:** Wolter's conviction for homicide marked a dark chapter in his life, but it ultimately became a catalyst for change.
-- **Transformation Through Programming:** His interest in programming was sparked by an article in The Economist, leading him to pursue self-education in coding.
+- **Transformation Through Programming:** His interest in programming was sparked by an article in The Economist, leading him to pursue self education in coding.
 - **Empowerment Philosophy:** Wolter believes that programming can empower individuals and level the playing field, offering opportunities for those willing to put in the effort.
 
 ### A Ripple Effect Inside Prison Walls
@@ -85,6 +85,4 @@ Rick Wolter's journey exemplifies the transformative power of education, technol
 From Prison to Programmer A Journey of Redemption encapsulates the inspiring story of Rick Wolter's path from incarceration to empowerment through programming. This narrative underscores the potential for personal growth, societal change, and the reshaping of futures through education and technology. Wolter's journey serves as a testament to the transformative power of perseverance, learning, and the belief in second chances.
 
 For more information on Rick Wolter's journey and the work of Underdog Devs, visit their [official website](#) for updates and insights into their impactful initiatives.
-
-
 

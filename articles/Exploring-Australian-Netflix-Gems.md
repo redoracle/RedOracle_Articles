@@ -154,7 +154,7 @@ Netflix features a variety of Australian shows that showcase the country's story
 - **Genre:** Comedy
 - **First Episode:** 2010
 - **Setting:** Sydney
-- **Summary:** Focusing on a self-destructive barrister, this series combines humor with the complexities of legal and personal challenges.
+- **Summary:** Focusing on a self destructive barrister, this series combines humor with the complexities of legal and personal challenges.
 - **Cast:** Richard Roxburgh, Matt Day, Adrienne Pickering
 
 #### Operation Buffalo
@@ -179,6 +179,4 @@ The diverse range of Australian shows available on Netflix not only entertains b
 
 - Australian television continues to evolve, gaining recognition for its originality and storytelling.
 - The global reach of platforms like Netflix allows Australian content to find audiences far beyond its borders.
-
-
 

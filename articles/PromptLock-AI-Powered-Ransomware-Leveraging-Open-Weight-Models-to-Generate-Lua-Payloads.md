@@ -67,7 +67,7 @@ PromptLock emerged in public reporting as a novel example of ai enabled malware 
 
 Executive Overview
 
-_PromptLock is described as ai-assisted ransomware that uses the open-weight model gpt-oss:20b to produce or shape malicious code via hardcoded prompts. Researchers at ESET characterized the sample as potentially a proof-of-concept or work-in-progress while highlighting artifacts that indicate a feasible attack chain. The malware reportedly relies on Lua payloads for file discovery, data exfiltration, and encryption or destructive actions across Windows, Linux, and macOS environments. A key operational note is model locality vs proxying: gpt-oss:20b is reported as roughly 13 GB which may run locally on capable hardware, yet attackers may adopt an internal-proxy technique via an Ollama API to avoid carrying the full model on endpoints._
+_PromptLock is described as ai assisted ransomware that uses the open-weight model gpt-oss:20b to produce or shape malicious code via hardcoded prompts. Researchers at ESET characterized the sample as potentially a proof-of-concept or work-in-progress while highlighting artifacts that indicate a feasible attack chain. The malware reportedly relies on Lua payloads for file discovery, data exfiltration, and encryption or destructive actions across Windows, Linux, and macOS environments. A key operational note is model locality vs proxying: gpt-oss:20b is reported as roughly 13 GB which may run locally on capable hardware, yet attackers may adopt an internal-proxy technique via an Ollama API to avoid carrying the full model on endpoints._
 
 What PromptLock Does and How
 
@@ -97,7 +97,7 @@ Timeline and Context
 
 - April 2025: Ziff Davis filed litigation against OpenAI, providing a legal backdrop about data and training concerns.
 - Early August 2025: OpenAI published open-weight models including gpt-oss:20b that enable local experimentation and modification.
-- August 21–26, 2025: ESET and media outlets including PCMag published findings and coverage about PromptLock, prompting industry discussion on ai assisted threats.
+- August 21-26, 2025: ESET and media outlets including PCMag published findings and coverage about PromptLock, prompting industry discussion on ai assisted threats.
 
 Security Implications and Defensive Considerations
 
@@ -108,10 +108,10 @@ Operational risk and detection
 - Cross-platform Lua payloads indicate defenders must look beyond traditional platform specific signatures and monitor for scripting behavior that enumerates large sets of files or performs staged exfiltration.
 - Useful defender signals include references to gpt-oss:20b or other ai model identifiers in binary or script artifacts, unusual GPU memory usage on endpoints, and anomalous network patterns consistent with proxied access to ai services.
 
-High level, non-actionable mitigations
+High level, non actionable mitigations
 
 - Monitor host processes for persistent interpreters and unusual script execution that touches sensitive directories.
-- Inspect network flows for internal proxying patterns and unusual connections to in‑house ai endpoints or third party hosting services.
+- Inspect network flows for internal proxying patterns and unusual connections to in-house ai endpoints or third party hosting services.
 - Threat hunt for artifacts and metadata referencing open-weight models, and incorporate model awareness in incident response playbooks.
 - Maintain layered defenses including endpoint protection, network monitoring, and data exfiltration controls.
 
@@ -156,5 +156,4 @@ What detection gaps does your environment have for cross-platform scripting or i
 Summary
 
 PromptLock AI-Powered Ransomware Leveraging Open-Weight Models to Generate Lua Payloads demonstrates a proof-of-concept pathway for ai assisted malware that leverages open-weight models, cross-platform scripting, and proxying techniques. The case underscores the need for layered defenses, model awareness in threat modeling, and ongoing collaboration across security, research, and policy communities to mitigate emerging ai enabled threats.
-
 

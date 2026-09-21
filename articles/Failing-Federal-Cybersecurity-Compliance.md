@@ -51,11 +51,11 @@ The failure of the Environmental Protection Agency (EPA), Department of Homeland
 
 ## Key Highlights
 
-- **Unresolved Recommendations:** The DHS has 43 unresolved recommendations dating back to 2018, indicating a long-standing neglect of cybersecurity protocols. The GSA's issues are less severe, focusing on compliance with AI-related executive orders. The EPA's failures primarily relate to cloud software management and cybersecurity risk assessments.
+- **Unresolved Recommendations:** The DHS has 43 unresolved recommendations dating back to 2018, indicating a long-standing neglect of cybersecurity protocols. The GSA's issues are less severe, focusing on compliance with AI related executive orders. The EPA's failures primarily relate to cloud software management and cybersecurity risk assessments.
   
 - **Common Failures:** All three agencies exhibited similar failures in cybersecurity practices, including inadequate logging of cybersecurity events and failure to conduct annual IT portfolio reviews.
 
-- **Agency-Specific Issues:** The EPA failed to submit documentation for cloud security compliance, the DHS struggled with the HART program, and the GSA faced challenges in implementing AI-related recommendations.
+- **Agency-Specific Issues:** The EPA failed to submit documentation for cloud security compliance, the DHS struggled with the HART program, and the GSA faced challenges in implementing AI related recommendations.
 
 ## Insights & Analysis
 
@@ -68,6 +68,4 @@ The ongoing failures to implement cybersecurity recommendations by the EPA, DHS,
 ## Conclusion
 
 In conclusion, the EPA, DHS, and GSA must prioritize cybersecurity to address the identified shortcomings and enhance their cybersecurity posture. The GAO's reports highlight the need for improved compliance and accountability within federal agencies, particularly in the realm of IT management and cybersecurity. The transition to new CIOs presents an opportunity for reform, but it remains to be seen if these leaders can effectively address the existing shortcomings. Congressional oversight will play a crucial role in ensuring that agencies follow through on these recommendations.
-
-
 

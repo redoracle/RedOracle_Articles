@@ -51,7 +51,7 @@ Recent vulnerabilities in the Sudo utility have been patched to mitigate potenti
 
 ## Key Highlights
 
-- **Understanding Sudo and its functionality:** Sudo is a command-line utility in Unix-like operating systems that allows low-privilege users to execute commands as another user, typically the root user.
+- **Understanding Sudo and its functionality:** Sudo is a command-line utility in Unix like operating systems that allows low-privilege users to execute commands as another user, typically the root user.
 - **Details of the vulnerabilities:** 
   - **CVE-2025-32462:** A low-severity elevation of privilege vulnerability in the Sudo host option, present for over 12 years, allowing unauthorized users to run commands with elevated privileges.
   - **CVE-2025-32463:** A critical-severity flaw in the Sudo chroot option that could enable local users to gain root access by loading arbitrary shared libraries.
@@ -70,6 +70,4 @@ The disclosure of vulnerabilities CVE-2025-32462 and CVE-2025-32463 highlights t
 Mitigating Sudo vulnerabilities is crucial for maintaining system security. Users are encouraged to update their Sudo utility to the latest version to safeguard against potential exploitation. The collaboration between researchers like Rich Mirch and Sudo maintainers in addressing these vulnerabilities showcases the importance of community efforts in enhancing cybersecurity.
 
 For more information, refer to the [Stratascale Vulnerability Alert for CVE-2025-32462](link) and [Stratascale Vulnerability Alert for CVE-2025-32463](link).
-
-
 

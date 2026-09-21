@@ -24,7 +24,7 @@ In 2025, cybersecurity remains a critical concern for organizations worldwide. M
 ## Microsoft's Secure Future Initiative (SFI)
 
 - Microsoft's SFI aims to enhance security design and practices within the organization.
-- As part of SFI, Microsoft deleted 730,000 non-compliant apps and removed 5.75 million unused Microsoft Entra ID systems to bolster security measures.
+- As part of SFI, Microsoft deleted 730,000 non compliant apps and removed 5.75 million unused Microsoft Entra ID systems to bolster security measures.
 
 ## Identified Priorities for 2025 Security Measures
 
@@ -45,16 +45,15 @@ In 2025, cybersecurity remains a critical concern for organizations worldwide. M
 
 ## Proactive Measures and Tools for Security Enhancement
 
-- Implementing multifactor authentication and embracing risk-based Conditional Access are essential steps to enhance security.
+- Implementing multifactor authentication and embracing risk based Conditional Access are essential steps to enhance security.
 - Microsoft is committed to innovating and simplifying security practices by sharing knowledge and solutions with the community.
 
 ## Conclusion
 
-In conclusion, Microsoft's proactive cybersecurity approach for 2025 emphasizes the importance of staying ahead of cyber threats through proactive measures, Zero Trust principles, and AI-driven solutions. By adopting these key priorities, organizations can strengthen their security posture and mitigate potential risks effectively.
+In conclusion, Microsoft's proactive cybersecurity approach for 2025 emphasizes the importance of staying ahead of cyber threats through proactive measures, Zero Trust principles, and AI driven solutions. By adopting these key priorities, organizations can strengthen their security posture and mitigate potential risks effectively.
 
 **Fact-Checking Links:**
 - [Microsoft Security Blog](https://www.microsoft.com/security/blog/)
 - [Microsoft Security LinkedIn](https://www.linkedin.com/showcase/microsoft-security/)
 - [Microsoft Security Twitter](https://twitter.com/@MSFTSecurity)
-
 

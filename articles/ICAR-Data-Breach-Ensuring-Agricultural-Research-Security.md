@@ -52,7 +52,7 @@ The Indian Council of Agricultural Research (ICAR) recently experienced a signif
 ## Key Highlights
 
 - The data breach at ICAR resulted in the loss of crucial recruitment records, financial information, and various research projects.
-- An internal committee comprising six members has been formed to investigate the breach and address the non-functionality of ICAR's Data Centre and Disaster Recovery Centre.
+- An internal committee comprising six members has been formed to investigate the breach and address the non functionality of ICAR's Data Centre and Disaster Recovery Centre.
 - Scientists from multiple ICAR locations have expressed concerns about ongoing issues with the portal, highlighting the loss of critical data related to recruitment, finances, and research projects.
 - M L Jat, Secretary of the Department of Agricultural Research and Education and Director General of ICAR, acknowledged previous hacking incidents affecting the website.
 
@@ -69,6 +69,4 @@ The data breach at ICAR has highlighted vulnerabilities in data management syste
 The ICAR data breach serves as a stark reminder of the importance of robust cybersecurity measures, particularly for organizations handling sensitive information. As the investigation progresses and reforms are implemented, it is essential for ICAR to restore trust, enhance data security protocols, and ensure the integrity of its data management systems.
 
 For more information and updates on the ICAR data breach, visit [ICAR's official website](https://www.icar.org.in/).
-
-
 

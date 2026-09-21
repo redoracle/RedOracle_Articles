@@ -67,7 +67,7 @@ On June 20, 2025, two Voyager aircraft at RAF Brize Norton were vandalized, resu
 
 ### Recent Arrest
 
-On August 1, 2025, a 22-year-old man was arrested in Bedford on suspicion of terrorism-related offenses under Section 41 of the Terrorism Act 2000. This arrest follows earlier charges against four individuals for conspiracy to damage the aircraft and unauthorized entry into a prohibited area.
+On August 1, 2025, a 22-year-old man was arrested in Bedford on suspicion of terrorism related offenses under Section 41 of the Terrorism Act 2000. This arrest follows earlier charges against four individuals for conspiracy to damage the aircraft and unauthorized entry into a prohibited area.
 
 ### Details of the Vandalism
 

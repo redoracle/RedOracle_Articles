@@ -52,7 +52,7 @@ Recent discoveries have unveiled two critical vulnerabilities in major Linux dis
 ## Key Highlights
 
 - **CVE-2025-6018 Overview**: Exploits weaknesses in the Pluggable Authentication Modules (PAM) configuration, affecting openSUSE Leap 15 and SUSE Linux Enterprise 15.
-- **CVE-2025-6019 Overview**: Targets the libblockdev library accessed through the udisks daemon, pre-installed on most Linux distributions.
+- **CVE-2025-6019 Overview**: Targets the libblockdev library accessed through the udisks daemon, pre installed on most Linux distributions.
 - **Impact and Scope**: Udisks is included by default in popular distributions like Ubuntu, Debian, Fedora, and openSUSE, expanding the attack surface.
 - **Mechanics of the Attack**: The PAM framework incorrectly treats remote SSH sessions as local console access, granting unauthorized polkit permissions.
 - **Polkit and Udisks Exploitation**: Attackers with 'allow_active' status can manipulate the udisks2 service to execute code with root privileges.
@@ -72,6 +72,4 @@ The implications of these vulnerabilities are significant, as they expose fundam
 The discovery of these critical vulnerabilities highlights the importance of maintaining robust security practices in Linux environments. Organizations must act swiftly to patch these vulnerabilities to safeguard their systems against potential exploitation. The interconnected nature of these flaws underscores the need for comprehensive security assessments and proactive measures to mitigate risks.
 
 For more information on the vulnerabilities and mitigation strategies, refer to the [Qualys Threat Research Unit](https://www.qualys.com/research/security-advisories/).
-
-
 

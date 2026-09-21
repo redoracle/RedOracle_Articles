@@ -71,7 +71,7 @@ This article covers the advisory titled “Google Warns Salesloft Drift Breach E
 
 - Threat actors abused compromised OAuth tokens tied to the Drift integration to access Salesforce environments across a broad set of customers, enabling data exfiltration and credential harvesting.
 - Attackers also abused Drift Email OAuth tokens to read messages in a limited number of Google Workspace mailboxes on August 9, 2025. Those mailboxes were explicitly configured to integrate with Salesloft Drift.
-- Google observed that attackers could not pivot to other Google Workspace accounts outside the Drift-connected accounts within an affected customer domain.
+- Google observed that attackers could not pivot to other Google Workspace accounts outside the Drift connected accounts within an affected customer domain.
 
 ## Who Is Involved
 
@@ -93,7 +93,7 @@ This article covers the advisory titled “Google Warns Salesloft Drift Breach E
 
 - The compromise extended beyond Salesforce to all Drift integrations, increasing the potential attack surface for organizations using Salesloft Drift across multiple SaaS platforms.
 - Google Workspace impact was limited to specific accounts configured to integrate with Salesloft Drift. Google clarified there was no systemic compromise of Google Workspace or Alphabet.
-- Attackers searched for sensitive assets such as AWS access keys and Snowflake-related tokens, supporting a credential-harvesting objective that could enable further access if credentials remained valid.
+- Attackers searched for sensitive assets such as AWS access keys and Snowflake related tokens, supporting a credential-harvesting objective that could enable further access if credentials remained valid.
 - Salesloft described remediation actions that include revoking impacted credentials and restoring Drift integrations only after verification of integrity. Collaboration among Salesforce, Drift, Mandiant, Coalition, and Google continued through remediation.
 
 ## Technical Details and Indicators
@@ -102,7 +102,7 @@ This article covers the advisory titled “Google Warns Salesloft Drift Breach E
 - Drift Email OAuth tokens were abused to read email content for a small subset of Google Workspace accounts configured to use the Drift Email integration.
 - GTIG documented that access was limited by configuration to accounts that had explicitly authorized the Salesloft Drift integration. Normal Google Workspace accounts not configured with Drift remained inaccessible.
 - Observed attacker activity included automated searches and queries for credential artifacts and cloud secrets, consistent with a credential harvesting and data-theft campaign.
-- Indicators of compromise referenced by responders included OAuth client identifiers tied to the Drift application, timestamps and IP addresses associated with token usage, and patterns of API calls consistent with exfiltration. Organizations should consult vendor-provided IOCs and GTIG advisories for specifics.
+- Indicators of compromise referenced by responders included OAuth client identifiers tied to the Drift application, timestamps and IP addresses associated with token usage, and patterns of API calls consistent with exfiltration. Organizations should consult vendor provided IOCs and GTIG advisories for specifics.
 
 ## Response, Mitigation, and Remediation
 
@@ -152,7 +152,7 @@ Operational considerations for third party governance
 
 - The Hacker News article Google Warns Salesloft Drift Breach Impacts All Drift Integrations Beyond Salesforce
   - https://thehackernews.com/2025/08/google-warns-salesloft-drift-breach-impacts.html
-- SecurityWeek article Google Confirms Workspace Accounts Also Hit in Salesforce–Salesloft Drift Data Theft Campaign
+- SecurityWeek article Google Confirms Workspace Accounts Also Hit in Salesforce, Salesloft Drift Data Theft Campaign
   - https://www.securityweek.com/google-confirms-workspace-accounts-also-hit-salesforce-salesloft-drift
 - Google Cloud Blog Threat Intelligence advisory on data theft targeting Salesloft Drift integrated Salesforce instances
   - https://cloud.google.com/blog/topics/security/threat-intelligence-advisory-salesloft-drift-data-theft
@@ -165,5 +165,4 @@ Fact checking and event information
 ## Closing Summary
 
 Google warns that the Salesloft Drift breach expanded beyond Salesforce to affect all Drift integrations, with OAuth tokens used to harvest credentials and exfiltrate data across connected services. The campaign attributed to UNC6395 highlights the systemic risk posed by drift, oauth, tokens, integration, salesforce, googleworkspace and other connected services when token governance and lifecycle controls are insufficient. This incident underscores the need for coordinated, cross vendor response and stronger token hygiene across cloud ecosystems.
-
 

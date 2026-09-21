@@ -67,11 +67,9 @@ The project's success stories include preventing phishing attacks and improving 
 
 ## Impact
 
-The Franklin Project signifies a crucial step in fortifying the cybersecurity of US water systems, addressing vulnerabilities in national infrastructure. As the initiative expands, it sets a precedent for community-driven cybersecurity efforts in other sectors, emphasizing the importance of proactive protection.
+The Franklin Project signifies a crucial step in fortifying the cybersecurity of US water systems, addressing vulnerabilities in national infrastructure. As the initiative expands, it sets a precedent for community driven cybersecurity efforts in other sectors, emphasizing the importance of proactive protection.
 
 ## Conclusion
 
-The Franklin Project's proactive approach to safeguarding water systems highlights the significance of volunteer-driven cybersecurity initiatives. By leveraging expertise and partnerships, this project not only enhances the security of critical infrastructure but also fosters a culture of cybersecurity awareness and resilience in communities. For more information, visit [DEF CON's official website](https://defcon.org).
-
-
+The Franklin Project's proactive approach to safeguarding water systems highlights the significance of volunteer driven cybersecurity initiatives. By leveraging expertise and partnerships, this project not only enhances the security of critical infrastructure but also fosters a culture of cybersecurity awareness and resilience in communities. For more information, visit [DEF CON's official website](https://defcon.org).
 

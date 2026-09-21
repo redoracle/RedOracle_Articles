@@ -63,7 +63,7 @@ Recent findings have revealed critical vulnerabilities in Zyxel's USG FLEX H Ser
 ## Insights & Analysis
 
 ### Nature of Vulnerability
-The vulnerabilities in Zyxel's USG FLEX H Series firewalls stem from misconfigured permissions and improper privilege management within the Linux-based operating system (uOS). A setuid root binary is misused, enabling local privilege escalation when executed with specific arguments.
+The vulnerabilities in Zyxel's USG FLEX H Series firewalls stem from misconfigured permissions and improper privilege management within the Linux based operating system (uOS). A setuid root binary is misused, enabling local privilege escalation when executed with specific arguments.
 
 ### Company Response
 Zyxel has acknowledged the vulnerabilities and released a firmware update (Version 1.32) to address the identified issues. However, there is a dispute over the assignment of separate CVE IDs for the vulnerabilities, with Zyxel opting to group them under CVE-2025-1731.
@@ -77,6 +77,4 @@ The vulnerabilities identified in Zyxel's USG FLEX H Series firewalls underscore
 In conclusion, the critical vulnerabilities found in Zyxel's firewalls highlight the necessity of robust security measures in place to prevent unauthorized access and system compromise. By promptly applying the provided firmware update, organizations can enhance their cybersecurity posture and protect their systems from potential exploitation.
 
 For more information, you can refer to the [source article](https://www.technadu.com/critical-security-vulnerabilities-zyxel-usg-flex-h-series-firewalls-compromise-systems/588410/).
-
-
 

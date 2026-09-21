@@ -47,7 +47,7 @@ head:
 
 ## Introduction
 
-This article examines a high-profile claim circulating in 2024–2025 that **2.7 million Ukrainian and Russian soldiers have been lost** (killed or missing in action) in the ongoing conflict. The claim—amplified through a chain of reporting that includes a Russian site (voennoedelo), an Economic Times piece, and a Hacker News thread—raises urgent questions about **casualties**, **misinformation**, **information-warfare**, **verification**, and the standards of **war-reporting**. Below is a structured, expert-level analysis that preserves the original threads and sources while scrutinizing methodology, demographic plausibility, and downstream effects.
+This article examines a high-profile claim circulating in 2024-2025 that **2.7 million Ukrainian and Russian soldiers have been lost** (killed or missing in action) in the ongoing conflict. The claim, amplified through a chain of reporting that includes a Russian site (voennoedelo), an Economic Times piece, and a Hacker News thread, raises urgent questions about **casualties**, **misinformation**, **information-warfare**, **verification**, and the standards of **war-reporting**. Below is a structured, expert-level analysis that preserves the original threads and sources while scrutinizing methodology, demographic plausibility, and downstream effects.
 
 ## Survey / Overview
 
@@ -61,12 +61,12 @@ This article examines a high-profile claim circulating in 2024–2025 that **2.7
 - Primary claim attribution: voennoedelo (as cited by the Economic Times).
 - Publication chain: voennoedelo → Economic Times → Hacker News thread.
 - Missing elements: no public methodology disclosed (no breakdown by country, timeframe, or category of loss), no primary dataset or open-data reference provided in the chain.
-- Additional claim context: Economic Times framed the figure within reports of cyber intrusions into Ukraine’s General Staff systems—naming hacker groups (Killnet, Palach Pro, User Sec, Beregini) as actors associated with alleged breaches that purportedly exposed data.
+- Additional claim context: Economic Times framed the figure within reports of cyber intrusions into Ukraine’s General Staff systems, naming hacker groups (Killnet, Palach Pro, User Sec, Beregini) as actors associated with alleged breaches that purportedly exposed data.
 
 ## Counterclaims & Skepticism
 
 - Community reaction on Hacker News: multiple commenters called the figure implausible or “obvious nonsense,” urging verification.
-- Historical benchmark used by skeptics: WWII Soviet killed/missing ~7.9 million from a prewar population ~190 million—used to illustrate scale.
+- Historical benchmark used by skeptics: WWII Soviet killed/missing ~7.9 million from a prewar population ~190 million, used to illustrate scale.
 - Demographic pushback: Ukraine’s prewar population ~40 million; a 2.7M combined loss would imply an extremely high attrition rate in a short period.
 - Alternate figures noted in discussion: mentions of 1.7M circulating elsewhere; no consensus or authoritative corroboration found in the thread.
 
@@ -75,20 +75,20 @@ This article examines a high-profile claim circulating in 2024–2025 that **2.7
 - Benchmarking method: compare reported casualties to known population baselines and historical wartime losses to test plausibility.
 - Key figures:
   - USSR WWII fatalities (killed/missing): ~7.9M (scale of industrial-area total war).
-  - Ukraine prewar population: ~35–40M depending on definitions; Russia: ~140–150M (estimates vary by timeframe and migration).
-- Interpretive note: casualty tallies must be contextualized by mobilization rates, rotation of forces, attrition over time, and non-combat losses; demographic reasoning is a rapid sanity-check but cannot replace verified counts.
+  - Ukraine prewar population: ~35-40M depending on definitions; Russia: ~140-150M (estimates vary by timeframe and migration).
+- Interpretive note: casualty tallies must be contextualized by mobilization rates, rotation of forces, attrition over time, and non combat losses; demographic reasoning is a rapid sanity-check but cannot replace verified counts.
 
 ## Data Reliability & Methodology
 
 - Primary reliability issues:
   - Single-source reporting (voennoedelo) without transparent methodology.
-  - Reliance on alleged hacked data from military systems—claims of breaches increase uncertainty about authenticity and integrity.
+  - Reliance on alleged hacked data from military systems, claims of breaches increase uncertainty about authenticity and integrity.
   - Lack of breakdown by type (killed vs missing), by side, or by chronological aggregation.
 - Suggested verification routes: compare with official tallies (Ukrainian General Staff, Russian Defense Ministry), independent research organizations, international monitoring bodies, and open-data casualty trackers when available.
 
 ## Key Events & Timeline
 
-- Ongoing conflict (2022–present) is the operational context for casualty reporting.
+- Ongoing conflict (2022, present) is the operational context for casualty reporting.
 - Media timeline from the thread:
   - Alleged cyber breach and subsequent reporting (voennoedelo → Economic Times).
   - Rapid circulation on discussion platforms (Hacker News) with near-immediate user critique within hours.
@@ -118,9 +118,7 @@ This article examines a high-profile claim circulating in 2024–2025 that **2.7
 
 ## Conclusion
 
-The 2.7 million casualty claim is a high-stakes, high-visibility assertion that surfaced through a chain of reporting linked to alleged cyber intrusions. Current evidence in public discussion lacks transparent methodology and multi-source corroboration. Demographic and historical benchmarks offer strong reasons for skepticism, but definitive adjudication requires primary-source verification, official data, and independent open-data analysis. Until such corroboration exists, treat the figure as contested and emphasize verification, careful media-criticism, and data-driven war-reporting practices.
+The 2.7 million casualty claim is a high-stakes, high-visibility assertion that surfaced through a chain of reporting linked to alleged cyber intrusions. Current evidence in public discussion lacks transparent methodology and multi-source corroboration. Demographic and historical benchmarks offer strong reasons for skepticism, but definitive adjudication requires primary-source verification, official data, and independent open-data analysis. Until such corroboration exists, treat the figure as contested and emphasize verification, careful media-criticism, and data driven war-reporting practices.
 
 Fact-check resources and links: Hacker News thread; Economic Times article cited in the thread; voennoedelo report (original citation).
-
-
 

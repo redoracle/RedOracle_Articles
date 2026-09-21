@@ -39,13 +39,13 @@ head:
 
 ## Introduction
 
-Check Point researchers have documented an ongoing campaign dubbed "Operation Dream Job" in which the Lazarus group uses fake job offers, trojanized PDF software and a Windows zero‑day to target primarily organizations in the defense sector. The findings were reported on August 12, 2026.
+Check Point researchers have documented an ongoing campaign dubbed "Operation Dream Job" in which the Lazarus group uses fake job offers, trojanized PDF software and a Windows zero-day to target primarily organizations in the defense sector. The findings were reported on August 12, 2026.
 
 ## What happened
 
-According to the report, Lazarus used social-engineering lures — including a decoy document that used a Lockheed Martin job description — to deliver malicious payloads. Check Point could not determine exactly how initial contact was made, but assessed attackers likely posed as recruiters and contacted targets via professional networking platforms such as LinkedIn or via messaging apps.
+According to the report, Lazarus used social-engineering lures (including a decoy document that used a Lockheed Martin job description) to deliver malicious payloads. Check Point could not determine exactly how initial contact was made, but assessed attackers likely posed as recruiters and contacted targets via professional networking platforms such as LinkedIn or via messaging apps.
 
-The campaign runs two parallel infection chains that lead to multiple backdoors and persistence mechanisms, and it leverages a Windows zero‑day exploit in AFD.sys (CVE-2026-68820) to escalate privileges in at least one chain.
+The campaign runs two parallel infection chains that lead to multiple backdoors and persistence mechanisms, and it leverages a Windows zero-day exploit in AFD.sys (CVE-2026-68820) to escalate privileges in at least one chain.
 
 ## Key facts
 
@@ -63,15 +63,15 @@ The campaign runs two parallel infection chains that lead to multiple backdoors 
   - The embedded payload in SecurityPDF installs the Troy backdoor.
   - At least three websites impersonating Enveil were used to distribute SecurityPDF; some of these sites appeared among top search results.
 - Victim workflow:
-  - Targets are phished to receive a malicious PDF and later instructed to download a PDF viewer from a vendor‑like site.
+  - Targets are phished to receive a malicious PDF and later instructed to download a PDF viewer from a vendor like site.
 - Command-and-control (C2) infrastructure:
   - Compromised Roundcube webmail installations and other web servers were used to relay C2 traffic.
   - Those servers were vulnerable to CVE-2025-49113; stolen credentials may have been used and a RelayShell PHP web shell was deployed on some servers.
 - Geographical scope:
   - Operation Dream Job expanded worldwide with focus on Western Europe and India, and activity extending to South America.
-  - A France‑headquartered organization was used to spear‑phish additional targets.
+  - A France-headquartered organization was used to spear-phish additional targets.
 - Related activity:
-  - CERT‑UA documented similar fake-job‑offer tactics used by Sandworm/APT44 (Seashell Blizzard) against IT professionals since May 2026.
+  - CERT-UA documented similar fake-job-offer tactics used by Sandworm/APT44 (Seashell Blizzard) against IT professionals since May 2026.
 - Microsoft released a patch for CVE-2026-68820 on August 11, 2026 (Patch Tuesday).
 
 ## Timeline
@@ -83,15 +83,15 @@ The campaign runs two parallel infection chains that lead to multiple backdoors 
 ## Impact
 
 - Targeted organizations in the defense sector were subject to credential theft, multi-stage malware delivery, privilege escalation to SYSTEM and rootkit deployment (FudModule).
-- Use of trojanized vendor-like sites and search‑result impersonation increased the campaign's reach and likelihood of successful installs of malicious viewers (SecurityPDF).
+- Use of trojanized vendor like sites and search-result impersonation increased the campaign's reach and likelihood of successful installs of malicious viewers (SecurityPDF).
 - Compromised webmail and web servers used as C2 relays expanded the attackers' ability to persist and move data.
 
 ## Technical context
 
-- DLL sideloading: Chain 1 uses a legitimate digitally signed PDF viewer executable to load a malicious libmupdf.dll via DLL sideloading, enabling an in‑memory payload that runs MISTPEN.
+- DLL sideloading: Chain 1 uses a legitimate digitally signed PDF viewer executable to load a malicious libmupdf.dll via DLL sideloading, enabling an in-memory payload that runs MISTPEN.
 - In-memory techniques: MISTPEN operates as an in-memory downloader, reducing disk artifacts.
 - Privilege escalation: CVE-2026-68820 (Windows AFD.sys) is exploited to obtain SYSTEM privileges and deploy the FudModule rootkit.
-- Supply‑chain/impersonation tactics: Chain 2 distributed SecurityPDF via at least three Enveil-impersonating websites; victims were steered to vendor-like sites to install the viewer.
+- Supply-chain/impersonation tactics: Chain 2 distributed SecurityPDF via at least three Enveil-impersonating websites; victims were steered to vendor like sites to install the viewer.
 - C2 relay abuse: Compromised Roundcube instances and other vulnerable web servers (CVE-2025-49113) were used to relay command-and-control traffic; RelayShell PHP web shell was observed.
 
 ## Update history
@@ -105,7 +105,7 @@ Source: Help Net Security reporting on Check Point research
 
 ## Conclusion
 
-Operation Dream Job demonstrates continued use of social engineering (fake job offers) combined with technical advances (DLL sideloading, in-memory loaders, and a Windows zero‑day) to compromise targets in the defense sector. Check Point assesses the campaign reflects evolving Lazarus tradecraft and recommends organizations validate vendor downloads, monitor for signs of DLL sideloading and in-memory loaders, and apply the Microsoft patch for CVE-2026-68820.
+Operation Dream Job demonstrates continued use of social engineering (fake job offers) combined with technical advances (DLL sideloading, in-memory loaders, and a Windows zero-day) to compromise targets in the defense sector. Check Point assesses the campaign reflects evolving Lazarus tradecraft and recommends organizations validate vendor downloads, monitor for signs of DLL sideloading and in-memory loaders, and apply the Microsoft patch for CVE-2026-68820.
 
 <script setup lang="ts">
 import SocialShare from "@SocialShare";
