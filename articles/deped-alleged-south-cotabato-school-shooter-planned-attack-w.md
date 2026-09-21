@@ -52,24 +52,15 @@ While the core facts of the incident are well-established, the date, casualty co
 
 *This article synthesizes verified facts from reputable news sources covering the South Cotabato school shooting incident. All claims are grounded in the provided evidence set, and no speculative elements beyond the documented narrative are presented.*
 
-VERIFIED FACTS (for reference, do not contradict):
-- [high] The shooting occurred on September 18, 2026
-- [high] Three students were killed and eight were wounded in the incident
-- [high] The suspected shooter was a 16-year-old Grade 9 student
-- [high] The firearm used was allegedly owned by the suspect's father, a Department of Education employee
-- [medium] The attack was initially planned for September 3 but was not carried out
-
-TOPIC: DepEd: Alleged South Cotabato school shooter planned attack weeks back, exploited security gap
-KEYWORDS: school, attack, incident, planned, shooting, banga, deped, shooter, weeks, security, student, national, high, wounded, before, department, education, south, cotabato, exploited
 ## References
 
-1. <a id="ref-1"></a>[DepEd: Alleged South Cotabato school shooter planned attack weeks back, exploited security gap](https://www.abs-cbn.com/news/regions/2026/9/21/deped-south-cotabato-school-shooter-planned-attack-weeks-back-exploited-security-gap-0956) - abs-cbn.com
-2. <a id="ref-2"></a>[Banga National High School Shooter Told Friends to Go Home Before Attack](https://philnews.ph/2026/09/19/banga-national-high-school-shooter-told-friends-to-go-home-before-attack/) - philnews.ph
-3. <a id="ref-3"></a>[At least 3 dead, 8 wounded in South Cotabato school shooting](https://www.rappler.com/philippines/mindanao/school-shooting-banga-south-cotabato-september-18-2026/) - rappler.com
-4. <a id="ref-4"></a>[Campus shooter who killed 3 in southern Philippines had planned attack, warned classmates: Mayor](https://www.straitstimes.com/asia/se-asia/campus-shooter-that-killed-3-in-southern-philippines-had-planned-attack-warned-classmates-mayor) - straitstimes.com
-5. <a id="ref-5"></a>[Banga school shooting leaves 3 dead, 8 wounded](https://mindanaogoldstardaily.com/banga-school-shooting-leaves-3-dead-8-wounded) - mindanaogoldstardaily.com
-6. <a id="ref-6"></a>[3 students killed in Philippine school shooting, including gunman](https://www.scmp.com/news/asia/southeast-asia/article/3367979/philippine-police-report-injuries-high-school-shooting) - scmp.com
-7. <a id="ref-7"></a>[PNP backs school safety task force with DepED, DILG after South Cotabato school shooting](https://gulfnews.com/world/asia/philippines/pnp-backs-school-safety-task-force-with-deped-dilg-after-south-cotabato-school-shooting-1.500681181) - gulfnews.com
+1. <a id="ref-1"></a>[DepEd: Alleged South Cotabato school shooter planned attack weeks back, exploited security gap](https://www.abs-cbn.com/news/regions/2026/9/21/deped-south-cotabato-school-shooter-planned-attack-weeks-back-exploited-security-gap-0956), abs-cbn.com
+2. <a id="ref-2"></a>[Banga National High School Shooter Told Friends to Go Home Before Attack](https://philnews.ph/2026/09/19/banga-national-high-school-shooter-told-friends-to-go-home-before-attack/), philnews.ph
+3. <a id="ref-3"></a>[At least 3 dead, 8 wounded in South Cotabato school shooting](https://www.rappler.com/philippines/mindanao/school-shooting-banga-south-cotabato-september-18-2026/), rappler.com
+4. <a id="ref-4"></a>[Campus shooter who killed 3 in southern Philippines had planned attack, warned classmates: Mayor](https://www.straitstimes.com/asia/se-asia/campus-shooter-that-killed-3-in-southern-philippines-had-planned-attack-warned-classmates-mayor), straitstimes.com
+5. <a id="ref-5"></a>[Banga school shooting leaves 3 dead, 8 wounded](https://mindanaogoldstardaily.com/banga-school-shooting-leaves-3-dead-8-wounded), mindanaogoldstardaily.com
+6. <a id="ref-6"></a>[3 students killed in Philippine school shooting, including gunman](https://www.scmp.com/news/asia/southeast-asia/article/3367979/philippine-police-report-injuries-high-school-shooting), scmp.com
+7. <a id="ref-7"></a>[PNP backs school safety task force with DepED, DILG after South Cotabato school shooting](https://gulfnews.com/world/asia/philippines/pnp-backs-school-safety-task-force-with-deped-dilg-after-south-cotabato-school-shooting-1.500681181), gulfnews.com
 
 
 <script type="application/ld+json">
