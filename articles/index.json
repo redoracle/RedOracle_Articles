@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:1ad8fe7b82c5479fea728686196929552d2f1b2bde54af763cfc7523de08584c",
-  "total": 410,
+  "revision": "sha256:0976a254e1c8ec1d7841b70079afe2899a3c89c2d7885c9f282b94bdb905c744",
+  "total": 411,
   "articles": [
+    {
+      "slug": "anthropic-linked-cves-pile-up-attackers-mostly-shrug",
+      "file": "anthropic-linked-cves-pile-up-attackers-mostly-shrug.md",
+      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "description": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "date": "2026-09-22",
+      "id": "anthropic-linked-cves-pile-up-attackers-mostly-shrug-2026-09-22",
+      "categories": [],
+      "tags": [
+        "cves",
+        "anthropic",
+        "linked",
+        "glasswing",
+        "confirmed",
+        "exploitation",
+        "wild",
+        "attackers",
+        "exploited",
+        "2026"
+      ],
+      "url": "https://redoracle.com/News/anthropic-linked-cves-pile-up-attackers-mostly-shrug.html",
+      "image": "https://storage.googleapis.com/red_articles/anthropic-linked-cves-pile-up-attackers-mostly-shrug.avif",
+      "searchText": "Anthropic-linked CVEs pile up, attackers mostly shrug Anthropic-linked CVEs pile up, attackers mostly shrug At a glance Anthropic-linked CVEs have been piling up, but attackers have mostly shrugged them off. According to VulnCheck security researcher Patrick Garrity, only 1% of AI-discovered vulnerabilities are exploited in the wild. This is despite the fact that Anthropic's Project Glasswing has discovered 225 CVEs, including a critical SQL injection bug in Ghost (CVE-2026-26980). Affected systems The vulnerabilities discovered by Anthropic's Project Glasswing affect a wide range of systems, including: - Ghost - WordPress - Drupal - Joomla - Magento - Shopify Vulnerability details The critical SQL injection bug in Ghost (CVE-2026-26980) is one of the most severe vulnerabilities discovered by Project Glasswing. This bug allows an attacker to inject malicious SQL code into a database, potentially leading to data theft or manipulation. Exploitation status Despite the severity of the vulnerabilities discovered by Project Glasswing, only 1% of them have been exploited in the wild. This is likely due to the fact that many of the vulnerabilities are difficult to exploit or require specific conditions to be met. Mitigation and detection To mitigate and detect the vulnerabilities discovered by Project Glasswing, organizations can use AI models like Mythos. Mythos is a powerful AI model that can identify and fix vulnerabilities in code. It can also be used to detect vulnerabilities in real-time, allowing organizations to respond quickly to potential threats. In conclusion, while Anthropic-linked CVEs have been piling up, attackers have mostly shrugged them off. This is likely due to the fact that many of the vulnerabilities are difficult to exploit or require specific conditions to be met. However, organizations should still take steps to mitigate and detect these vulnerabilities, such as using AI models like Mythos. References 1. Anthropic-linked CVEs pile up, attackers mostly shrug, theregister.com 2. Anthropic-Linked CVEs Draw Little Confirmed Exploitation, letsdatascience.com 3. Just 1% of AI-Discovered Vulnerabilities Exploited in the Wild, Research Shows, infosecurity-magazine.com 4. Payward, Inc.: Payward Joins Anthropic's Project Glasswing, finanznachrichten.de 5. May 2026 Patch Tuesday forecast: AI starts driving security industry changes, helpnetsecurity.com 6. Mythos Vulnerability Firehose Hits a Human Bottleneck, darkreading.com 7. Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook, venturebeat.com 8. Tanium Joins Anthropic's Project Glasswing, finanznachrichten.de 9. Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative, techcrunch.com",
+      "readingTime": 2,
+      "contentHash": "sha256:f020f9220b6b02a5f78380460174b874574ad849ec8d955cec88890d5beddf7c"
+    },
     {
       "slug": "deped-alleged-south-cotabato-school-shooter-planned-attack-w",
       "file": "deped-alleged-south-cotabato-school-shooter-planned-attack-w.md",
