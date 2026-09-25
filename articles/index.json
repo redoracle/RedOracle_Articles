@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:4fa4f1afad4868793008237ca59023be463214f01cc7bcaeb14e95df63143970",
-  "total": 414,
+  "revision": "sha256:5428a32eb71b7fdbd7305a3e1e011243a2e0b18d0ce43ebb60db4e5683426bdd",
+  "total": 415,
   "articles": [
+    {
+      "slug": "hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks",
+      "file": "hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks.md",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "description": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "date": "2026-09-25",
+      "id": "hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks-2026-09-25",
+      "categories": [],
+      "tags": [
+        "roundcube",
+        "injection",
+        "webmail",
+        "exploited",
+        "2026",
+        "vulnerability",
+        "wild",
+        "48842",
+        "hackers",
+        "exploit"
+      ],
+      "url": "https://redoracle.com/News/hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks.html",
+      "image": "https://storage.googleapis.com/red_articles/hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks.avif",
+      "searchText": "Hackers now exploit critical Roundcube flaw in code injection attacks Hackers now exploit critical Roundcube flaw in code injection attacks At a glance Roundcube Webmail SQL Injection vulnerability CVE-2026-48842 is being actively exploited in the wild [1][2][3]. This critical flaw impacts the widely used Roundcube Webmail platform, affecting millions of users [1]. Attackers can manipulate database queries before successfully logging in to the webmail application [2]. The issue is classified as a pre authentication SQL injection flaw within Roundcube's virtuser query plugin [2]. What happened Since May 2026, Roundcube Webmail has released security advisories addressing multiple vulnerabilities in its open-source platform [2]. Affected releases include versions prior to 1.6.16 in the long-term support branch and versions prior to 1.7.1 in the newer release branch [2]. On September 21, 2026, the Canadian Centre for Cyber Security published advisory AV26-503, noting that attackers were actively exploiting CVE-2026-48842 [2]. The flaw's pre authentication nature means adversaries do not require valid user credentials to initiate an attack [2]. This characteristic heightens urgency for organizations running internet facing email systems [2]. Why it matters The vulnerability enables attackers to interfere with database operations and access sensitive data that must remain protected [2]. Internet facing email platforms represent high-value targets because compromises can expose user identities, messages, address books, authentication workflows, and administrative capabilities [2]. Public exploitation also raises the risk of opportunistic actors scanning the internet for unpatched Roundcube instances [2]. Technical details While no confirmed technical findings have been publicly reported, the vulnerability is believed to stem from a bypass involving backslash escaping in the PHP preg replace function [2]. Attackers can craft specially designed input to manipulate database queries before completing login to the webmail application [2]. What defenders should do Organizations should protect their webmail servers by applying the latest Roundcube Webmail updates or by disabling or removing the virtuser query plugin [1][2][4]. What remains unknown Currently, it is unknown how many Roundcube instances have been compromised by these attacks and how many remain vulnerable [1][2][5]. [1] Hackers now exploit critical Roundcube flaw in code injection attacks, bleepingcomputer.com [2] Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild, cybersecuritynews.com [3] Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication, cyberpress.org [4] Self-Hosted Roundcube Gets Emergency Fix Against No-Login IMAP Attacks, techtimes.com [5] CISA Confirms Gitea CVE-2026-60004 Exploited: Cryptominer Hits 5,000 Exposed Dev Servers, techtimes.com References 1. Hackers now exploit critical Roundcube flaw in code injection attacks, bleepingcomputer.com 2. Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild, cybersecuritynews.com 3. Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication, cyberpress.org 4. Self-Hosted Roundcube Gets Emergency Fix Against No-Login IMAP Attacks, techtimes.com 5. CISA Confirms Gitea CVE-2026-60004 Exploited: Cryptominer Hits 5,000 Exposed Dev Servers, techtimes.com",
+      "readingTime": 2,
+      "contentHash": "sha256:8676bfd9e53ce8cdf944d211e35b2c504a46c335fec9441d1b4269ce9321e071"
+    },
     {
       "slug": "shinyhunters-claims-fbi-hack-via-peoplesoft-zero-day",
       "file": "shinyhunters-claims-fbi-hack-via-peoplesoft-zero-day.md",
