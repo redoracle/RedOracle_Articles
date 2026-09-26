@@ -78,7 +78,7 @@ Malaysia recently faced a significant cybersecurity incident that targeted its a
 ## Broader Context of Cybersecurity in Southeast Asia
 
 - **Who:** Regional governments and cybersecurity agencies
-- **What:** Increasingly targeted by cybercriminals and state-sponsored actors
+- **What:** Increasingly targeted by cybercriminals and state sponsored actors
 - **When:** Trends observed over the past few years
 - **Where:** Southeast Asia, including Malaysia, Indonesia, and the Philippines
 - **Why:** Due to the rapid digital transformation and reliance on technology

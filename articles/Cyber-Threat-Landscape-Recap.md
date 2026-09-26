@@ -57,7 +57,7 @@ In this Cyber Threat Landscape Recap, we delve into the latest developments in A
 
 - **Emerging Threats:** Social Media and APT Campaigns
   - Threat actors are leveraging AI-generated TikTok videos to distribute malware, indicating a shift towards exploiting popular social media platforms.
-  - APT28, a Russian state-sponsored group, has been targeting Western logistics and tech firms with cyber espionage tactics.
+  - APT28, a Russian state sponsored group, has been targeting Western logistics and tech firms with cyber espionage tactics.
 
 - **Exploitation of Vulnerabilities by Chinese Threat Actors**
   - The UNC5221 group exploited security flaws in Ivanti Endpoint Manager Mobile software, impacting various sectors globally.

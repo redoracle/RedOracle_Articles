@@ -77,7 +77,7 @@ This article titled “Edge Router Breach TP-Link Flaws Threaten Microsoft 365 A
 - The discovery of vulnerabilities in certain TP-Link router firmware raises concern that botnets could exploit compromised routers to target Microsoft 365 accounts.
 - Compromised edge routers can observe, manipulate, or redirect traffic to cloud services, increasing the likelihood of credential or token exposure for M365 users.
 - Timely firmware patching and stronger router security configurations are the primary mitigations emphasized by researchers and observers.
-- The risk is global and affects home and small office networks that rely on consumer-grade routers as access points to cloud resources.
+- The risk is global and affects home and small office networks that rely on consumer grade routers as access points to cloud resources.
 
 ## What happened and why it matters
 

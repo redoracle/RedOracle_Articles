@@ -49,17 +49,17 @@ head:
 
 ## Introduction
 
-In a recent discovery by the Trend Zero Day Initiative (ZDI), a critical vulnerability in Windows .lnk files, identified as ZDI-CAN-25373, has been exploited by various state-sponsored and cybercriminal groups. This exploit allows attackers to execute hidden commands on victims' machines, posing a significant threat to organizations globally.
+In a recent discovery by the Trend Zero Day Initiative (ZDI), a critical vulnerability in Windows .lnk files, identified as ZDI-CAN-25373, has been exploited by various state sponsored and cybercriminal groups. This exploit allows attackers to execute hidden commands on victims' machines, posing a significant threat to organizations globally.
 
 ## Exploitation Overview
 
 - ZDI-CAN-25373 enables attackers to execute concealed commands through .lnk files, making detection challenging.
-- State-sponsored APT groups from North Korea, Iran, Russia, and China have been linked to the exploitation.
+- State sponsored APT groups from North Korea, Iran, Russia, and China have been linked to the exploitation.
 - Organizations across sectors like government, finance, telecommunications, military, and energy are at risk, indicating a widespread threat landscape.
 
 ## APT Group Involvement
 
-- The ZDI threat hunting team has identified 11 state-sponsored groups exploiting the vulnerability.
+- The ZDI threat hunting team has identified 11 state sponsored groups exploiting the vulnerability.
 - Approximately 70% of these attacks are driven by espionage and information theft.
 - Notably, North Korean APT groups are actively targeting ZDI-CAN-25373, showcasing collaboration among cyber actors.
 

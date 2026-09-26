@@ -63,7 +63,7 @@ In a significant move to bolster its cybersecurity framework, Japan has enacted 
 
 ## Insights & Analysis
 
-The legislative shift towards active cyber defense strategies reflects Japan's response to escalating cyber threats, particularly from state-sponsored actors. By empowering the JSDF and police to engage in cyber operations, Japan aims to strengthen its cybersecurity posture and protect critical infrastructure. The emphasis on public-private cooperation and the establishment of oversight mechanisms underscores Japan's commitment to addressing cybersecurity challenges proactively.
+The legislative shift towards active cyber defense strategies reflects Japan's response to escalating cyber threats, particularly from state sponsored actors. By empowering the JSDF and police to engage in cyber operations, Japan aims to strengthen its cybersecurity posture and protect critical infrastructure. The emphasis on public-private cooperation and the establishment of oversight mechanisms underscores Japan's commitment to addressing cybersecurity challenges proactively.
 
 ## Impact
 

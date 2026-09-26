@@ -8,10 +8,10 @@ schema-type: "NewsArticle"
 
 ![Anthropic-linked CVEs pile up, attackers mostly shrug](https://storage.googleapis.com/red_articles/anthropic-linked-cves-pile-up-attackers-mostly-shrug.avif)
 
-# Anthropic-linked CVEs pile up, attackers mostly shrug
+# Anthropic linked CVEs pile up, attackers mostly shrug
 
 ## At a glance
-Anthropic-linked CVEs have been piling up, but attackers have mostly shrugged them off. According to VulnCheck security researcher Patrick Garrity, only 1% of AI-discovered vulnerabilities are exploited in the wild. This is despite the fact that Anthropic's Project Glasswing has discovered 225 CVEs, including a critical SQL injection bug in Ghost ([CVE-2026-26980](https://www.cve.org/CVERecord?id=CVE-2026-26980)).
+Anthropic linked CVEs have been piling up, but attackers have mostly shrugged them off. According to VulnCheck security researcher Patrick Garrity, only 1% of AI-discovered vulnerabilities are exploited in the wild. This is despite the fact that Anthropic's Project Glasswing has discovered 225 CVEs, including a critical SQL injection bug in Ghost ([CVE-2026-26980](https://www.cve.org/CVERecord?id=CVE-2026-26980)).
 
 ## Affected systems
 The vulnerabilities discovered by Anthropic's Project Glasswing affect a wide range of systems, including:
@@ -31,7 +31,7 @@ Despite the severity of the vulnerabilities discovered by Project Glasswing, onl
 ## Mitigation and detection
 To mitigate and detect the vulnerabilities discovered by Project Glasswing, organizations can use AI models like Mythos. Mythos is a powerful AI model that can identify and fix vulnerabilities in code. It can also be used to detect vulnerabilities in real-time, allowing organizations to respond quickly to potential threats.
 
-In conclusion, while Anthropic-linked CVEs have been piling up, attackers have mostly shrugged them off. This is likely due to the fact that many of the vulnerabilities are difficult to exploit or require specific conditions to be met. However, organizations should still take steps to mitigate and detect these vulnerabilities, such as using AI models like Mythos.
+In conclusion, while Anthropic linked CVEs have been piling up, attackers have mostly shrugged them off. This is likely due to the fact that many of the vulnerabilities are difficult to exploit or require specific conditions to be met. However, organizations should still take steps to mitigate and detect these vulnerabilities, such as using AI models like Mythos.
 ## References
 
 1. <a id="ref-1"></a>[Anthropic-linked CVEs pile up, attackers mostly shrug](https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018), theregister.com
@@ -49,7 +49,7 @@ In conclusion, while Anthropic-linked CVEs have been piling up, attackers have m
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+  "headline": "Anthropic linked CVEs pile up, attackers mostly shrug",
   "datePublished": "2026-09-22",
   "author": {
     "@type": "Organization",

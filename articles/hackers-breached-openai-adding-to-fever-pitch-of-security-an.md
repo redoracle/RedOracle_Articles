@@ -32,7 +32,7 @@ At the heart of the exploit lay a textbook case of chained vulnerability exploit
 
 ## Key Facts
 
-The breach was carried out by Indian security researchers Harsh Jaiswal, Mohan Pedhapati, and Rahul Maini, who achieved enterprise-grade access to OpenAI's infrastructure. A **$6,500 ($6.27 lakh) bounty** was awarded by OpenAI for disclosing both the heap overflow and SSO vulnerabilities.
+The breach was carried out by Indian security researchers Harsh Jaiswal, Mohan Pedhapati, and Rahul Maini, who achieved enterprise grade access to OpenAI's infrastructure. A **$6,500 ($6.27 lakh) bounty** was awarded by OpenAI for disclosing both the heap overflow and SSO vulnerabilities.
 
 OpenAI addressed the SSO issue approximately 14 hours after the initial vulnerability disclosure, demonstrating rapid response capability. The attack showcased sophisticated chaining of multiple vulnerabilities (a heap overflow paired with an authentication flaw) that highlights systemic weaknesses in cloud based AI platforms.
 

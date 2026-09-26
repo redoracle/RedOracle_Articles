@@ -56,7 +56,7 @@ In response to escalating cybersecurity threats, DEF CON hackers have launched t
 - **What:** Franklin Project initiative to provide free cybersecurity services to US water utilities
 - **When:** Launched in August 2024, with rapid expansion as of August 2025
 - **Where:** Initial locations in Indiana, Oregon, Utah, and Vermont
-- **Why:** Addressing increased cyber threats from state-sponsored actors targeting critical infrastructure
+- **Why:** Addressing increased cyber threats from state sponsored actors targeting critical infrastructure
 - **How:** Deploying volunteers for cybersecurity assessments, training on best practices, and implementing security measures
 
 ## Insights & Analysis

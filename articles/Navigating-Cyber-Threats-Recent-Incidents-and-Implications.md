@@ -51,7 +51,7 @@ Recent incidents in the cybersecurity landscape have brought to light various th
 
 ## Key Highlights
 
-- **Hack of Powerful US Law Firm Linked to China:** Wiley Rein, a Washington DC law firm, reported a breach of its Microsoft 365 email accounts, believed to be orchestrated by a Chinese state-sponsored threat actor.
+- **Hack of Powerful US Law Firm Linked to China:** Wiley Rein, a Washington DC law firm, reported a breach of its Microsoft 365 email accounts, believed to be orchestrated by a Chinese state sponsored threat actor.
   
 - **Italian Police Target Diskstation Ransomware Group:** Authorities identified members of the Diskstation ransomware group, with Romanian nationals suspected of involvement in targeting Synology NAS devices.
   
@@ -65,13 +65,13 @@ Recent incidents in the cybersecurity landscape have brought to light various th
   
 - **Lawmakers Examine Stuxnet Attack to Enhance OT Security:** The House Homeland Security Subcommittee is focusing on the Stuxnet malware attack to improve critical infrastructure security.
   
-- **Chinese Attacks on Taiwan Semiconductor Industry Increase:** Suspected Chinese state-sponsored actors are targeting Taiwan's semiconductor industry, reflecting strategic priorities.
+- **Chinese Attacks on Taiwan Semiconductor Industry Increase:** Suspected Chinese state sponsored actors are targeting Taiwan's semiconductor industry, reflecting strategic priorities.
   
 - **Cybercriminals Bypass FIDO Keys in Phishing Attack:** The PoisonSeed group developed a technique to bypass FIDO physical security keys, exploiting cross-device sign-in features.
 
 ## Insights & Analysis
 
-The incidents underscore the persistent challenges in cybersecurity, particularly concerning state-sponsored threats, software vulnerabilities, and the importance of robust security practices. The increasing sophistication of cyberattacks, especially those linked to nation-state actors, emphasizes the critical need for enhanced cybersecurity measures and international cooperation.
+The incidents underscore the persistent challenges in cybersecurity, particularly concerning state sponsored threats, software vulnerabilities, and the importance of robust security practices. The increasing sophistication of cyberattacks, especially those linked to nation-state actors, emphasizes the critical need for enhanced cybersecurity measures and international cooperation.
 
 ## Impact
 

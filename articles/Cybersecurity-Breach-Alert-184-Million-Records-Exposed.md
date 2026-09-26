@@ -58,7 +58,7 @@ A mysterious database containing 184 million records has been uncovered, exposin
 
 ## Insights & Analysis
 
-Jeremiah Fowler's discovery of the database in early May 2025 revealed the alarming extent of exposed login credentials, indicating a significant data breach. The presence of government-linked accounts raises concerns about national security implications and the potential misuse of the data by cybercriminals. The response from World Host Group to secure the database underscores the importance of swift action in mitigating data breaches. Fowler's speculation about the data compilation process highlights the ongoing risks associated with infostealer malware and the need for robust cybersecurity measures.
+Jeremiah Fowler's discovery of the database in early May 2025 revealed the alarming extent of exposed login credentials, indicating a significant data breach. The presence of government linked accounts raises concerns about national security implications and the potential misuse of the data by cybercriminals. The response from World Host Group to secure the database underscores the importance of swift action in mitigating data breaches. Fowler's speculation about the data compilation process highlights the ongoing risks associated with infostealer malware and the need for robust cybersecurity measures.
 
 ## Impact
 

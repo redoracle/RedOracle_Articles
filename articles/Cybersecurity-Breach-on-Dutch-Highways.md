@@ -60,7 +60,7 @@ Russian hackers have successfully compromised speed camera systems in the Nether
 
 ## Insights & Analysis
 
-- **Who:** The attackers are identified as Russian hackers, likely state-sponsored, targeting Dutch infrastructure.
+- **Who:** The attackers are identified as Russian hackers, likely state sponsored, targeting Dutch infrastructure.
 - **What:** The hackers compromised speed camera systems, effectively turning them into 'dead zones' where traffic violations go unmonitored.
 - **When:** The attack was reported in early October 2023, amidst rising concerns over cybersecurity in Europe.
 - **Where:** The incident occurred on highways across the Netherlands, impacting traffic enforcement mechanisms.

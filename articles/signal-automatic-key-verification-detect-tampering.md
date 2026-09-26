@@ -64,7 +64,7 @@ On 2026-08-12 Signal released/announced automatic key verification, a cryptograp
 
 ## Timeline
 
-- 2026-05, Signal added new protections after Russian state-sponsored hackers targeted high-profile accounts with fake "Signal Support" alerts.  
+- 2026-05, Signal added new protections after Russian state sponsored hackers targeted high-profile accounts with fake "Signal Support" alerts.  
 - 2026-08-12, Release/announcement of automatic key verification.
 
 ## Impact

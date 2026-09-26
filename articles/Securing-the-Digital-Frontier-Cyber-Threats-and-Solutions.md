@@ -25,7 +25,7 @@ In today's interconnected digital world, cybersecurity plays a crucial role in s
 
 - **Individuals**: Often targeted through phishing attacks, malware, and identity theft, with reports indicating that personal data is the focus of 30% of all cyber incidents.
 - **Businesses and Corporations**: Face data breaches and ransomware attacks, leading to substantial financial losses, with the average cost of a data breach for businesses estimated at around $4 million.
-- **Government Entities**: Encounter state-sponsored cyberattacks that compromise national security and sensitive data, highlighting the need for robust cybersecurity measures.
+- **Government Entities**: Encounter state sponsored cyberattacks that compromise national security and sensitive data, highlighting the need for robust cybersecurity measures.
 
 ## What are the Main Types of Cyber Threats?
 

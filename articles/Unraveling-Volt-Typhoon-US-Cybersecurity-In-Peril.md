@@ -64,7 +64,7 @@ The uncertainty surrounding the Volt Typhoon hackers' intentions, coupled with t
 
 ## Impact
 
-The ongoing investigation into Volt Typhoon's activities emphasizes the critical need to bolster defenses against state-sponsored hacking groups. With the potential for severe consequences on national security, the urgency of addressing cybersecurity threats from foreign actors cannot be overstated. The continuity of concern across administrations underscores the persistent threat posed by these malicious entities.
+The ongoing investigation into Volt Typhoon's activities emphasizes the critical need to bolster defenses against state sponsored hacking groups. With the potential for severe consequences on national security, the urgency of addressing cybersecurity threats from foreign actors cannot be overstated. The continuity of concern across administrations underscores the persistent threat posed by these malicious entities.
 
 ## Conclusion
 

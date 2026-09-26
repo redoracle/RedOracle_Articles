@@ -43,7 +43,7 @@ In an era where digital threats are rampant, the landscape of cybersecurity is c
 
 ### Thematic Analysis
 
-- **Increasing Tactics of Cybercriminals:** Advanced persistent threats (APTs) are on the rise, with state-sponsored actors engaging in targeted phishing campaigns to obtain strategic data.
+- **Increasing Tactics of Cybercriminals:** Advanced persistent threats (APTs) are on the rise, with state sponsored actors engaging in targeted phishing campaigns to obtain strategic data.
   - [Read more](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-phishes-kazakh-govt-strategic-intel)
   
 - **Ransomware Resurgence:** Healthcare infrastructures are increasingly targeted by ransomware attacks, emphasizing the critical need for improved cybersecurity measures in sensitive sectors.

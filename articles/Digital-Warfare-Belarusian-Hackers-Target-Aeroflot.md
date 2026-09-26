@@ -75,7 +75,7 @@ The incident underscores the escalating cyber warfare dynamics between Ukraine a
 
 ## Impact
 
-The cyberattack on Aeroflot not only exposes the vulnerabilities in Russian cybersecurity but also signifies a paradigm shift in how non-state actors leverage hacktivism to challenge state-sponsored aggression. As the digital conflict intensifies, the implications for military logistics and national security are profound, necessitating a reevaluation of cybersecurity strategies and defense mechanisms.
+The cyberattack on Aeroflot not only exposes the vulnerabilities in Russian cybersecurity but also signifies a paradigm shift in how non-state actors leverage hacktivism to challenge state sponsored aggression. As the digital conflict intensifies, the implications for military logistics and national security are profound, necessitating a reevaluation of cybersecurity strategies and defense mechanisms.
 
 ## Conclusion
 

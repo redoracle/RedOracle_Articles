@@ -53,7 +53,7 @@ Deep Algorithm Solutions, a Mumbai based cybersecurity and AI startup, has secur
 
 - **Company Background:** Deep Algorithm Solutions was founded by JP Mishra in December 2021, specializing in cybersecurity and artificial intelligence with a focus on fraud prevention.
 - **Funding Details:** The seed funding round amounted to Rs 10.8 crore, with Unicorn India Ventures leading the investment and participation from various angel investors.
-- **Business Model:** The startup operates on a B2B model, offering enterprise-grade security products like adapIDAI and BotShield.
+- **Business Model:** The startup operates on a B2B model, offering enterprise grade security products like adapIDAI and BotShield.
 - **Market Position:** Deep Algorithm primarily serves the BFSI sector and high-risk digital ecosystems, with successful deployments in major organizations.
 - **Future Plans:** The company aims to expand its sales presence in key hubs like Mumbai and Bengaluru and is exploring international markets in Kenya, South Africa, and the UAE.
 

@@ -47,7 +47,7 @@ head:
 
 ## Introduction
 
-Chinese state-sponsored hackers, known as Salt Typhoon, have set their sights on Canadian telecommunications companies, posing a significant threat to national security. The recent cyberattacks have raised concerns about espionage activities and the vulnerabilities within critical infrastructure.
+Chinese state sponsored hackers, known as Salt Typhoon, have set their sights on Canadian telecommunications companies, posing a significant threat to national security. The recent cyberattacks have raised concerns about espionage activities and the vulnerabilities within critical infrastructure.
 
 ## Key Highlights
 
@@ -60,7 +60,7 @@ Chinese state-sponsored hackers, known as Salt Typhoon, have set their sights on
 
 ## Insights & Analysis
 
-The ongoing threat from state-sponsored hackers like Salt Typhoon underscores the critical need for robust cybersecurity measures in the telecommunications sector. The exploitation of known vulnerabilities highlights the importance of timely patching and monitoring to prevent unauthorized access.
+The ongoing threat from state sponsored hackers like Salt Typhoon underscores the critical need for robust cybersecurity measures in the telecommunications sector. The exploitation of known vulnerabilities highlights the importance of timely patching and monitoring to prevent unauthorized access.
 
 ### Timeline
 - Warning issued by Canadian Centre for Cyber Security and FBI.
@@ -69,7 +69,7 @@ The ongoing threat from state-sponsored hackers like Salt Typhoon underscores th
 ### Stakeholders
 - **Canadian Centre for Cyber Security:** National cybersecurity agency providing warnings and insights on cyber threats.
 - **FBI:** U.S. federal agency collaborating with Canadian authorities to address cybersecurity threats.
-- **Salt Typhoon:** Chinese state-sponsored hacking group known for espionage activities targeting telecom firms.
+- **Salt Typhoon:** Chinese state sponsored hacking group known for espionage activities targeting telecom firms.
 - **Viasat:** U.S. communications company that reported unauthorized access linked to Salt Typhoon.
 
 ## Impact
@@ -78,7 +78,7 @@ The targeting of Canadian telecom firms by Salt Typhoon highlights the vulnerabi
 
 ## Conclusion
 
-The cyber threats posed by Salt Typhoon targeting Canadian telecom companies serve as a stark reminder of the evolving landscape of state-sponsored cyber espionage. It is imperative for organizations to prioritize cybersecurity measures to safeguard sensitive information and mitigate risks associated with sophisticated attacks. Stay informed and vigilant in the face of escalating cyber threats.
+The cyber threats posed by Salt Typhoon targeting Canadian telecom companies serve as a stark reminder of the evolving landscape of state sponsored cyber espionage. It is imperative for organizations to prioritize cybersecurity measures to safeguard sensitive information and mitigate risks associated with sophisticated attacks. Stay informed and vigilant in the face of escalating cyber threats.
 
 
 
