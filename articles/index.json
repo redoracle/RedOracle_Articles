@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:9490bba25695f89694d7285b193d5f88677a21daa21a9ea71636a9505100f19c",
-  "total": 440,
+  "revision": "sha256:7b5dc30d57604469a49e3ff73d3c679297d1a76e2c290414b1bc3ff87b8b3c22",
+  "total": 441,
   "articles": [
+    {
+      "slug": "the-fbi-has-seized-tools-used-by-chinese-hackers-for-cyber-operations",
+      "file": "the-fbi-has-seized-tools-used-by-chinese-hackers-for-cyber-operations.md",
+      "title": "The FBI has seized tools used by Chinese hackers for cyber operations, officials say",
+      "description": "The FBI has seized tools used by Chinese hackers for cyber operations, officials say",
+      "date": "2026-10-09",
+      "id": "the-fbi-has-seized-tools-used-by-chinese-hackers-for-cyber-operations-2026-10-09",
+      "categories": [],
+      "tags": [
+        "tools",
+        "used",
+        "chinese",
+        "hackers",
+        "cyber",
+        "operations",
+        "operation",
+        "seized",
+        "hacking",
+        "officials"
+      ],
+      "url": "https://redoracle.com/News/the-fbi-has-seized-tools-used-by-chinese-hackers-for-cyber-operations.html",
+      "image": "https://storage.googleapis.com/red_articles/the-fbi-has-seized-tools-used-by-chinese-hackers-for-cyber-operations.avif",
+      "searchText": "The FBI has seized tools used by Chinese hackers for cyber operations, officials say FBI Seizes Tools Used by Chinese Hackers for Cyber Operations: A Blow to Indiscriminate and Reckless Hacking At a glance According to reports [1-5], the FBI has seized tools, known as 'Microscan' and 'FishHub', used by Chinese hackers for cyber operations. These tools were employed to target various entities, including a U.S. power company, Japanese and Polish airports, Taiwanese universities, a multinational, nongovernmental organization, and Taiwanese critical infrastructure companies [1]. The latest operation by the FBI has rendered the tools inoperable, making it harder for China-linked hackers to target American networks [1][2]. What happened The FBI's seizure of the Chinese hacking tools came as part of an ongoing effort to disrupt the broad-based hacking campaign known as Flax Typhoon [1][2]. The tools, Microscan and FishHub, were used by the hackers to scan, phish, and hack targets [1]. Microscan was used to target entities such as power companies in the U.S., Japanese and Polish airports, Taiwanese universities, a multinational, nongovernmental organization, and Taiwanese critical infrastructure companies [1]. FishHub facilitated phishing activity, providing unauthorized access to victim networks [1]. The FBI identified Integrity Technology Group, a Chinese-based information security company, as the operator of the tools [1][2]. The FBI considers Integrity Technology Group to be the true identity of Flax Typhoon [1]. In September 2024, the FBI announced the disruption of a massive botnet associated with Flax Typhoon, which installed malicious software on over 200,000 consumer devices [2]. Why it matters The seizure of the Chinese hacking tools represents a significant blow to the hacking operation, as the tools have been rendered inoperable [1][2]. This disruption of the hacking infrastructure makes it harder for China-linked hackers to target American networks [1]. Hackers often rely on contractors and other companies to expand the reach of their cyber operations [5]. Disrupting these organizations can significantly impact the ability of hackers to carry out attacks on critical infrastructure. Technical details There are no verified technical details available beyond the mention of the tools Microscan and FishHub [1][2]. What defenders should do No concrete, actionable advice for defenders is provided in the available facts [1][2]. What remains unknown No significant unresolved technical questions are indicated by the facts [1][2]. [1] chron.com, \"The FBI has seized tools used by Chinese hackers for cyber operations, officials say\", October 8, 2026. [2] asahi.com, \"FBI seizes tools used by Chinese hackers for cyber operations\", October 9, 2026. [3] bostonherald.com, \"The FBI has seized tools used by Chinese hackers for cyber operations, officials say\", October 8, 2026. [4] bleepingcomputer.com, \"FBI disrupts Chinese hacking tools used to breach critical infrastructure\", October 8, 2026. [5] theregister.com, \"US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide\", October 8, 2026. References 1. chron.com, chron.com 2. FBI seizes tools used by Chinese hackers for cyber operations, asahi.com 3. The FBI has seized tools used by Chinese hackers for cyber operations, officials say, bostonherald.com 4. FBI disrupts Chinese hacking tools used to breach critical infrastructure, bleepingcomputer.com 5. US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide, theregister.com",
+      "readingTime": 3,
+      "contentHash": "sha256:af957dbda2dd00bd5878e170f62c0f3b6e351576df544e3aaa2e32a6c013d886"
+    },
     {
       "slug": "hackers-exploit-critical-atlassian-flaw-after-public-poc-release",
       "file": "hackers-exploit-critical-atlassian-flaw-after-public-poc-release.md",
