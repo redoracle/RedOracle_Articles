@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:948bacfe08e5507fb3b662b47b06dbbc59171abdcc8f157bbde9d267d8fcca3b",
-  "total": 445,
+  "revision": "sha256:541f2fc83338aae4330441abc77d2f5d9a700d7da3dff80b40f29fc299a5095d",
+  "total": 446,
   "articles": [
+    {
+      "slug": "hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food",
+      "file": "hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food.md",
+      "title": "Hackers turn up supermarket fridges to 50°C, threatening millions in food losses",
+      "description": "Hackers turn up supermarket fridges to 50°C, threatening millions in food losses",
+      "date": "2026-10-12",
+      "id": "hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food-2026-10-12",
+      "categories": [],
+      "tags": [
+        "supermarket",
+        "food",
+        "french",
+        "hackers",
+        "fridges",
+        "millions",
+        "losses",
+        "danfoss",
+        "refrigeration",
+        "supermarkets"
+      ],
+      "url": "https://redoracle.com/News/hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food.html",
+      "image": "https://storage.googleapis.com/red_articles/hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food.avif",
+      "searchText": "Hackers turn up supermarket fridges to 50°C, threatening millions in food losses Hackers turn up supermarket fridges to 50°C, threatening millions in food losses At a glance Hundreds of French supermarkets have fallen victim to a cyberattack that targeted refrigeration systems supplied by Danfoss, causing temperatures in some fridges to rise to 50°C [1]. The incident affected approximately 400 stores across different chains, including Intermarché, Netto, and Coopérative U [1]. Two supermarkets alone suffered losses of €270,000 in spoiled food, with potential nationwide losses reaching millions of euros [1][5]. What happened The attack, which began overnight between October 11 and October 12, involved hackers remotely altering the settings of refrigeration-control systems made by Danfoss [2][5]. These systems manage cooling equipment in supermarkets, including freezers and chilled food displays. The attackers reportedly abused the defrosting function in older control software, causing the equipment to heat instead of cool [3][5]. Specifically, hackers triggered forced defrost cycles, setting temperatures as high as 50°C [1][3]. According to French media, the compromised systems were administered by Danfoss, and the attackers targeted outdated versions of the manufacturer's control software [1][7]. The exact method of gaining access (whether through exposed remote access, compromised credentials, or unpatched vulnerabilities) remains unclear [3]. Why it matters This cyberattack highlights the significant real-world impact of insecure refrigeration controls [2]. The incident not only caused substantial financial losses due to spoiled food but also raised concerns about food safety and security [1][6]. The broader implications extend to the importance of securing IoT devices and critical infrastructure [2][5]. The attack underscores the vulnerability of modern supermarkets, where the failure of computer systems controlling everyday operations can lead to severe consequences [6]. As more retail operations become digitized, the need for robust cybersecurity measures becomes increasingly crucial [2][7]. Technical details Security researchers have previously identified multiple vulnerabilities in Danfoss and Copeland refrigeration controllers [4]. For example, Claroty discovered a hidden \"code-of-the-day\" authentication mechanism that could be exploited to bypass normal authentication and execute remote code [4]. Additionally, command-injection vulnerabilities were found in Danfoss AK-SM 8xxA controllers, allowing attackers to manipulate settings and potentially disable cooling functions [4]. Danfoss has addressed some of these vulnerabilities by releasing firmware updates for affected software releases. However, the attack highlights the importance of ensuring that all equipment is running supported and up-to-date versions [4][7]. What remains unknown While the attack's impact and the affected stores are well-documented, several aspects remain unclear. The identity of the attackers, the precise method of gaining access, and whether similar attacks could occur in other countries are all areas of ongoing investigation [1][3][6]. References 1. Hackers turn up supermarket fridges to 50°C, threatening millions in food losses, cybernews.com 2. Attackers Reportedly Hack Supermarket Fridges and Raise Temperatures to 50°C, cybersecuritynews.com 3. Hackers Heat Supermarket Fridges to 50°C in France Cyberattack, hackread.com 4. Chilling discoveries: Claroty finds multiple security vulnerabilities in Danfoss and Copeland refrigeration controllers, itwire.com 5. Hackers Cooked French Supermarket Refrigerators to 50°C, Spoiling Millions in Food, glitchwire.com 6. Supermarket cyberattack: Could Spain be next after French food losses?, euroweeklynews.com 7. Major French Supermarket Chains Hit by Cyber-Attack, Food Stock Impacted, infosecurity-magazine.com 8. French supermarkets suffer refrigerator shutdown after 'unprecedented' cyberattack, en.hespress.com",
+      "readingTime": 3,
+      "contentHash": "sha256:d2c10fad1614876fa590c297ad405dca4bfda83884c2f5cbdc4d255c637961e0"
+    },
     {
       "slug": "ransomware-negotiator-arrested-on-federal-charges-as-fbi-probes-hacking",
       "file": "ransomware-negotiator-arrested-on-federal-charges-as-fbi-probes-hacking.md",
