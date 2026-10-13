@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:541f2fc83338aae4330441abc77d2f5d9a700d7da3dff80b40f29fc299a5095d",
-  "total": 446,
+  "revision": "sha256:dadb40ae56c7d9c1408018202218e704bfeaa28749794a73c5fe8a76ce47948a",
+  "total": 447,
   "articles": [
+    {
+      "slug": "ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks",
+      "file": "ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks.md",
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "description": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "date": "2026-10-13",
+      "id": "ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks-2026-10-13",
+      "categories": [],
+      "tags": [
+        "exploited",
+        "zero",
+        "ivanti",
+        "vulnerability",
+        "connect",
+        "secure",
+        "actively",
+        "2026",
+        "attacks",
+        "cisa"
+      ],
+      "url": "https://redoracle.com/News/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks.html",
+      "image": "https://storage.googleapis.com/red_articles/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks.avif",
+      "searchText": "Ivanti warns of Connect Secure zero-day exploited in attacks Ivanti Urges Immediate Patching of Actively Exploited Zero-Day Vulnerability in Ivanti Connect Secure (CVE-2026-104935) At a glance Ivanti, a leading IT asset management solutions provider, has issued an urgent warning requiring immediate patching of an actively exploited zero-day vulnerability (CVE-2026-104935) in its Ivanti Connect Secure (ICS) remote access gateway [1]. This flaw enables remote attackers to execute arbitrary commands on targeted ICS appliances through low complexity attacks without user interaction [1][2]. The vulnerability impacts ICS versions 22.8R2.4 and earlier, 25.1.2.2 and earlier, and 25.1.1.1 and earlier [1]. What happened On October 13, 2026, Ivanti warned customers about the actively exploited zero-day vulnerability in Ivanti Connect Secure [1]. The flaw (CVE-2026-104935) was already in use by remote threat actors. Ivanti advised organizations running the affected versions to take immediate action to mitigate the associated risk [1]. Internet threat watchdog Shadowserver reported that there is no data on how many of the more than 5,500 ICS instances exposed online have been secured against this ongoing exploitation [1]. Why it matters This zero-day vulnerability in Ivanti Connect Secure (CVE-2026-104935) is significant because it is actively exploited in the wild. Ivanti's warning underscores the need for immediate patching to defend against unauthorized access and potential damage to an organization's network [1]. Technical details Two high severity vulnerabilities, CVE-2026-104935 and CVE-2026-6973, were identified in Ivanti's Endpoint Manager Mobile (EPMM) solution [3][4]. CVE-2026-104935 was the one under active exploitation in zero-day attacks, whereas CVE-2026-6973 had not been exploited yet [3][4]. Ivanti released fixes for both flaws, with the patch for CVE-2026-104935 specifically targeting the actively exploited zero-day [3]. The issue affected Ivanti EPMM versions 12.8.0.0 and earlier [3]. Notably, there are currently no reliable atomic indicators of compromise for CVE-2026-6973, which makes detection challenging [3]. What defenders should do Ivanti strongly urges customers to apply the patches as soon as possible to mitigate the risk from the zero-day vulnerability (CVE-2026-104935) in Ivanti Connect Secure [1]. Organizations should also review the security posture of their Sentry appliances concurrently with EPMM, given the strong dependency relationship [3]. Additionally, US federal civilian agencies have been directed by the Cybersecurity and Infrastructure Security Agency (CISA) to remediate the flaw within three days [5]. References 1. bleepingcomputer.com, bleepingcomputer.com 2. CISA gives feds three days to patch Ivanti flaw exploited as zero-day, bleepingcomputer.com 3. Ivanti EPMM vulnerability exploited in zero-day attacks (CVE-2026-6973), helpnetsecurity.com 4. Ivanti warns of new EPMM flaw exploited in zero-day attacks, bleepingcomputer.com 5. Ivanti Sentry Flaw Triggers CISA’s First 3-Day Federal Patch Mandate, Already Exploited, techtimes.com",
+      "readingTime": 2,
+      "contentHash": "sha256:3f9b99f8eba36e7b1d96f52388598130de1f908172ae0e591a3d841e15f30001"
+    },
     {
       "slug": "hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food",
       "file": "hackers-turn-up-supermarket-fridges-to-50c-threatening-millions-in-food.md",
