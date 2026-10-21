@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:2e584198f3a1e77e2614d7d4f8dcf2d9595b185db88359fe724434f9aa522d2b",
-  "total": 461,
+  "revision": "sha256:b9bbcc2ea659fa93198ff35ea54d886102d33b3d764c1375bb6773d61d8feffc",
+  "total": 462,
   "articles": [
+    {
+      "slug": "plex-confirms-active-exploitation-of-unpatched-media-servers-and",
+      "file": "plex-confirms-active-exploitation-of-unpatched-media-servers-and.md",
+      "title": "Plex confirms active exploitation of unpatched media servers and publishes four CVEs",
+      "description": "Plex confirms active exploitation of unpatched media servers and publishes four CVEs",
+      "date": "2026-10-21",
+      "id": "plex-confirms-active-exploitation-of-unpatched-media-servers-and-2026-10-21",
+      "categories": [],
+      "tags": [
+        "plex",
+        "cves",
+        "media",
+        "four",
+        "server",
+        "10861",
+        "attackers",
+        "actively",
+        "exploiting",
+        "builds"
+      ],
+      "url": "https://redoracle.com/News/plex-confirms-active-exploitation-of-unpatched-media-servers-and.html",
+      "image": "https://storage.googleapis.com/red_articles/plex-confirms-active-exploitation-of-unpatched-media-servers-and.avif",
+      "searchText": "Plex confirms active exploitation of unpatched media servers and publishes four CVEs Plex Confirms Active Exploitation of Unpatched Media Servers and Publishes Four CVEs At a glance Plex, a widely used self‑hosted streaming platform, has confirmed that attackers are actively exploiting a vulnerability chain in its Media Server software [1]. The exploit, named Plex2Shell, strings together four known vulnerabilities to achieve remote code execution on unpatched servers [2]. The attacks result in the installation of cryptocurrency miners and a Linux proxy backdoor [3][4]. This article outlines the situation and its implications. What happened Plex Confirms Active Exploitation Plex states that the vulnerabilities are being actively exploited; any server that has not been updated to version 1.43.3.10861 and remains reachable from the internet should be considered potentially compromised [1]. Attackers use the Plex2Shell exploit to run cryptocurrency miners and proxy software on these unpatched servers [2][3]. Four CVEs Behind the Attack The four vulnerabilities that comprise the Plex2Shell exploit are identified as CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656 [2]. These flaws allow an unauthenticated remote attacker to execute code with the privileges of the Plex Media Server process [1]. Why it matters Exposing Home and Business Networks The Plex2Shell exploit poses a significant risk to home and business networks, because Plex Media Servers are commonly deployed in these environments [4]. By exploiting the vulnerabilities, attackers can gain access, install cryptocurrency miners, and deploy a Linux proxy backdoor that routes traffic through the victim's connection [3]. Impact on Plex Media Server Users Plex Media Server users must act immediately to secure their systems. Failure to patch unpatched servers may lead to compromised hosts, wasted resources on cryptocurrency mining, and unintended exposure to the internet [1]. Technical details The Plex2Shell Exploit Plex2Shell is a chain of vulnerabilities that, when combined, enable an unauthenticated remote attacker to execute code on a Plex Media Server [2]. Its significance lies in the ability to install cryptocurrency miners and reverse proxy software on vulnerable systems. Cryptocurrency Miner and Linux Proxy Backdoor The malware delivered through Plex2Shell consists of an XMRig miner and a Linux proxy backdoor [3]. The XMRig miner silently consumes processing power and electricity for the attacker's benefit, while the Linux proxy backdoor allows external actors to route traffic through the victim's home connection. What defenders should do Patching Unpatched Plex Media Servers To defend against Plex2Shell, Plex Media Server users should update their servers to version 1.43.3.10861 or later [1]. Docker, NAS, and Linux installations require a manual update. Monitoring for Signs of Compromise Users should also monitor their systems for indicators of compromise, such as unexpected processes, unfamiliar files, or sustained high CPU usage when no media is playing [1]. Any of these signs, or an inability to rule out a breach, warrants rebuilding the server from a clean installation rather than reusing the old data directory. What remains unknown Identity and Motivations of Attackers The identity and motivations of the attackers behind Plex2Shell remain unknown [3]. While some reports suggest a financial motive due to the installation of cryptocurrency miners, the full scope and purpose of the exploit are currently unclear. References 1. Plex confirms active exploitation of unpatched media servers and publishes four CVEs, betanews.com 2. [Plex2Shell Hits Live Servers: 4 CVEs, XMRig Miner [2026]]( shattered.io 3. Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor, thehackernews.com 4. Plex Server Exploit Chain Used To Install Monero Mining Malware, bitcoinist.com 5. Unpatched Plex servers are being targeted with crypto miners and proxy malware, tbreak.com",
+      "readingTime": 3,
+      "contentHash": "sha256:5259b3ca4114f51616a81b6c5d7d06560a90754fbf0d7c503063ade046ae20df"
+    },
     {
       "slug": "attackers-exploit-siemens-software-center-flaw-in-active-clickfix",
       "file": "attackers-exploit-siemens-software-center-flaw-in-active-clickfix.md",
