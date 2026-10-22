@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:83decd26b2596621e67c439eb8ec9334b3ba30a5717159e76e6c97fafce283aa",
-  "total": 463,
+  "revision": "sha256:17df32be7de2e4937e66c199a48de293b9e307fc49635d2505b213b1a3f73cf0",
+  "total": 464,
   "articles": [
+    {
+      "slug": "ai-powered-hackers-exploit-php-flaw-as-europe-takes-government-websites",
+      "file": "ai-powered-hackers-exploit-php-flaw-as-europe-takes-government-websites.md",
+      "title": "AI-powered hackers exploit PHP flaw as Europe takes government websites offline; NSA warns of cyberattack risks",
+      "description": "AI-powered hackers exploit PHP flaw as Europe takes government websites offline; NSA warns of cyberattack risks",
+      "date": "2026-10-22",
+      "id": "ai-powered-hackers-exploit-php-flaw-as-europe-takes-government-websites-2026-10-22",
+      "categories": [],
+      "tags": [
+        "flaw",
+        "websites",
+        "exploit",
+        "details",
+        "specific",
+        "impact",
+        "powered",
+        "hackers",
+        "government",
+        "offline"
+      ],
+      "url": "https://redoracle.com/News/ai-powered-hackers-exploit-php-flaw-as-europe-takes-government-websites.html",
+      "image": "https://storage.googleapis.com/red_articles/ai-powered-hackers-exploit-php-flaw-as-europe-takes-government-websites.avif",
+      "searchText": "AI-powered hackers exploit PHP flaw as Europe takes government websites offline; NSA warns of cyberattack risks AI-powered hackers exploit PHP flaw, causing government websites in Europe to go offline; NSA warns of cyberattack risks At a glance Millions of attempts to exploit a PHP code flaw have targeted websites globally [1]. Government websites in Europe were taken offline as a precautionary measure in response to these exploits [2, 5]. The US National Security Agency (NSA) has warned organizations to immediately install security updates or take servers offline [2]. This surge in exploitation is notable because artificial intelligence (AI) is accelerating the discovery and use of software vulnerabilities [2, 5]. The PHP vulnerability could allow malicious actors to compromise server resources [1]. Cybersecurity experts are concerned about the speed at which these flaws are being weaponized [2]. This incident underscores the growing risk of AI-powered cyberattacks [6]. What happened Websites worldwide have been subjected to millions of exploitation attempts targeting a newly discovered flaw in PHP [1]. This vulnerability affects PHP versions 5.4 through 8.5.11 [6]. The PHP development team released fixes on October 21st, urging users to update immediately [6]. In response to the threat, government websites in Europe, including those in the Netherlands and Finland, were temporarily taken offline [5]. This proactive step was taken as operators worked to apply the security patches [5]. The rapid exploitation of this flaw is particularly concerning. Security researchers at Wiz, Google, and OpenAI utilized AI models to uncover and demonstrate the exploitability of the vulnerability [1]. These models reduced the barrier to exploitation, turning a longstanding flaw into a practical threat [1]. Amazon reported detecting an attempted exploit on one of its decoy systems on October 17th, before the vulnerability was publicly disclosed [3]. Following public disclosure, multiple actors attempted further exploitation [3]. Why it matters The exploitation of this PHP flaw and the accompanying NSA warning highlight the increasing sophistication and speed of modern cyberattacks [2]. The core issue is that AI is enabling hackers to find and exploit software vulnerabilities much faster than previously possible [2, 5]. Vulnerabilities that once took weeks or months to discover and exploit can now be weaponized in a matter of hours [2]. PHP's widespread use (powering platforms like WordPress, Drupal, and Magento) means a vast number of websites are potentially at risk [4]. The vulnerability could allow attackers to gain control of server resources, potentially using compromised sites to launch further attacks or conduct malicious activities like cryptocurrency mining [1]. The incident serves as a stark reminder of the interconnectedness of the internet and the potential for cascading failures following a widespread vulnerability [5]. Technical details The vulnerability consists of two critical flaws: CVE-2026-109618 and CVE-2026-109619 [4]. CVE-2026-109618 is a heap out-of-bounds write, while CVE-2026-109619 is an error handling issue leading to the use of freed memory [6]. Researchers demonstrated remote code execution within an Apache environment utilizing mod php [3]. While exploitability varies based on PHP version, server configuration, and other factors, the potential impact is significant [6]. What remains unknown Currently, there is no information available regarding the identity of the attackers or their specific motives. No confirmed successful attacks have been reported at this time [3]. References 1. Websites across world hit by millions of attempts to exploit PHP code flaw, theguardian.com 2. AI-powered hackers exploit PHP flaw as Europe takes government websites offline; NSA warns of cyberattack risks, hindustantimes.com 3. PHP Flaw Forces Government Websites Offline as AI Speeds Exploitation, urbanacres.in 4. A Security Flaw in PHP Could Affect Most Websites on the Internet, techjuice.pk 5. Government websites in Europe and elsewhere go dark as software flaw sparks security scramble, cnbc.com 6. EU Website Outages Follow Critical PHP Flaws: What IT Teams Should Know, techrepublic.com",
+      "readingTime": 3,
+      "contentHash": "sha256:6829cdf59ca38a91e7c6472e4d3dce3d91877dc1b5ecdb4ba42a829f1a3384d4"
+    },
     {
       "slug": "php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws",
       "file": "php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws.md",
