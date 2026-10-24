@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:a4def4e0babb5d13ea348e0efa37331922ec43935a3c2e9a9a3ff1e864d2a087",
-  "total": 465,
+  "revision": "sha256:fea9917982b7c5443e293b6063eced5c478d8b61bab16a028cea1d529f5501c9",
+  "total": 466,
   "articles": [
+    {
+      "slug": "scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or",
+      "file": "scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or.md",
+      "title": "Scheme alert: iPhone users may be hacked by scrolling past ad or visiting legitimate websites",
+      "description": "Scheme alert: iPhone users may be hacked by scrolling past ad or visiting legitimate websites",
+      "date": "2026-10-24",
+      "id": "scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or-2026-10-24",
+      "categories": [],
+      "tags": [
+        "iphone",
+        "users",
+        "outdated",
+        "software",
+        "vulnerable",
+        "hacking",
+        "millions",
+        "hundreds",
+        "iphones",
+        "hacked"
+      ],
+      "url": "https://redoracle.com/News/scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or.html",
+      "image": "https://storage.googleapis.com/red_articles/scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or.avif",
+      "searchText": "Scheme alert: iPhone users may be hacked by scrolling past ad or visiting legitimate websites Hundreds of Millions of iPhone Users Potentially at Risk of Being Hacked At a glance A powerful iPhone-hacking technique known as DarkSword has been discovered in use by Russian hackers. It can take over devices running iOS 18 that simply visit infected websites. Hundreds of millions of iPhone users who have not updated their devices to the latest iOS version are at risk. What happened Researchers at Google and cybersecurity firms iVerify and Lookout have jointly revealed the discovery of a sophisticated iPhone hacking technique known as DarkSword. This technique has been seen in use on infected websites and is capable of instantly and silently hacking iOS devices that visit those sites. The discovery marks the second time this month that researchers have found spyware targeting iPhones and other Apple devices. Why it matters The potential impact on iPhone users due to the vulnerability is significant. \"A vast number of iOS users could have all of their personal data stolen simply for visiting a popular website,\" says Rocky Cole, iVerify's cofounder and CEO. \"Hundreds of millions of people who are still using older Apple devices or older operating system versions remain vulnerable.\" Technical details DarkSword is a powerful software exploit capable of penetrating and stealing information from potentially hundreds of millions of Apple iPhones. It targets devices running iOS versions 18.4 to 18.6.2, which were released between March and August 2025. The exploit takes advantage of multiple vulnerabilities in the iOS operating system, allowing it to bypass security measures and gain control of the device. What defenders should do Apple has released security updates addressing vulnerabilities exploited by DarkSword and related tools. The company has also released a statement advising users to update their devices to the latest iOS version to protect themselves from this and other security threats. What remains unknown It is not clear how many iPhones are vulnerable to DarkSword attacks. However, researchers estimate that between 220 million and 270 million iPhones still run exposed iOS versions. The full extent of the damage caused by this exploit is also unknown, as it is difficult to track the number of devices that have been compromised. References 1. Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the Wild, wired.com 2. Researchers Uncover iPhone Spyware Capable of Penetrating Millions of Devices, insurancejournal.com 3. Google and security companies have warned iPhone users of DarkSword spy attack: What it is and how it may spy on iPhone users, timesofindia.indiatimes.com",
+      "readingTime": 2,
+      "contentHash": "sha256:30b1973f11cc39edd522ce3a5e60e896c6c4f90fc2561dd89d571d4cd6ca95bc"
+    },
     {
       "slug": "critical-php2shell-exploit-code-goes-public-as-hackers-attempt-to",
       "file": "critical-php2shell-exploit-code-goes-public-as-hackers-attempt-to.md",
