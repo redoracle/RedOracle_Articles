@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:fea9917982b7c5443e293b6063eced5c478d8b61bab16a028cea1d529f5501c9",
-  "total": 466,
+  "revision": "sha256:4080ef926f798d548bcccbc1a3a303f41b9b5a9a26c7370b9b87ee467251dfef",
+  "total": 467,
   "articles": [
+    {
+      "slug": "php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked",
+      "file": "php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked.md",
+      "title": "PHP2Shell: AI found the bug hiding in 70% of the web. Millions attacked. Patch now",
+      "description": "PHP2Shell: AI found the bug hiding in 70% of the web. Millions attacked. Patch now",
+      "date": "2026-10-24",
+      "id": "php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked-2026-10-24",
+      "categories": [],
+      "tags": [
+        "2026",
+        "109618",
+        "109619",
+        "critical",
+        "php2shell",
+        "alert",
+        "responding",
+        "core",
+        "vulnerabilities",
+        "respond"
+      ],
+      "url": "https://redoracle.com/News/php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked.html",
+      "image": "https://storage.googleapis.com/red_articles/php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked.avif",
+      "searchText": "PHP2Shell: AI found the bug hiding in 70% of the web. Millions attacked. Patch now PHP2Shell: Artificial Intelligence Discovers Critical Vulnerabilities Impacting Millions of PHP Servers At a glance Two critical PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, collectively known as PHP2Shell, have been discovered by artificial intelligence. These flaws, rated 9.2 on the CVSS scale, can lead to remote code execution and impact millions of PHP servers worldwide. What happened On October 21, 2026, the PHP security team released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 to address two critical vulnerabilities. These flaws, CVE-2026-109618 and CVE-2026-109619, were discovered by artificial intelligence and can allow unauthenticated remote code execution. The vulnerabilities affect all PHP implementations that process web requests, including php-fpm and Apache's mod php. Why it matters The critical rating of these vulnerabilities, with a CVSS score of 9.2, indicates that they can have severe consequences. Threat actors can exploit these flaws to crash and hijack affected systems, steal, alter, and wipe data. The widespread use of PHP in websites, content management systems, and web applications makes these vulnerabilities particularly concerning. Technical details CVE-2026-109618 occurs when out-of-memory handling interrupts PHP while internal request data is only partially initialized. This can lead to request cleanup treating the invalid data as valid. CVE-2026-109619 happens when request-owned internal state survives after its backing memory has been freed. A later request handled by the same worker may use this stale state before normal initialization resets it. What defenders should do Administrators and developers should immediately update their PHP installations to the latest versions. They should also monitor for any signs of exploitation and take appropriate measures to secure their systems. What remains unknown While the PHP security team has provided patches and mitigation steps, the full extent of the impact and potential exploitation methods are still being investigated. It is crucial for the community to remain vigilant and share information as more details emerge. References 1. Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619, cloud.google.com 2. How to respond to the critical PHP vulnerability 'PHP2Shell' (CVE-2026-109618, CVE-2026-109619), Interim measures until a patch is available and prioritizi…, note.com 3. PHP2Shell Alert: Two Critical 9.2-Rated Flaws Put PHP Servers on High Alert, the420.in",
+      "readingTime": 2,
+      "contentHash": "sha256:a31ac424984c18cceda4e90430a41a8c86cadb5c980c2b4fc446041c5cbc35e9"
+    },
     {
       "slug": "scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or",
       "file": "scheme-alert-iphone-users-may-be-hacked-by-scrolling-past-ad-or.md",
