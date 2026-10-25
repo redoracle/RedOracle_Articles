@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:4080ef926f798d548bcccbc1a3a303f41b9b5a9a26c7370b9b87ee467251dfef",
-  "total": 467,
+  "revision": "sha256:dbb85195af7df69e7ae9e781a7e122b41ee87b786dca17ab46860235244460a5",
+  "total": 468,
   "articles": [
+    {
+      "slug": "critical-php-bug-exposes-millions-of-websites-worldwide",
+      "file": "critical-php-bug-exposes-millions-of-websites-worldwide.md",
+      "title": "Critical PHP Bug Exposes Millions of Websites Worldwide",
+      "description": "Critical PHP Bug Exposes Millions of Websites Worldwide",
+      "date": "2026-10-25",
+      "id": "critical-php-bug-exposes-millions-of-websites-worldwide-2026-10-25",
+      "categories": [],
+      "tags": [
+        "2026",
+        "critical",
+        "vulnerabilities",
+        "websites",
+        "109618",
+        "109619",
+        "vulnerability",
+        "identified",
+        "disclosed",
+        "security"
+      ],
+      "url": "https://redoracle.com/News/critical-php-bug-exposes-millions-of-websites-worldwide.html",
+      "image": "https://storage.googleapis.com/red_articles/critical-php-bug-exposes-millions-of-websites-worldwide.avif",
+      "searchText": "Critical PHP Bug Exposes Millions of Websites Worldwide Critical PHP Bug Exposes Millions of Websites Worldwide At a glance Two critical vulnerabilities in PHP, identified as CVE-2026-109618 and CVE-2026-109619, have been disclosed. These vulnerabilities could potentially allow attackers to run malicious code on vulnerable servers. Given that PHP powers a large percentage of the internet, millions of websites could be at risk if administrators fail to install emergency patches. What happened Security researchers recently disclosed two severe vulnerabilities, collectively known as \"PHP2Shell,\" that could let attackers remotely execute code on affected servers without authentication. The discovery has already led to bad actors taking advantage of the vulnerability, precautionary website shutdowns, and a global cybersecurity response. Why it matters The vulnerabilities carry a critical severity score of 9.2 out of 10 under the CVSS 4.0 rating system. Successful exploitation could expose passwords, authentication tokens, API keys, and other sensitive information held in server memory. Because PHP underpins widely used platforms such as WordPress, Drupal, and Joomla, the breadth of PHP's use makes this a serious concern for organizations operating public-facing websites. Technical details The vulnerability exists within PHP's core multipart parser. PHP's developers released emergency fixes on October 21 for these critical flaws that can let an attacker run code on a web server without logging in. The bugs, known as 'PHP2Shell', affect software that runs a large share of the web. What defenders should do Updating is the only complete fix, according to Qualys. Companies on shared hosting should ask their provider which PHP version they run. Sites on PHP 8.1 or older must upgrade immediately. The PHP security team has scheduled an emergency update for October 21, 2026, at 7:30 PM IST. What remains unknown No Indian victims have been identified yet. The actual exposure depends on the PHP version, server configuration, and execution environment. The full extent of the damage and the number of affected websites are still unknown. References 1. Critical PHP Bug Exposes Millions of Websites Worldwide, patheos.com 2. PHP vulnerability exposes 85 government websites to cyber attacks, sundaytimes.lk 3. PHP Vulnerability: What Websites, CMS Platforms & Servers Are Affected and Fix, homeland411.com 4. 70% Websites At Security Risk Due To Critical PhP Vulnerability: PHP2Shell, trak.in 5. A critical PHP vulnerability may take websites down today, theverge.com 6. PHP Security Flaw: Which Indian Websites Are Affected?, freepressjournal.in 7. Two critical PHP security flaws leak online, millions of websites at Risk, news9live.com 8. Critical PHP RCE Vulnerability: Is Your Website a Ticking Time Bomb?, thetechedvocate.org",
+      "readingTime": 2,
+      "contentHash": "sha256:6d9097b8a346e16ccbc73c91dce583f8f22ba3022385a5bbd7c4530134eabbf9"
+    },
     {
       "slug": "php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked",
       "file": "php2shell-ai-found-the-bug-hiding-in-70-of-the-web-millions-attacked.md",
