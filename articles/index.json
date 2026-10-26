@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:c05a646007617a14739fe29d6e0e7f54cdcf79c6dab75ea060681ca9fd278e5c",
-  "total": 469,
+  "revision": "sha256:f1dd52702f57b5d5c4ca7e4644d1c0eec1976710008a2aa372cbaeca1e2a9182",
+  "total": 470,
   "articles": [
+    {
+      "slug": "amid-rising-cyber-threats-moonshot-ai-limits-hacking-capabilities-in",
+      "file": "amid-rising-cyber-threats-moonshot-ai-limits-hacking-capabilities-in.md",
+      "title": "Amid rising cyber threats, Moonshot AI limits hacking capabilities in latest model",
+      "description": "Amid rising cyber threats, Moonshot AI limits hacking capabilities in latest model",
+      "date": "2026-10-26",
+      "id": "amid-rising-cyber-threats-moonshot-ai-limits-hacking-capabilities-in-2026-10-26",
+      "categories": [],
+      "tags": [
+        "moonshot",
+        "model",
+        "latest",
+        "weakened",
+        "cyber",
+        "offensive",
+        "performance",
+        "kimi",
+        "hacking",
+        "limits"
+      ],
+      "url": "https://redoracle.com/News/amid-rising-cyber-threats-moonshot-ai-limits-hacking-capabilities-in.html",
+      "image": "https://storage.googleapis.com/red_articles/amid-rising-cyber-threats-moonshot-ai-limits-hacking-capabilities-in.avif",
+      "searchText": "Amid rising cyber threats, Moonshot AI limits hacking capabilities in latest model Amid Rising Cyber Threats, Moonshot AI Limits Hacking Capabilities in Latest Model [1] [2] [3] At a glance Moonshot AI, a leading Chinese artificial intelligence (AI) company, has deliberately weakened the hacking capabilities of its latest model, Kimi K3.1 Pro, before its public release. This move comes as concerns grow that increasingly autonomous AI systems could make sophisticated cyberattacks easier and cheaper to execute. What happened Moonshot AI announced on October 24, 2026, that it had removed cyber-related data from the training corpus and reinforcement-learning environments used to develop Kimi K3.1 Pro. The company maintained the model's general coding skills but aimed to limit its offensive cyber capabilities [1][2]. Why it matters Limiting the hacking capabilities of AI models is crucial for cybersecurity in today's digital landscape, as advanced AI could potentially help users identify software vulnerabilities, write malicious code, and automate complex attacks involving multiple steps and software tools [1]. Technical details According to Moonshot, Kimi K3.1 Pro scored 81% on its internal cyber benchmark, compared to 90.5% for a similar version without the safeguards [1]. This test involved identifying and exploiting software vulnerabilities in a controlled environment. The filtered cyber-related data reduced the model's offensive performance, although it continued to outperform its predecessor [1]. Moonshot argued that open-weight models can improve security by helping more organizations inspect and secure their own software, including older systems that receive little attention [2]. However, once these files are widely distributed, the original developer has less ability to restrict access, monitor use, or update safeguards than with a hosted service [2]. Recent proposals from governments, such as China's draft measures on export controls, aim to restrict AI-assisted vulnerability-discovery tools and AI-driven malware-generation and mutation technology, citing the potential risks to critical infrastructure, defense-industrial, and core government systems [2]. In summary, Moonshot AI's decision to limit the hacking capabilities of Kimi K3.1 Pro before its open release demonstrates the importance of responsible innovation in the ever-evolving world of AI and cybersecurity. [1] Moonshot Limits Kimi Model's Hacking Capabilities, StratNews Global [2] Moonshot tweaks the hack out of latest AI model, RTHK [3] Moonshot Deliberately Curbs Kimi AI Hacking Ability Before Open Release, The420.in References 1. Moonshot Limits Kimi Model’s Hacking Capabilities, stratnewsglobal.com 2. Moonshot tweaks the hack out of latest AI model, gbcode.rthk.hk 3. Moonshot Deliberately Curbs Kimi AI Hacking Ability Before Open Release, the420.in",
+      "readingTime": 2,
+      "contentHash": "sha256:f81a4de31670aede9ec8e15f99e9a46fad4d16f0094a62619a41378045af2827"
+    },
     {
       "slug": "critical-php-bug-exposes-millions-of-websites-worldwide",
       "file": "critical-php-bug-exposes-millions-of-websites-worldwide.md",
