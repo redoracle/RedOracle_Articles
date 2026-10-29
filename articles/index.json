@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:51322490be3ac13f409ea1e4e7ec4bba5731f9a4ec99f93e85644b479f73531d",
-  "total": 474,
+  "revision": "sha256:bcc67481f8e32472902b58e3811d7218c3d3099d4959d33ec3adfa1a7dd40b63",
+  "total": 475,
   "articles": [
+    {
+      "slug": "attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto",
+      "file": "attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto.md",
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "description": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "date": "2026-10-29",
+      "id": "attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto-2026-10-29",
+      "categories": [],
+      "tags": [
+        "php2shell",
+        "vulnerabilities",
+        "attackers",
+        "palo",
+        "alto",
+        "2026",
+        "flaws",
+        "networks",
+        "versions",
+        "exploited"
+      ],
+      "url": "https://redoracle.com/News/attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto.html",
+      "image": "https://storage.googleapis.com/red_articles/attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto.avif",
+      "searchText": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces At a glance Attackers are exploiting the PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) against publicly-accessible management interfaces of Palo Alto Networks, allowing unauthenticated remote code execution on systems running affected versions of PHP [1]. Affected systems The PHP2Shell vulnerabilities affect specific versions of PAN-OS, including PAN-OS 12.2 Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces, thehackernews.com 2. CISA confirms attackers are exploiting both PHP2Shell flaws, thenextweb.com 3. Palo Alto Networks confirms limited attacks against PAN-OS ..., cyberinsider.co.uk 4. CVE-2026-109618 Impact of Critical Vulnerabilities in PHP ..., security.paloaltonetworks.com 5. InfraTrust report warns of exploited flaws in critical network infrastructure, bleepingcomputer.com 6. CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices., venturebeat.com 7. Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks, bleepingcomputer.com 8. Palo Alto Networks firewall bug being exploited by threat ..., networkworld.com 9. Palo Alto Firewall Vulnerabilities Under Active Exploitation, intruceptlabs.com",
+      "readingTime": 2,
+      "contentHash": "sha256:2a182ce6a3e3718aa9dedd577f8b90f337004e9dffc6cd92a37ba843b693610f"
+    },
     {
       "slug": "cisa-security-researchers-confirm-successful-exploitation-of-php-flaws",
       "file": "cisa-security-researchers-confirm-successful-exploitation-of-php-flaws.md",
