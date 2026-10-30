@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:bcc67481f8e32472902b58e3811d7218c3d3099d4959d33ec3adfa1a7dd40b63",
-  "total": 475,
+  "revision": "sha256:c1e0ea267efefdaf4e1c1d6355be02dacb12075f08674d881f771528528beb2e",
+  "total": 476,
   "articles": [
+    {
+      "slug": "unm-warns-public-not-to-engage-with-any-groups-claiming-responsibility",
+      "file": "unm-warns-public-not-to-engage-with-any-groups-claiming-responsibility.md",
+      "title": "UNM Warns Public Not to Engage with Any Groups Claiming Responsibility for Cybersecurity Threat",
+      "description": "UNM Warns Public Not to Engage with Any Groups Claiming Responsibility for Cybersecurity Threat",
+      "date": "2026-10-30",
+      "id": "unm-warns-public-not-to-engage-with-any-groups-claiming-responsibility-2026-10-30",
+      "categories": [],
+      "tags": [
+        "mexico",
+        "health",
+        "incident",
+        "university",
+        "center",
+        "cybersecurity",
+        "2026",
+        "sciences",
+        "experienced",
+        "monday"
+      ],
+      "url": "https://redoracle.com/News/unm-warns-public-not-to-engage-with-any-groups-claiming-responsibility.html",
+      "image": "https://storage.googleapis.com/red_articles/unm-warns-public-not-to-engage-with-any-groups-claiming-responsibility.avif",
+      "searchText": "UNM Warns Public Not to Engage with Any Groups Claiming Responsibility for Cybersecurity Threat UNM Warns Public Not to Engage with Entities Claiming Responsibility for Cybersecurity Threat at UNM Health System At a glance The University of New Mexico Health Sciences Center, a part of the University of New Mexico Health System, experienced a cybersecurity incident on Monday, October 26, 2026. The incident affected some end-user devices but did not penetrate core systems or servers [1]. The University of New Mexico Health System urged people not to engage with entities claiming responsibility for the attack [1][2]. The FBI is conducting a forensic analysis of the incident as part of an ongoing criminal investigation [1][3]. The hospital system is still waiting to hear whether patient data was compromised [1]. Some UNM Health employees are still being asked not to turn on their computers [1]. UNMH is back online to take all levels of trauma [1]. What happened The cybersecurity incident at the University of New Mexico Health Sciences Center occurred on Monday, October 26, 2026, and affected some end-user devices [1]. The university's IT security teams responded quickly to protect core networks, systems, and servers from further damage [1]. The incident did not result in a breach of core systems or servers [1]. However, the University of New Mexico Health System asked people not to engage with entities claiming responsibility for the attack [1][2]. Why it matters The cybersecurity incident at the University of New Mexico Health System highlights the importance of protecting sensitive data and maintaining operational continuity in the healthcare sector [1][2]. The incident affected some end-user devices but did not penetrate core systems or servers [1]. Nevertheless, the potential impact on the UNM Health System and the public could be significant if patient data was compromised [1]. The FBI is conducting a forensic analysis of the incident as part of an ongoing criminal investigation [1][3]. The hospital system is still waiting to hear whether patient data was compromised [1]. In the meantime, some UNM Health employees are still being asked not to turn on their computers [1]. UNMH is back online to take all levels of trauma [1]. Technical details No meaningful technical evidence is provided in the sources regarding the nature or cause of the cybersecurity incident at the University of New Mexico Health System. What defenders should do No concrete actionable advice for defenders is provided in the sources. What remains unknown It is unknown whether patient data was compromised during the incident [1]. The FBI's forensic analysis is ongoing [1][3]. [1]: hscnews.unm.edu [2]: govtech.com [3]: abqraw.com [4]: dailylocal.com References 1. hscnews.unm.edu, hscnews.unm.edu 2. No Concessions to Hackers in UNM Health Center Attack, govtech.com 3. Cyber Attack Cripples University of New Mexico Hospital System, Forces Closures, abqraw.com 4. A cybersecurity issue forces a major New Mexico hospital ..., dailylocal.com",
+      "readingTime": 3,
+      "contentHash": "sha256:769f78c1dbe5049fe574104962be1bf602792487c89cb02db0a0df8a0f3e027b"
+    },
     {
       "slug": "attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto",
       "file": "attackers-exploit-php2shell-flaws-in-internet-exposed-palo-alto.md",
