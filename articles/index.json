@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:f8720f9720972f4581ecd13c14dfe11ea0ab3aaab79153fa762be1a0f609b74e",
-  "total": 477,
+  "revision": "sha256:89213f06c35b390a2d7a03c21b36fe8ba64e04b5108b8a5475d35f588b6506c9",
+  "total": 478,
   "articles": [
+    {
+      "slug": "cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare",
+      "file": "cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare.md",
+      "title": "Cybersecurity Awareness Month Ends With A $6.3 Billion Halloween Scare",
+      "description": "Cybersecurity Awareness Month Ends With A $6.3 Billion Halloween Scare",
+      "date": "2026-10-31",
+      "id": "cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare-2026-10-31",
+      "categories": [],
+      "tags": [
+        "billion",
+        "binance",
+        "crypto",
+        "hack",
+        "heist",
+        "stolen",
+        "funds",
+        "frozen",
+        "various",
+        "sources"
+      ],
+      "url": "https://redoracle.com/News/cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare.html",
+      "image": "https://storage.googleapis.com/red_articles/cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare.avif",
+      "searchText": "Cybersecurity Awareness Month Ends With A $6.3 Billion Halloween Scare Cybersecurity Awareness Month Ends With a $6.3 Billion Halloween Scare at Binance At a glance During Cybersecurity Awareness Month, the world's largest cryptocurrency exchange, Binance, suffered a catastrophic breach, resulting in the theft of over $6 billion in digital assets [1][2][3]. The stolen funds are currently being efforts to freeze by various sources, with about $3 billion reportedly already secured [1]. What happened Binance, a leading platform for buying, selling, and trading digital currencies, was breached, leading to the loss of an unprecedented $6.3 billion in cryptocurrencies [2]. The precise cause of the hack remains under investigation, but it's believed that the attackers exploited vulnerabilities in Binance's wallet infrastructure rather than obtaining a leaked private key [3]. Why it matters This event marks the largest known heist in the history of cryptocurrencies, demonstrating the vulnerability of the crypto market and the potentially severe financial consequences of cybersecurity breaches [1][3]. The stolen funds, which represent a significant chunk of the total value of the crypto market [1], have caused widespread concern and prompted calls for increased security measures and regulatory oversight. What defenders should do In response to this attack, defenders are advised to closely monitor their cryptocurrency holdings and take steps to secure their digital wallets. This may include using multi-factor authentication, employing strong, unique passwords, and staying informed about the latest security best practices and threats [1]. What remains unknown While approximately $3 billion of the stolen funds have been frozen [1], the exact sources and amounts of the frozen funds are not explicitly stated in the sources. [1] The $6 billion Binance heist shows who really controls crypto (ainvest.com) [2] Crypto exchange Binance freezes assets after $6.3 billion security breach (livemint.com) [3] Binance hit by $6.3-billion hack, the biggest crypto heist ever (techcentral.co.za) References 1. The $6 billion Binance heist shows who really controls crypto, ainvest.com 2. Crypto exchange Binance freezes assets after $6.3 billion security breach, livemint.com 3. Binance hit by $6.3-billion hack, the biggest crypto heist ever, techcentral.co.za",
+      "readingTime": 2,
+      "contentHash": "sha256:580384d566fdb5d9fb2480864e3b7e214349d3fa46c8d04711cfb2fcb6b8d0f8"
+    },
     {
       "slug": "north-korean-hackers-blamed-for-stealing-record-63b-in-binance-breach",
       "file": "north-korean-hackers-blamed-for-stealing-record-63b-in-binance-breach.md",
