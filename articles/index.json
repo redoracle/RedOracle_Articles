@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:89213f06c35b390a2d7a03c21b36fe8ba64e04b5108b8a5475d35f588b6506c9",
-  "total": 478,
+  "revision": "sha256:90a5dae9b0887098caccc28a298f0df007d3ca18d006d999b6f895899bc5703a",
+  "total": 479,
   "articles": [
+    {
+      "slug": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients",
+      "file": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients.md",
+      "title": "Cybersecurity incident forces New Mexico hospital to turn away patients",
+      "description": "Cybersecurity incident forces New Mexico hospital to turn away patients",
+      "date": "2026-11-01",
+      "id": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients-2026-11-01",
+      "categories": [],
+      "tags": [
+        "mexico",
+        "hospital",
+        "cybersecurity",
+        "issue",
+        "major",
+        "patients",
+        "clinics",
+        "divert",
+        "close",
+        "forced"
+      ],
+      "url": "https://redoracle.com/News/cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients.html",
+      "image": "https://storage.googleapis.com/red_articles/cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients.avif",
+      "searchText": "Cybersecurity incident forces New Mexico hospital to turn away patients Cybersecurity incident forces New Mexico hospital to turn away patients At a glance A major New Mexico hospital has been forced to divert patients and close clinics due to a cybersecurity issue. The University of New Mexico Hospital, the state's only Level 1 trauma center, was affected by the cyberattack which disrupted operations and potentially resulted in a significant data breach. What happened The cyberattack on the University of New Mexico Health System led to ambulances being redirected and patients' appointments being canceled or rescheduled. The incident affected dozens of medical facilities within the state's network. The cause of the attack is currently unknown, with local authorities continuing their investigation. Why it matters This cybersecurity incident highlights the growing concern about the security of digital systems in essential services, such as healthcare. The attack on the University of New Mexico Hospital demonstrates the potential for significant disruption to patient care and the risk of sensitive data being compromised. Technical details The specific technical details of the cyberattack are not currently available. However, the incident is reported to have involved a substantial data breach, with the hackers claiming to have stolen student and employee data, personal identifiable information, SSNs, private documents, and emails. What defenders should do In response to this incident, healthcare organizations should review their cybersecurity measures to ensure they are adequately protected against similar attacks. This may include implementing stronger security protocols, conducting regular vulnerability assessments, and providing staff training on cybersecurity best practices. What remains unknown Several key details about the cyberattack remain unknown, including the identity of the attackers, the full extent of the data breach, and the specific vulnerabilities exploited. As the investigation continues, more information is likely to emerge about the nature and impact of the attack. References 1. google.com, google.com 2. Cybersecurity incident forces New Mexico hospital to turn away patients, fox5dc.com 3. A cybersecurity issue forces a major New Mexico hospital to divert patients and close clinics, yahoo.com 4. A cybersecurity issue forces a major New Mexico hospital ..., sentinelandenterprise.com 5. A cybersecurity issue forces a major New Mexico hospital ..., tricityrecordnm.com 6. UNM Hospital Cyberattack Diverted Albuquerque Ambulances and Limited New Patients for Two Hours as Clinics Canceled Appointments, inkl.com 7. Cyberattack disrupts University of New Mexico hospitals, extortion group claims attack, helpnetsecurity.com",
+      "readingTime": 2,
+      "contentHash": "sha256:8c54c3957ba805e23feb77f9081ebb573500438d9be8c4164534f58a5825aee2"
+    },
     {
       "slug": "cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare",
       "file": "cybersecurity-awareness-month-ends-with-a-63-billion-halloween-scare.md",
