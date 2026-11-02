@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:53fde53d1ec2501260d798905ca519e7dd230851a5a579f54f986facfe12ceef",
-  "total": 480,
+  "revision": "sha256:e05e25574bce2a52b75912c0a9c67a7aa7bb450db1c4475818eb6775984d398e",
+  "total": 481,
   "articles": [
     {
       "slug": "chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global",
@@ -29,6 +29,32 @@
       "searchText": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds At a glance Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds [1][2][3][4][5] The use of artificial intelligence (AI) by Chinese hackers in global cyberattacks targeting over 200 organizations [1][2][3][4] is raising concerns. This section provides a brief overview of the incidents reported by various sources. What happened In October 2026, several sources reported that Chinese hackers used artificial intelligence, specifically the DeepSeek model, to target over 200 organizations worldwide [1][2][3]. The attacks, which occurred in just 11 days, illustrate how AI is enabling hackers to operate at a scale previously requiring more human effort [1]. The targeted organizations spanned various sectors, including technology and finance, and were located on multiple continents [2]. The hackers executed more than 200 intrusion attempts, a volume that would have required weeks of manual work [2]. The use of DeepSeek marked a shift in how state-linked groups integrate commercial AI into their offensive operations [2]. Further reports indicated that a Chinese-speaking hacker used AI tools to breach several South Korean financial institutions and steal data between late September and early October [5]. The attacks targeted a bank's loan inquiry service and another lender's employee mobile-support platform [5]. Why it matters The scale and the reported findings from the sources indicate the significance of these incidents [1][2][3][4]. The use of AI in cyberattacks allows for increased efficiency and speed, enabling hackers to target more organizations and potentially cause more damage in a shorter period [1][2]. Technical details The DeepSeek AI model was used to accelerate reconnaissance and craft malicious payloads [2]. The hackers leveraged the mobile app, which has drawn global attention since its release, to generate phishing content, analyze target networks, and refine social engineering tactics [2]. By adopting an existing model, the attackers lowered the barrier to entry for large-scale campaigns [2]. [1] Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds, nbcnews.com [2] China-linked hackers use AI to target 200 organizations, CrowdStrike says, news.lavx.hu [3] Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide, thehackernews.com [4] Vapor Panda Hackers Used AI Agents to Target 200+ Organizations, en.shiftdelete.net [5] Chinese-speaking hacker used AI tools in cyberattacks on South Korean banks: report, trtworld.com What defenders should do There is no concrete guidance provided in the sources for specific actions defenders can take to mitigate the risks associated with these AI-powered cyberattacks. What remains unknown At this time, there is no unresolved information that materially changes the interpretation of the available facts. References 1. Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds, nbcnews.com 2. China-linked hackers use AI to target 200 organizations, CrowdStrike says, news.lavx.hu 3. Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide, thehackernews.com 4. Vapor Panda Hackers Used AI Agents to Target 200+ Organizations, en.shiftdelete.net 5. Chinese-speaking hacker used AI tools in cyberattacks on South Korean banks: report, trtworld.com",
       "readingTime": 3,
       "contentHash": "sha256:ae37f6e04d95b2faa60352fdb61ee9294ffc9b8a676e6092b321842719c5f66e"
+    },
+    {
+      "slug": "new-cyberattack-on-supermarket-fridges-sweeps-across-europe",
+      "file": "new-cyberattack-on-supermarket-fridges-sweeps-across-europe.md",
+      "title": "New cyberattack on supermarket fridges sweeps across Europe",
+      "description": "New cyberattack on supermarket fridges sweeps across Europe",
+      "date": "2026-11-02",
+      "id": "new-cyberattack-on-supermarket-fridges-sweeps-across-europe-2026-11-02",
+      "categories": [],
+      "tags": [
+        "supermarket",
+        "fridges",
+        "hacked",
+        "french",
+        "across",
+        "cyberattack",
+        "supermarkets",
+        "food",
+        "europe",
+        "temperatures"
+      ],
+      "url": "https://redoracle.com/News/new-cyberattack-on-supermarket-fridges-sweeps-across-europe.html",
+      "image": "https://storage.googleapis.com/red_articles/new-cyberattack-on-supermarket-fridges-sweeps-across-europe.avif",
+      "searchText": "New cyberattack on supermarket fridges sweeps across Europe Cyberattack on European Supermarkets Hacks Fridges, Raises Temperatures Dangerously High At a glance European supermarkets have fallen victim to a cyberattack that has resulted in hacked refrigeration systems, raising temperatures to dangerous levels and spoiling food [1][2]. The extent of the damage is still being assessed, with some estimating losses in the millions [4]. The perpetrators, currently unidentified, have not publicly claimed responsibility [5]. What happened The cyberattack, which has affected hundreds of supermarkets across Europe, is believed to have originated from hacked refrigeration controllers, building management systems, door access panels, and point-of-sale gear [1]. Hackers have reportedly forced refrigeration units to undergo continuous defrost cycles and set temperatures as high as 122°F [5]. This has led to spoiled food and, in some instances, triggered fires [5][6]. The first reported incident occurred in France, where approximately 700 supermarkets were affected [2]. The Paris prosecutor's office is investigating the attack, which is estimated to have caused significant damage to the food industry [2]. Dutch supermarket giant Ahold Delhaize also reported a security issue and shut down its websites serving customers in Europe and the US [2]. These cyberattacks follow earlier disruptions in France, where hackers took control of cooling units at hundreds of supermarkets, leading to food losses and fires [1]. No one has claimed responsibility for these events, and it remains unclear if they are connected to the latest attacks. Why it matters The cyberattack on European supermarkets underscores the growing threat of cybercrimes against critical infrastructure and the potential consequences for food security [3]. Experts warn that these attacks are becoming more sophisticated and could lead to significant economic losses. Technical details At present, no verified technical details regarding the cyberattack are available. What defenders should do No specific defensive actions have been mentioned in the sources. What remains unknown The identity of the attackers and their motives remain unknown. It's also unclear if the attacks are connected to previous incidents in France. Additionally, the full extent of the damage caused by the cyberattack is still being assessed. References 1. Supermarket Fridges Across Europe Hacked, Temperatures Raised to Dangerous Levels, briefs.co 2. Cyberattacks hit European supermarket chains and disrupt refrigeration systems, asiaone.com 3. Cyberattack on French supermarkets tells us more about food security than AI safety, politico.eu 4. Thousands of refrigerators were hacked across France. How worried should you be?, cnn.com 5. Cyberattack on French supermarkets heats fridges to 122°F, spoiling food, finance.yahoo.com 6. French supermarket fridges get hacked, heating to 122°F and sparking fires, cnbc.com",
+      "readingTime": 2,
+      "contentHash": "sha256:92592b92eea0662200789d70338f4fb263f3149254c5b386a2b69337e9f9c775"
     },
     {
       "slug": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients",
