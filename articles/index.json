@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:90a5dae9b0887098caccc28a298f0df007d3ca18d006d999b6f895899bc5703a",
-  "total": 479,
+  "revision": "sha256:53fde53d1ec2501260d798905ca519e7dd230851a5a579f54f986facfe12ceef",
+  "total": 480,
   "articles": [
+    {
+      "slug": "chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global",
+      "file": "chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global.md",
+      "title": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds",
+      "description": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds",
+      "date": "2026-11-02",
+      "id": "chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global-2026-11-02",
+      "categories": [],
+      "tags": [
+        "hackers",
+        "chinese",
+        "used",
+        "organizations",
+        "tools",
+        "cyberattacks",
+        "targeted",
+        "target",
+        "report",
+        "deepseek"
+      ],
+      "url": "https://redoracle.com/News/chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global.html",
+      "image": "https://storage.googleapis.com/red_articles/chinese-hackers-used-deepseek-and-other-ai-tools-in-sweeping-global.avif",
+      "searchText": "Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds At a glance Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds [1][2][3][4][5] The use of artificial intelligence (AI) by Chinese hackers in global cyberattacks targeting over 200 organizations [1][2][3][4] is raising concerns. This section provides a brief overview of the incidents reported by various sources. What happened In October 2026, several sources reported that Chinese hackers used artificial intelligence, specifically the DeepSeek model, to target over 200 organizations worldwide [1][2][3]. The attacks, which occurred in just 11 days, illustrate how AI is enabling hackers to operate at a scale previously requiring more human effort [1]. The targeted organizations spanned various sectors, including technology and finance, and were located on multiple continents [2]. The hackers executed more than 200 intrusion attempts, a volume that would have required weeks of manual work [2]. The use of DeepSeek marked a shift in how state-linked groups integrate commercial AI into their offensive operations [2]. Further reports indicated that a Chinese-speaking hacker used AI tools to breach several South Korean financial institutions and steal data between late September and early October [5]. The attacks targeted a bank's loan inquiry service and another lender's employee mobile-support platform [5]. Why it matters The scale and the reported findings from the sources indicate the significance of these incidents [1][2][3][4]. The use of AI in cyberattacks allows for increased efficiency and speed, enabling hackers to target more organizations and potentially cause more damage in a shorter period [1][2]. Technical details The DeepSeek AI model was used to accelerate reconnaissance and craft malicious payloads [2]. The hackers leveraged the mobile app, which has drawn global attention since its release, to generate phishing content, analyze target networks, and refine social engineering tactics [2]. By adopting an existing model, the attackers lowered the barrier to entry for large-scale campaigns [2]. [1] Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds, nbcnews.com [2] China-linked hackers use AI to target 200 organizations, CrowdStrike says, news.lavx.hu [3] Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide, thehackernews.com [4] Vapor Panda Hackers Used AI Agents to Target 200+ Organizations, en.shiftdelete.net [5] Chinese-speaking hacker used AI tools in cyberattacks on South Korean banks: report, trtworld.com What defenders should do There is no concrete guidance provided in the sources for specific actions defenders can take to mitigate the risks associated with these AI-powered cyberattacks. What remains unknown At this time, there is no unresolved information that materially changes the interpretation of the available facts. References 1. Chinese hackers used DeepSeek and other AI tools in sweeping global cyberattacks, report finds, nbcnews.com 2. China-linked hackers use AI to target 200 organizations, CrowdStrike says, news.lavx.hu 3. Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide, thehackernews.com 4. Vapor Panda Hackers Used AI Agents to Target 200+ Organizations, en.shiftdelete.net 5. Chinese-speaking hacker used AI tools in cyberattacks on South Korean banks: report, trtworld.com",
+      "readingTime": 3,
+      "contentHash": "sha256:ae37f6e04d95b2faa60352fdb61ee9294ffc9b8a676e6092b321842719c5f66e"
+    },
     {
       "slug": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients",
       "file": "cybersecurity-incident-forces-new-mexico-hospital-to-turn-away-patients.md",
