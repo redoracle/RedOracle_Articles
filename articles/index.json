@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:bef6f94b63e2c52f6296e38ac4998f26269ab5869c68ba35ec1681a138205f28",
-  "total": 484,
+  "revision": "sha256:d662cbd54666e58339f155fa54e5b0c9478511847da4bfc0f1aacc49d484b3f4",
+  "total": 485,
   "articles": [
+    {
+      "slug": "debian-and-ubuntu-apt-flaw-lets-mitm-attackers-swap-verified-packages",
+      "file": "debian-and-ubuntu-apt-flaw-lets-mitm-attackers-swap-verified-packages.md",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "description": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "date": "2026-11-05",
+      "id": "debian-and-ubuntu-apt-flaw-lets-mitm-attackers-swap-verified-packages-2026-11-05",
+      "categories": [],
+      "tags": [
+        "root",
+        "debian",
+        "ubuntu",
+        "attackers",
+        "code",
+        "vulnerability",
+        "middle",
+        "swap",
+        "verified",
+        "packages"
+      ],
+      "url": "https://redoracle.com/News/debian-and-ubuntu-apt-flaw-lets-mitm-attackers-swap-verified-packages.html",
+      "image": "https://storage.googleapis.com/red_articles/debian-and-ubuntu-apt-flaw-lets-mitm-attackers-swap-verified-packages.avif",
+      "searchText": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root APT Flaw on Debian and Ubuntu Lets MitM Attackers Run Code as Root (CVE-2026-109518) At a glance Debian and Ubuntu's APT package manager is affected by a vulnerability (CVE-2026-109518) that allows man-in-the-middle attackers to swap verified packages and run code as root. What happened A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and Ubuntu 22.04 onward. Debian has released fixed versions of APT for the flaw, CVE-2026-109518. APT's developers, who call the flaw critical, say updates for Ubuntu and its Ubuntu Pro subscription service are being released. Ubuntu 14.04 users with Ubuntu Pro can already get one. Older releases, such as Debian 11 and Ubuntu 20.04, are not exposed by default, according to Ubuntu. But many user scripts may have turned on the retry setting, Acquire::Retries, on those releases anyway, APT's developers say. Debian's testing branch was still on the vulnerable version 3.3.5 at 14:58 UTC on November 4. For Debian 11, whose Debian long-term support ended on August 31, APT is not supported. Why it matters This vulnerability poses a significant risk as it allows attackers to gain root privileges on affected systems. Technical details Though not explicitly stated in all sources, it is mentioned in one verified source that this vulnerability can be chained with another one to achieve root privileges (CVE-2025-6018, CVE-2025-6019). What defenders should do No concrete actionable advice for defenders is mentioned in the available facts. What remains unknown No unresolved information is mentioned in the available facts that would materially change interpretation of the event. References 1. Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root, thehackernews.com 2. Debian's APT Affected By Man-In-The-Middle Attack For Arbitrary Code Execution As Root, phoronix.com 3. APT Package Manager Flaw Lets Man-in-the-Middle Attackers Run Code as Root on Debian, Ubuntu, finance.biggo.com 4. Ubuntu: root vulnerability via snapd, heise.de 5. Chaining two LPEs to get “root”: Most Linux distros vulnerable (CVE-2025-6018, CVE-2025-6019), helpnetsecurity.com 6. Linux vulnerability: Attackers gain root privileges, heise.de",
+      "readingTime": 2,
+      "contentHash": "sha256:02cab50b640954ff5be86974345cfa5a942b4b73ca942e1dd33261d89d9c1d67"
+    },
     {
       "slug": "binance-hack-one-compromised-laptop-can-cost-billions-in-crypto",
       "file": "binance-hack-one-compromised-laptop-can-cost-billions-in-crypto.md",
