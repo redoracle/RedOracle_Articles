@@ -6,7 +6,7 @@ tags: ["data", "federal", "pension", "fund", "publica", "cyberattack", "software
 schema-type: "NewsArticle"
 ---
 
-![Hackers appear to be blackmailing the federal government, and threatening to sell classified data](https://storage.googleapis.com/red_articles/diag-image-style-test.avif)
+![Hackers appear to be blackmailing the federal government, and threatening to sell classified data](https://storage.googleapis.com/red_articles/hackers-appear-to-be-blackmailing-the-federal-government-and.avif)
 
 # Hackers Blackmail Swiss Federal Government After Data Breach
 

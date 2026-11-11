@@ -6,7 +6,7 @@ tags: ["financial", "security", "institute", "data", "leaked", "personal", "hack
 schema-type: "NewsArticle"
 ---
 
-![Financial Security Institute suffers hacking attack, partial personal data leak](https://storage.googleapis.com/red_articles/diag-image-style-test.avif)
+![Financial Security Institute suffers hacking attack, partial personal data leak](https://storage.googleapis.com/red_articles/financial-security-institute-suffers-hacking-attack-partial-personal.avif)
 
 # Financial Security Institute Hit by Hacking Attack, Partial Personal Data Leak
 

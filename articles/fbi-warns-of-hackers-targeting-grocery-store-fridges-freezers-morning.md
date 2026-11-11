@@ -6,7 +6,7 @@ tags: ["hackers", "grocery", "refrigeration", "equipment", "store", "european", 
 schema-type: "NewsArticle"
 ---
 
-![FBI warns of hackers targeting grocery store fridges, freezers | Morning in America](https://storage.googleapis.com/red_articles/diag-image-style-test.avif)
+![FBI warns of hackers targeting grocery store fridges, freezers | Morning in America](https://storage.googleapis.com/red_articles/fbi-warns-of-hackers-targeting-grocery-store-fridges-freezers-morning.avif)
 
 # FBI Warns of Hackers Targeting Grocery Store Fridges, Freezers
 
