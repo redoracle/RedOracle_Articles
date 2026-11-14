@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:83929baa7eb154d4174e60d5e4028ba0b51e963d0b6a5b50f4c5d906777d188a",
-  "total": 496,
+  "revision": "sha256:9ae97904c141aa90961aca313c1f7cf17d7733f9b83fa2feb74d18b739bba660",
+  "total": 497,
   "articles": [
+    {
+      "slug": "cve-2026-123039-check-point-gateways-rooted-esxi-wiped",
+      "file": "cve-2026-123039-check-point-gateways-rooted-esxi-wiped.md",
+      "title": "CVE-2026-123039: Check Point Gateways Rooted, ESXi Wiped",
+      "description": "CVE-2026-123039: Check Point Gateways Rooted, ESXi Wiped",
+      "date": "2026-11-14",
+      "id": "cve-2026-123039-check-point-gateways-rooted-esxi-wiped-2026-11-14",
+      "categories": [],
+      "tags": [
+        "2026",
+        "check",
+        "point",
+        "gateways",
+        "attackers",
+        "123039",
+        "esxi",
+        "backdoor",
+        "attacks",
+        "started"
+      ],
+      "url": "https://redoracle.com/News/cve-2026-123039-check-point-gateways-rooted-esxi-wiped.html",
+      "image": "https://storage.googleapis.com/red_articles/cve-2026-123039-check-point-gateways-rooted-esxi-wiped.avif",
+      "searchText": "CVE-2026-123039: Check Point Gateways Rooted, ESXi Wiped At a glance CVE‑2026‑123039 is a high‑severity privilege‑escalation flaw that grants attackers root access on unpatched Check Point Security Gateways [1][7]. The vulnerability is chained with two PHP‑based remote‑code‑execution bugs, CVE‑2026‑109618 and CVE‑2026‑109619, collectively known as PHP2Shell, to obtain an initial foothold [3][4][5][6]. After gaining root, attackers deploy the TSGA backdoor and pivot to VMware ESXi hosts, where they launch the destroy v6 wiper, which recursively deletes data after an attempted zero‑fill [3][5][6]. Ransom‑style notes titled DREAM ANNEXATION.txt are left on compromised ESXi systems, suggesting a politically motivated motive [5][6]. CISA added CVE‑2026‑123039 to its Known Exploited Vulnerabilities catalog on November 13, 2026 [1]. Affected systems The flaw impacts Check Point Gaia OS‑based appliances, specifically the R81, R81.10, R81.20, R82, R82.10 and R82.20 releases of Security Gateways and Force firewalls, Management and Log Servers, Multi‑Domain servers, and Maestro orchestrators [1][2][5][7]. Spark firewalls and Smart‑1 Cloud are not affected [1][7]. The vulnerability is present on any gateway that exposes the Mobile Access portal to the internet and has not applied the required hotfix [2][5]. Vulnerability details The root cause lies in the dynamic server daemon, which creates a world‑writable socket at /tmp/dynamic socket without verifying the identity of connecting processes [1][7]. The socket permissions are set to 0777, allowing any local user to write arbitrary commands that the daemon executes as root [7]. Because the service does not authenticate the sender, an attacker who already has local code execution can send a single request to the socket and obtain full system privileges [7]. This is a classic local privilege‑escalation issue; remote exploitation requires a prior foothold, typically via PHP2Shell [2][7]. Exploitation status Attackers begin by exploiting CVE‑2026‑109618 and CVE‑2026‑109619 against internet‑facing Mobile Access portals, gaining code execution as the portal service account [3][4][5][6]. From there they leverage CVE‑2026‑123039 to escalate to root, install PHP webshells in the portal's template directory, and deploy the TSGA backdoor [3][4][5][6]. TSGA includes an embedded networking component called TSProxy that hides attacker traffic within legitimate appliance processes [3][5]. After establishing persistence, the attackers use the Gogo scanner to locate internal ESXi hosts, then connect via SSH using the vpxuser service account [3][5][6]. They deliver the destroy v6 wiper, which traverses target directories, overwrites files with zeros, and removes them [3][5][6]. The wiper's fast mode skips the overwrite step for speed [3]. On compromised ESXi hosts, the attackers drop the politically themed ransom note DREAM ANNEXATION.txt [5][6]. The campaign unfolded in two waves. The first wave, starting October 30, 2026, targeted Israeli organizations and included destructive activity [1][3][5]. A second wave on November 2, 2026 expanded to organizations across multiple countries and sectors, without a clear industry focus and without wiper deployment in every case [1][3][5]. Check Point reported that \"a couple of dozen customers\" were impacted [1][5][7]. Mitigation and detection Check Point released Jumbo Hotfix Accumulator updates that address CVE‑2026‑123039; protected releases begin with R82.20 Take 14, R82.10 Take 52, R82 Take 132, and R81.20 Take 174 [7]. Administrators should apply the appropriate hotfix immediately and verify that the DynamicCLI service is no longer reachable from untrusted networks. For temporary mitigation, the DynamicCLI service can be stopped and prevented from restarting with the commands: bash dbset process:dynamic server off dbset :save Disabling the service removes the ability to issue Dynamic CLI commands, so operational impact should be evaluated before implementation [7]. Detection guidance includes monitoring for the following indicators: Creation or modification of /tmp/dynamic socket with 0777 permissions. Unexpected PHP session files (e.g., upload progress pwn ) in portal temporary directories. Webshell files named zz .tpl or challenge render.tpl appearing in portal template folders. Network connections from the appliance to ESXi hosts on port 22 (SSH) originating from the vpxuser account. Presence of DREAM ANNEXATION.txt on ESXi datastores. Security teams should also review logs for repeated crashes of Apache or PHP processes on the Mobile Access portal, which may indicate exploitation attempts [4]. Applying the hotfix, restricting external access to Mobile Access portals, and enforcing least‑privilege principles for service accounts remain the most reliable defenses against this attack chain. References 1. CVE-2026-123039: Check Point Gateways Rooted, ESXi Wiped, cyberkendra.com 2. The firewall becomes the foothold: Attackers turn Check Point gateways against customers, csoonline.com 3. Check Point 0-day Exploited in PHP2Shell Attack to Deploy Malware and Wipe ESXi Files, cybersecuritynews.com 4. Unpatched Check Point Gateways Are Being Wiped exploiting PHP2Shell, securityaffairs.com 5. Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files, thehackernews.com 6. Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper, bleepingcomputer.com 7. CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access, cybersecuritynews.com Related articles - Critical PHP Bug Exposes Millions of Websites Worldwide - PHP2Shell: AI found the bug hiding in 70% of the web. Millions attacked. Patch now - PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws - CISA, security researchers confirm successful exploitation of PHP flaws - Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
+      "readingTime": 4,
+      "contentHash": "sha256:816034179f8ed748da9b7d3cecf4d9e9b06e5ca865542b561210d2e4b664ad5c"
+    },
     {
       "slug": "microsoft-confirms-outlook-outage-across-the-americas-potentially-the",
       "file": "microsoft-confirms-outlook-outage-across-the-americas-potentially-the.md",
