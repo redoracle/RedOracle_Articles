@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:b84da8365b2bd556dec2c96641fa30547a030bd4b345392290b7b4c870465754",
-  "total": 499,
+  "revision": "sha256:653931eee149f1ee46311d12cde64ddb6d201665c5458f8bc3d84a26311a8a87",
+  "total": 500,
   "articles": [
+    {
+      "slug": "google-exposes-first-fully-automated-ai-cyberattack-by-russian-speaking",
+      "file": "google-exposes-first-fully-automated-ai-cyberattack-by-russian-speaking.md",
+      "title": "Google exposes first fully automated AI cyberattack by Russian-speaking hackers",
+      "description": "Google exposes first fully automated AI cyberattack by Russian-speaking hackers",
+      "date": "2026-11-17",
+      "id": "google-exposes-first-fully-automated-ai-cyberattack-by-russian-speaking-2026-11-17",
+      "categories": [],
+      "tags": [
+        "google",
+        "hackers",
+        "automated",
+        "russian",
+        "first",
+        "cyberattack",
+        "fully",
+        "speaking",
+        "says",
+        "agents"
+      ],
+      "url": "https://redoracle.com/News/google-exposes-first-fully-automated-ai-cyberattack-by-russian-speaking.html",
+      "image": "https://storage.googleapis.com/red_articles/google-exposes-first-fully-automated-ai-cyberattack-by-russian-speaking.avif",
+      "searchText": "Google exposes first fully automated AI cyberattack by Russian-speaking hackers Google Exposes First Fully Automated AI Cyberattack by Russian-Speaking Hackers At a glance Google has uncovered the first confirmed case of hackers using artificial intelligence to find and exploit software flaws completely on their own. In a new report published by Google's Threat Intelligence Group (GTIG), researchers revealed that Russian-speaking cybercriminals built an autonomous AI system capable of launching cyberattacks without any human supervision. What happened Investigators discovered the operation on an exposed server running a custom framework named \"exploit agent.\" Connected to multiple large language models, this tool continuously scans popular web software before and after security updates are released. By comparing the code changes, the AI automatically spots hidden weaknesses, writes working attack code, and breaks into vulnerable websites. Why it matters Evidence from the server (including stolen victim data and Russian-language setup notes) shows the campaign was actively hitting real targets rather than just running tests. The automated attacks primarily targeted French websites across the media, entertainment, and education sectors. While the configuration comments were written in Russian, Google noted there is no proof the Russian government directed the operation. Technical details Previously, AI only assisted hackers with basic tasks like writing phishing emails. Now, AI agents are running the entire attack cycle. However, Google experts note a major catch: these automated tools prioritize raw speed over stealth. Because the AI works so aggressively and rapidly, it leaves behind obvious digital footprints, giving security teams a clear trail to detect and block the intrusions. What defenders should do Google warned that these automated workflows give organizations less time to apply security patches before attackers develop ways to exploit vulnerable systems. Defenders should prioritize rapid patching and implement robust intrusion detection systems to counter the threat of AI-driven cyberattacks. What remains unknown Concrete unresolved items include the identity of the threat actors, the full scope of the campaign, and whether other AI-driven cyberattacks have gone undetected. As AI technology continues to evolve, the cybersecurity landscape is likely to see more sophisticated and automated threats, making it crucial for defenders to stay vigilant and adapt their strategies accordingly. References 1. Google exposes first fully automated AI cyberattack by Russian-speaking hackers, jang.com.pk 2. Google says hackers use AI agents to find and exploit software flaws, cointelegraph.com 3. AI-automated software exploitation leaves organizations less time to patch, en.cryptonomist.ch 4. Google says Russian speakers pulled off first-ever fully automated AI cyberattack, politico.eu 5. Google says Russian-speaking hackers carried out first fully automated AI cyberattack, hromadske.ua 6. Google says Russian-speaking hackers ran the first fully automated AI cyberattack, cyberscoop.com 7. Russians Carried Out the First Autonomous AI Cyberattack, According to Google, militarnyi.com 8. Russian speaking hackers unleash a new wave of AI cyber attacks, Google warns, marca.com Related articles - PHP2Shell: AI found the bug hiding in 70% of the web. Millions attacked. Patch now - ShinyHunters Bypass WAF Rules to Resume Oracle PeopleSoft Attacks - Scheme alert: iPhone users may be hacked by scrolling past ad or visiting legitimate websites - ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says - Latest Pixel security update lists 110 flaws including one you need to have patched now",
+      "readingTime": 3,
+      "contentHash": "sha256:2865c0b6098e20e036a8ac22d97aa71401b81ce3898adb137d001559a9df9437"
+    },
     {
       "slug": "microsoft-365-phishing-alert-2026-hackers-send-fake-outage-emails-warn",
       "file": "microsoft-365-phishing-alert-2026-hackers-send-fake-outage-emails-warn.md",
