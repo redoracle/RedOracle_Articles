@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:9c8b4c755ce5385ce1d45f058fba245ef17df7f58704f04ec0f362c599977f26",
-  "total": 504,
+  "revision": "sha256:73f4ca411fbc73b1623c2e855f3d485b311e5e872714583719e0944566ba05f4",
+  "total": 505,
   "articles": [
+    {
+      "slug": "ai-agents-exploit-zero-day-vulnerability-in-university-cyberattack",
+      "file": "ai-agents-exploit-zero-day-vulnerability-in-university-cyberattack.md",
+      "title": "AI agents exploit zero-day vulnerability in university cyberattack",
+      "description": "AI agents exploit zero-day vulnerability in university cyberattack",
+      "date": "2026-11-23",
+      "id": "ai-agents-exploit-zero-day-vulnerability-in-university-cyberattack-2026-11-23",
+      "categories": [],
+      "tags": [
+        "agents",
+        "zero",
+        "vulnerability",
+        "monai",
+        "label",
+        "exploited",
+        "amazon",
+        "says",
+        "hackers",
+        "find"
+      ],
+      "url": "https://redoracle.com/News/ai-agents-exploit-zero-day-vulnerability-in-university-cyberattack.html",
+      "image": "https://storage.googleapis.com/red_articles/ai-agents-exploit-zero-day-vulnerability-in-university-cyberattack.avif",
+      "searchText": "AI agents exploit zero-day vulnerability in university cyberattack AI Agents Exploit Zero-Day Vulnerability in University Cyberattack At a glance Amazon has reported a significant cybersecurity incident involving the exploitation of a zero-day vulnerability in MONAI Label, an open-source medical imaging application. Attackers, suspected to be linked to China, utilized autonomous AI agents to discover and exploit this flaw, gaining root access to a university server in the process. The vulnerability, identified as CVE-2026-133968, remains unpatched as of the time of reporting. Affected systems The primary system affected by this vulnerability is MONAI Label, which is widely used in the medical research community for labeling and analyzing medical images. The exploitation of this vulnerability allowed attackers to gain unauthorized access to university servers hosting this application. Vulnerability details The vulnerability in question is a path traversal flaw in MONAI Label's /datastore/image endpoint. This flaw allows an unauthenticated client to write files outside the designated datastore directory, potentially leading to arbitrary code execution. The vulnerability was exploited by AI agents running on the Cairn framework, which is designed for automated penetration testing. Exploitation status According to Amazon's threat intelligence team, the exploitation of this vulnerability began on September 8, 2026, and continued for approximately 48 hours. The attackers were able to gain root access to at least one university server during this period. As of November 21, 2026, there is no patched release available for MONAI Label, leaving many systems potentially vulnerable to similar attacks. Mitigation and detection To mitigate the risk of exploitation, Amazon recommends that users of MONAI Label restrict network access to the application, enable authentication, and limit permissions. Additionally, administrators should monitor their systems for signs of unauthorized access or file modifications. Detection can be challenging, as the AI agents used in this attack are designed to evade traditional security measures. This incident highlights the growing threat of AI-powered cyberattacks and the need for proactive security measures to protect against such sophisticated threats. The exploitation of a zero-day vulnerability in a widely-used medical application underscores the importance of timely patching and robust security practices in all sectors, particularly those handling sensitive data. References 1. Amazon Says Hackers’ AI Agents Found a Zero-Day in 11 Minutes, hacked.com 2. China-linked hackers used AI agents to exploit a MONAI Label zero-day, Amazon says, startupfortune.com 3. AI Agents Find Zero-Day in Medical-Imaging Software, Attackers Gain Root on University Server, news.lavx.hu 4. Attackers' AI Agents Exploit MONAI Label Zero-Day for Root Access, letsdatascience.com 5. Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day, securityweek.com 6. AI agents find and exploit zero-day in university server, Amazon says, news.lavx.hu",
+      "readingTime": 2,
+      "contentHash": "sha256:f694b94cbdd37326ed4d98c08e532d7f9236b480aaab5b5b2a019de9a754e631"
+    },
     {
       "slug": "fbi-probes-second-cyberattack-this-year-as-hackers-breach-key-crime",
       "file": "fbi-probes-second-cyberattack-this-year-as-hackers-breach-key-crime.md",
