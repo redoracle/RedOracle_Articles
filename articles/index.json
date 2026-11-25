@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:e099a4ae48e4be2f0fd5f1a4cec53179d58ef3c617c25e371cc62207ed9dc649",
-  "total": 506,
+  "revision": "sha256:81cd02e6b6192eabbea79df51f564334140b24639ff604e0257ce9675ceb7376",
+  "total": 507,
   "articles": [
+    {
+      "slug": "cia-hacked-in-cybersecurity-breech-heres-what-was-impacted",
+      "file": "cia-hacked-in-cybersecurity-breech-heres-what-was-impacted.md",
+      "title": "CIA hacked in cybersecurity breech: Here's what was impacted",
+      "description": "CIA hacked in cybersecurity breech: Here's what was impacted",
+      "date": "2026-11-25",
+      "id": "cia-hacked-in-cybersecurity-breech-heres-what-was-impacted-2026-11-25",
+      "categories": [],
+      "tags": [
+        "intelligence",
+        "information",
+        "officials",
+        "breach",
+        "agencies",
+        "cyberattack",
+        "data",
+        "affected",
+        "national",
+        "system"
+      ],
+      "url": "https://redoracle.com/News/cia-hacked-in-cybersecurity-breech-heres-what-was-impacted.html",
+      "image": "https://storage.googleapis.com/red_articles/cia-hacked-in-cybersecurity-breech-heres-what-was-impacted.avif",
+      "searchText": "CIA hacked in cybersecurity breech: Here's what was impacted Cybersecurity breach of US intelligence agencies via open-source intelligence system At a glance A recent cybersecurity breach impacted at least three United States intelligence agencies: the Central Intelligence Agency (CIA), the National Geospatial-Intelligence Agency (NGA), and the Office of the Director of National Intelligence (ODNI) [2, 3]. What happened The breach specifically targeted an open-source intelligence analysis system. This system is used by the affected agencies to examine publicly available information to derive intelligence insights [2, 3]. The details of this incident have been reported by The New York Times, which cited information from US officials and individuals familiar with the matter [2, 3]. Confirmed impact Some unclassified information was exposed during the incident [2, 3]. However, the full extent of the compromised data is not yet clear [2, 3]. In response to inquiries, the CIA declined to comment, and the NGA did not respond to requests for comment. An official from the ODNI stated that the incident did not disrupt any critical capabilities of the agency [1]. How the attack worked Investigators suspect that the intrusion involved an artificial intelligence (AI) powered hacking tool known as Artex [2, 3]. Artex was developed by a Chinese engineer and was publicly released in July [1]. While this tool is suspected, investigators have not yet identified those responsible for the breach [2, 3]. What remains unknown The complete scope of the data compromise is still unclear, beyond the confirmation that some unclassified information was exposed [2, 3]. Furthermore, while the AI-powered hacking tool Artex is suspected to have been involved in the intrusion, the specific individuals or groups responsible for the attack have not yet been identified by investigators [2, 3]. References 1. CIA Hacked: US Spy Agencies Face AI Cyberattack As Artex Tool Raises China Fears, outlookindia.com 2. Cyberattack on Pennsylvania courts didn't appear to compromise data, officials say, triblive.com 3. China link in CIA data breach? How hackers used AI tool to expose unclassified information - report, inkl.com",
+      "readingTime": 2,
+      "contentHash": "sha256:050b1286d046829ccc999f56c7767108fc4ce448c2aeb90a466880302e22e359"
+    },
     {
       "slug": "hackers-actively-exploiting-cisco-expressway-vulnerability-to-gain-full",
       "file": "hackers-actively-exploiting-cisco-expressway-vulnerability-to-gain-full.md",
