@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:81cd02e6b6192eabbea79df51f564334140b24639ff604e0257ce9675ceb7376",
-  "total": 507,
+  "revision": "sha256:f1da188b0ae13043c729d5f9efa672cb42545662cd5f3254a9a406db233ffac1",
+  "total": 508,
   "articles": [
+    {
+      "slug": "hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still",
+      "file": "hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still.md",
+      "title": "Hackers Breached U.S. Intelligence Agencies With a Tool Anyone Can Still Find Online",
+      "description": "Hackers Breached U.S. Intelligence Agencies With a Tool Anyone Can Still Find Online",
+      "date": "2026-11-26",
+      "id": "hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still-2026-11-26",
+      "categories": [],
+      "tags": [
+        "tool",
+        "agencies",
+        "artex",
+        "hackers",
+        "breach",
+        "cyberattack",
+        "article",
+        "provides",
+        "intelligence",
+        "data"
+      ],
+      "url": "https://redoracle.com/News/hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still.html",
+      "image": "https://storage.googleapis.com/red_articles/hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still.avif",
+      "searchText": "Hackers Breached U.S. Intelligence Agencies With a Tool Anyone Can Still Find Online Hackers Breached U.S. Intelligence Agencies With a Tool Anyone Can Still Find Online At a glance Hackers have successfully breached multiple U.S. intelligence agencies using a tool known as ARTEX, which remains publicly available online. The tool, developed by a Chinese engineer, has been linked to numerous cyberattacks worldwide. What happened In a significant cybersecurity incident, hackers infiltrated the systems of at least three U.S. intelligence agencies, including the Central Intelligence Agency (CIA), the National Geospatial-Intelligence Agency (NGA), and the Office of the Director of National Intelligence (ODNI). The breach exposed unclassified intelligence data, although classified information remained unaffected. Investigators suspect the use of ARTEX, an AI-powered hacking tool developed by a Chinese engineer and made publicly available in July. The tool, originally designed to strengthen cyber defenses, has been adapted by hackers for offensive purposes. Why it matters This breach highlights the vulnerability of U.S. intelligence agencies to cyberattacks, particularly those involving advanced tools like ARTEX. The incident raises concerns about the security of government networks and the potential for future breaches. Technical details ARTEX is an AI-powered hacking tool that automates the process of identifying and exploiting vulnerabilities in computer systems. Its public availability makes it accessible to both legitimate security researchers and malicious actors. The tool's use in this breach demonstrates the growing sophistication of cyber threats and the need for enhanced cybersecurity measures to protect sensitive government data. This article provides a comprehensive overview of the cybersecurity incident involving U.S. intelligence agencies and the ARTEX hacking tool. It includes details on the breach, the tool used, and the implications for government cybersecurity. References 1. Hackers breach CIA system in possible ARTEX cyberattack and leak unclassified data, techradar.com 2. CIA Hacked: US Spy Agencies Face AI Cyberattack As Artex Tool Raises China Fears, outlookindia.com 3. China suspected in AI-powered cyberattack on CIA and US intelligence agencies, ynetnews.com Related articles - Cybersecurity Conflict China Accuses US of Advanced Attacks - Cyber Warfare Alert Pro-Iranian Hack Threats Surge - Cryptocurrency Exchange Cyber Attack Nobitex Breach - Uncovering Batavia Russian Cyber Espionage Revealed - Nvidia's H20 Export License Win Sparks Debate and Growth",
+      "readingTime": 2,
+      "contentHash": "sha256:c0517477ad153ed1760881adc19794874831bcc7850f0898f8747e841b8c6594"
+    },
     {
       "slug": "cia-hacked-in-cybersecurity-breech-heres-what-was-impacted",
       "file": "cia-hacked-in-cybersecurity-breech-heres-what-was-impacted.md",
