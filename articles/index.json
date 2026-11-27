@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:f1da188b0ae13043c729d5f9efa672cb42545662cd5f3254a9a406db233ffac1",
-  "total": 508,
+  "revision": "sha256:bbac274aa3123d79c7494d275af88953a44885ff62f205cb66498f903e6fa4e4",
+  "total": 509,
   "articles": [
+    {
+      "slug": "drupal-warns-of-active-attacks-exploiting-new-critical-website-takeover",
+      "file": "drupal-warns-of-active-attacks-exploiting-new-critical-website-takeover.md",
+      "title": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
+      "description": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
+      "date": "2026-11-27",
+      "id": "drupal-warns-of-active-attacks-exploiting-new-critical-website-takeover-2026-11-27",
+      "categories": [],
+      "tags": [
+        "2026",
+        "136716",
+        "drupal",
+        "critical",
+        "takeover",
+        "active",
+        "website",
+        "vulnerability",
+        "attackers",
+        "warned"
+      ],
+      "url": "https://redoracle.com/News/drupal-warns-of-active-attacks-exploiting-new-critical-website-takeover.html",
+      "image": "https://storage.googleapis.com/red_articles/drupal-warns-of-active-attacks-exploiting-new-critical-website-takeover.avif",
+      "searchText": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability At a glance Drupal has warned that attackers are actively exploiting CVE-2026-136716, a highly critical access bypass vulnerability that can allow them to take over vulnerable websites without signing in. The Drupal Security Team confirmed the attacks in its November 25 security advisory and released updates for three supported Drupal core branches. The team did not disclose how many sites had been compromised. The flaw affects the installer that ships with Drupal core. Sites that had already secured the installer are not vulnerable, Drupal says. However, some sites in unusual or incomplete installation states, including live production sites, remained exposed even after applying the previous installer fixes. Drupal rated the flaw 21 out of 25. A successful attack can expose private site data and allow attackers to change or delete it. What happened Drupal's November 18 security advisory addressed several installer flaws, including a separate remote code execution vulnerability, CVE-2026-132165. As Cybersecurity News reported in its coverage of the earlier Drupal installer attacks, attackers were already targeting live sites. The November 25 advisory covers a different flaw that leaves some sites open to takeover despite the earlier fixes. This distinction is important when reading Cybersecurity News Month 2026. Why it matters Drupal is a popular content management system used by millions of websites worldwide. The vulnerability could potentially affect any Drupal site that has not yet applied the latest security updates. This could lead to a significant number of websites being compromised, with attackers able to access sensitive data and take control of the sites. Technical details The vulnerability, CVE-2026-136716, is an access bypass flaw that allows attackers to take over vulnerable websites without signing in. The flaw affects the installer that ships with Drupal core. Sites that had already secured the installer are not vulnerable, Drupal says. However, some sites in unusual or incomplete installation states, including live production sites, remained exposed even after applying the previous installer fixes. Drupal rated the flaw 21 out of 25. A successful attack can expose private site data and allow attackers to change or delete it. What defenders should do Drupal has released updates for three supported Drupal core branches to address the vulnerability. Administrators should install the appropriate update and run the update hook through update.php, rather than assuming that replacing the files alone completes the remediation. The issue does not mean every Drupal installation is vulnerable. Drupal says sites whose installer was already secured are not affected. What remains unknown The Drupal Security Team did not disclose how many sites had been compromised. It is also unclear how long the vulnerability has been exploited in the wild. Drupal has not provided any information on the impact of the attacks or the number of sites affected. References 1. Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability, cybersecuritynews.com 2. UniFi CVSS 10.0 Flaw Exposes 100,000 Endpoints to Unauthenticated Takeover, techtimes.com 3. Drupal Warns of New Critical Flaw Exploited in the Wild, securityaffairs.com 4. Drupal Warns New Installer Flaw Is Being Exploited After Earlier Patch, techbooky.com 5. Drupal Installer Patch Left a Gap Attackers Are Already Exploiting, securityweek.com",
+      "readingTime": 3,
+      "contentHash": "sha256:28f6229dd50a96627f6dd89cf4d425abbcc8ac0ccb95db778551655c4b402b0e"
+    },
     {
       "slug": "hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still",
       "file": "hackers-breached-us-intelligence-agencies-with-a-tool-anyone-can-still.md",
