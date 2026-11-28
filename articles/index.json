@@ -1,9 +1,35 @@
 {
   "schemaVersion": 1,
   "source": "https://redoracle.com",
-  "revision": "sha256:d2661e2a8889fd6991a53b9ce2d5245d5d088a10f82ee291d4a1c8b860617c1a",
-  "total": 510,
+  "revision": "sha256:9ab109d9259060d2dca183a17bf87eaa72183a622d70addc99ffd8e0b231781b",
+  "total": 511,
   "articles": [
+    {
+      "slug": "software-giant-sap-confirms-cyber-incident-amid-reports-of-source-code",
+      "file": "software-giant-sap-confirms-cyber-incident-amid-reports-of-source-code.md",
+      "title": "Software giant SAP confirms cyber incident amid reports of source code breach",
+      "description": "Software giant SAP confirms cyber incident amid reports of source code breach",
+      "date": "2026-11-28",
+      "id": "software-giant-sap-confirms-cyber-incident-amid-reports-of-source-code-2026-11-28",
+      "categories": [],
+      "tags": [
+        "incident",
+        "code",
+        "access",
+        "github",
+        "software",
+        "customer",
+        "hackers",
+        "internal",
+        "project",
+        "granite"
+      ],
+      "url": "https://redoracle.com/News/software-giant-sap-confirms-cyber-incident-amid-reports-of-source-code.html",
+      "image": "https://storage.googleapis.com/red_articles/software-giant-sap-confirms-cyber-incident-amid-reports-of-source-code.avif",
+      "searchText": "Software giant SAP confirms cyber incident amid reports of source code breach SAP Confirms Cyber Incident Involving GitHub Access and Source Code At a glance SAP recently confirmed a cybersecurity incident following reports that attackers infiltrated its development infrastructure and gained access to source code [1]. The intrusion targeted the GitHub repositories used by SAP, where attackers reportedly acquired authentication tokens belonging to employees [1]. This access allowed them to copy and modify source code [1]. In response, the German software giant launched an internal incident response operation code named \"Project Granite\" to contain and investigate the fallout [1]. So far, investigators have found no evidence of unauthorized access to customer business data [1]. The incident, first reported by the German magazine Der Spiegel, surfaced through internal communications and sources close to the matter [1]. As Europe's largest software provider, based in Walldorf, SAP supports critical operations (such as accounting, supply chains, and human resources) for major corporations and government agencies globally [1], [3]. This breach highlights the growing risks facing modern software supply chains, where developer environments are increasingly targeted by sophisticated campaigns [4]. What happened Upon detecting suspicious activity, SAP took immediate action to protect its systems and ensure service integrity [3]. In a statement to Recorded Future News, the company confirmed that it implemented containment measures, although it did not share specific details about the nature of the breach [1]. The response operation, code named \"Project Granite,\" disrupted several development teams across the organization [1]. Security personnel restricted access to GitHub, suspended automated builds, and began replacing the digital keys used to sign and verify software [1]. This key rotation is an expensive operational task: every build pipeline relying on the old signatures must be updated before new releases can go out, halting continuous integration workflows and forcing engineers to manually validate new chains of trust. The German Press Agency, which reviewed internal SAP communications, reported that the company warned employees about the GitHub issue several days before it went public [1]. Staff were advised to review their credentials and take extra precautions [1]. An internal memo cited by Der Spiegel described the crisis as active, indicating a highly fluid situation as the news broke [2]. SAP soon published a formal confirmation of the incident, stating that investigators had found no evidence of intrusion into customer databases at that stage [5]. Further reporting from Der Spiegel suggests the attackers stole employee authentication tokens to bypass perimeter controls [1]. An insider told the magazine that these credentials enabled the attackers to copy and alter files directly within the repository [5]. While SAP acknowledged the suspicious activity, it has not officially confirmed whether code was modified or stolen [4]. The company has also remained silent on the identity of the perpetrators, their initial entry vector, and whether the threat is fully contained [1]. When pressed for details, representatives declined to answer specific questions [2]. This incident follows a separate supply chain exploit in April, where attackers injected malicious code into several open source packages managed by SAP to harvest sensitive data [1]. This pattern emphasizes the persistent interest threat actors have in development infrastructure. When a vendor distributes both proprietary enterprise software and public packages, securing the boundary between them demands strict repository access controls, automated token rotation, and continuous monitoring of code commits. Confirmed impact While the intrusion into development infrastructure is significant, SAP maintains that customer business databases remain untouched [1]. \"Based on our investigation to date, we have found no evidence of unauthorized access to customer business data,\" the company announced [1]. SAP added that it is working to further strengthen its security and resilience [1]. Reports from Reuters on November 27 echoed this sentiment, confirming that investigators had found no signs References 1. therecord.media, therecord.media 2. SAP Confirms Security Incident as Hackers Reportedly Steal GitHub Tokens and Alter Code, cybersecuritynews.com 3. SAP Hit by Cyberattack as Hackers Reportedly Steal GitHub Credentials and Alter Source Code, financefeeds.com 4. SAP Confirms Cyberattack After Hackers Allegedly Used Stolen Employee Tokens to Access Source Code, dawan.africa 5. SAP confirms security incident after reported GitHub breach, thenextweb.com 6. SAP confirms security incident after suspicious GitHub activity, bleepingcomputer.com 7. SAP Confirms Security Incident, Sees No Customer Data ..., cxtoday.com Related articles - CVE-2026-123039: Check Point Gateways Rooted, ESXi Wiped - Hackers Exploit AhsayCBS Vulnerabilities to Hide Malware in PNG Images and Deploy Stealthy Backdoors - “Sextortion Narratives Debunking Webcam Extortion Claims and Strengthening Defenses” - Random meeting and event invites on your calendar could be a phishing attack. Here’s how to stay safe - Microsoft 365 phishing alert 2026: Hackers send fake outage emails, warn users of 24-hour deadline",
+      "readingTime": 4,
+      "contentHash": "sha256:d41af237f83aa4315c2494f6f38cfe5d76ae2bed09169afc3890d8f36a0196a3"
+    },
     {
       "slug": "1password-hacked-what-is-confirmed-what-is-phishing-and-what-to-do-on",
       "file": "1password-hacked-what-is-confirmed-what-is-phishing-and-what-to-do-on.md",
